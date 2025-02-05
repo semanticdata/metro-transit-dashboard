@@ -17,17 +17,25 @@
     var map = L.map('map').setView([44.9778, -93.2650], 11);
 
     // Debug: Check if vehicles are available
-    // console.log("Vehicles data:", {{ vehicles|tojson }});
+    console.log("Vehicles data:", {{ vehicles|tojson }});
 
     // Add OpenStreetMap tiles
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '© OpenStreetMap contributors'
     }).addTo(map);
 
+    // Define a custom icon for vehicles
+    var vehicleIcon = L.icon({
+        // iconUrl: './icon.png', // Replace with the path to your vehicle icon image
+        iconUrl: 'https://miguelpimentel.do/apple-touch-icon.png', // Replace with the path to your vehicle icon image
+        iconSize: [32, 32], // Size of the icon
+        iconAnchor: [16, 32], // Point of the icon which will correspond to marker's location
+        popupAnchor: [0, -32] // Point from which the popup should open relative to the iconAnchor
+    });
+
     // Add vehicle markers
     {% for vehicle in vehicles %}
-    // Use latitude and longitude directly from the vehicle object
-    L.marker([{{ vehicle.latitude }}, {{ vehicle.longitude }}])
+    L.marker([{{ vehicle.latitude }}, {{ vehicle.longitude }}], { icon: vehicleIcon })
         .bindPopup("Vehicle ID: {{ vehicle.vehicle_id }}<br>Route: {{ vehicle.route_id }}")
         .addTo(map);
     {% endfor %}
