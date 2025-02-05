@@ -1,9 +1,12 @@
 {% extends "base.html" %}
 
+{% block title %}Service Alerts - Metro Transit Dashboard{% endblock %}
+
 {% block content %}
 <div class="container mt-4">
     <h1 class="mb-4">Metro Transit Service Alerts</h1>
     <div class="refresh-time mb-3">
+
         Last updated: {{ alerts[0].timestamp if alerts else 'N/A' }}
         <button class="btn btn-sm btn-primary ms-2" onclick="location.reload()">Refresh</button>
     </div>

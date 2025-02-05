@@ -1,49 +1,51 @@
 {% extends "base.html" %}
 
+{% block title %}Metro Transit Dashboard{% endblock %}
+
 {% block content %}
-    <div class="container mt-4">
-        <h1 class="text-center mb-4">Metro Transit Dashboard</h1>
+<div class="container mt-4">
+    <h1 class="text-center mb-4">Metro Transit Dashboard</h1>
 
-        <div class="row">
-            <div class="col-md-4 mb-4">
-                <div class="card dashboard-card h-100">
-                    <div class="card-body">
-                        <h5 class="card-title">Trip Updates</h5>
-                        <p class="card-text">View real-time trip updates and schedule changes.</p>
-                        <a href="/trip-updates" class="btn btn-primary">View Updates</a>
-                    </div>
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card dashboard-card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Trip Updates</h5>
+                    <p class="card-text">View real-time trip updates and schedule changes.</p>
+                    <a href="/trip-updates" class="btn btn-primary">View Updates</a>
                 </div>
             </div>
+        </div>
 
-            <div class="col-md-4 mb-4">
-                <div class="card dashboard-card h-100">
-                    <div class="card-body">
-                        <h5 class="card-title">Service Alerts</h5>
-                        <p class="card-text">Check current service alerts and disruptions.</p>
-                        <a href="/service-alerts" class="btn btn-primary">View Alerts</a>
-                    </div>
+        <div class="col-md-4 mb-4">
+            <div class="card dashboard-card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Service Alerts</h5>
+                    <p class="card-text">Check current service alerts and disruptions.</p>
+                    <a href="/service-alerts" class="btn btn-primary">View Alerts</a>
                 </div>
             </div>
+        </div>
 
-            <div class="col-md-4 mb-4">
-                <div class="card dashboard-card h-100">
-                    <div class="card-body">
-                        <h5 class="card-title">Vehicle Positions</h5>
-                        <p class="card-text">Check current vehicle positions.</p>
-                        <a href="/vehicle-positions" class="btn btn-primary">View Positions</a>
-                    </div>
+        <div class="col-md-4 mb-4">
+            <div class="card dashboard-card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Vehicle Positions</h5>
+                    <p class="card-text">Check current vehicle positions.</p>
+                    <a href="/vehicle-positions" class="btn btn-primary">View Positions</a>
                 </div>
             </div>
+        </div>
 
-            <div class="col-md-4 mb-4">
-                <div class="card dashboard-card h-100">
-                    <div class="card-body">
-                        <h5 class="card-title">Routes</h5>
-                        <p class="card-text">Browse available routes and stops information.</p>
-                        <a href="/routes" class="btn btn-primary">View Routes</a>
-                    </div>
+        <div class="col-md-4 mb-4">
+            <div class="card dashboard-card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Routes</h5>
+                    <p class="card-text">Browse available routes and stops information.</p>
+                    <a href="/routes" class="btn btn-primary">View Routes</a>
                 </div>
             </div>
         </div>
     </div>
+</div>
 {% endblock %}
