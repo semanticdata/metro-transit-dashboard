@@ -16,6 +16,9 @@
     // Initialize the map centered on Minneapolis/St. Paul
     var map = L.map('map').setView([44.9778, -93.2650], 11);
 
+    // Debug: Check if vehicles are available
+    // console.log("Vehicles data:", {{ vehicles|tojson }});
+
     // Add OpenStreetMap tiles
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '© OpenStreetMap contributors'
@@ -23,11 +26,10 @@
 
     // Add vehicle markers
     {% for vehicle in vehicles %}
-    {% if vehicle.position is defined %}
-    L.marker([{{ vehicle.position.latitude }}, {{ vehicle.position.longitude }}])
-        .bindPopup("Vehicle ID: {{ vehicle.vehicle.id }}<br>Route: {{ vehicle.trip.route_id }}")
+    // Use latitude and longitude directly from the vehicle object
+    L.marker([{{ vehicle.latitude }}, {{ vehicle.longitude }}])
+        .bindPopup("Vehicle ID: {{ vehicle.vehicle_id }}<br>Route: {{ vehicle.route_id }}")
         .addTo(map);
-    {% endif %}
     {% endfor %}
 </script>
 {% endblock %}
