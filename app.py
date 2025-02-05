@@ -17,21 +17,28 @@ def index():
 def trip_updates():
     """Trip updates page"""
     updates = get_trip_updates()
-    return render_template('dashboard-trip-updates.html', updates=updates)
+    return render_template('trip-updates.html', updates=updates)
 
 
 @app.route('/service-alerts')
 def service_alerts():
     """Service alerts page"""
     alerts = fetch_service_alerts()
-    return render_template('dashboard-service-alerts.html', alerts=alerts)
+    return render_template('service-alerts.html', alerts=alerts)
 
 
 @app.route('/vehicle-positions')
 def vehicle_positions():
     """Vehicle positions page"""
     vehicles = fetch_vehicle_positions()
-    return render_template('dashboard-vehicle-positions.html', vehicles=vehicles)
+    return render_template('vehicle-positions.html', vehicles=vehicles)
+
+
+@app.route('/map')
+def map_view():
+    """Interactive map showing current vehicle positions"""
+    vehicles = fetch_vehicle_positions()
+    return render_template('map.html', vehicles=vehicles)
 
 
 @app.route('/routes')
@@ -39,7 +46,7 @@ def routes():
     """Routes information page"""
     api = MetroTransitAPI()
     routes_data = api.get_routes()
-    return render_template('dashboard-routes.html', routes=routes_data)
+    return render_template('routes.html', routes=routes_data)
 
 
 if __name__ == "__main__":

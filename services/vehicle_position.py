@@ -52,7 +52,7 @@ def fetch_vehicle_positions():
 @app.route('/')
 def dashboard():
     vehicles = fetch_vehicle_positions()
-    return render_template('dashboard-vehicle-positions.html', vehicles=vehicles)
+    return render_template('vehicle-positions.html', vehicles=vehicles)
 
 if __name__ == "__main__":
     app.run(debug=True)

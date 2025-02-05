@@ -57,7 +57,7 @@ def get_trip_updates():
 @app.route('/')
 def dashboard():
     updates = get_trip_updates()
-    return render_template('dashboard-trip-updates.html', updates=updates)
+    return render_template('trip-updates.html', updates=updates)
 
 if __name__ == "__main__":
     app.run(debug=True)

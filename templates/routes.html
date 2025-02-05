@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <h1 class="mb-4">Metro Transit Routes</h1>
+
+
+    <div class="row">
+        {% for route in routes %}
+        <div class="col-md-6 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Route {{ route.route_id }}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ route.route_label }}</h6>
+                    <p class="card-text">
+                        {% if route.description %}
+                        {{ route.description }}
+                        {% endif %}
+                    </p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

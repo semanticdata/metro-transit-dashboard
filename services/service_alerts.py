@@ -42,7 +42,7 @@ def fetch_service_alerts():
 @app.route('/')
 def dashboard():
     alerts = fetch_service_alerts()
-    return render_template('dashboard-service-alerts.html', alerts=alerts)
+    return render_template('service-alerts.html', alerts=alerts)
 
 if __name__ == "__main__":
     app.run(debug=True)
