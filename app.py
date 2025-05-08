@@ -167,8 +167,8 @@ def display_page(pathname):
                 mode="lines+markers",
                 lon=[stop["longitude"] for stop in stops_dir0],
                 lat=[stop["latitude"] for stop in stops_dir0],
-                marker={"size": 8, "color": "blue"},
-                line=dict(width=3, color="blue"),
+                marker={"size": 10, "color": "darkblue", "symbol": "circle"},
+                line=dict(width=3, color="royalblue"),
                 name="Blue Line Track (Northbound)",
                 text=[stop["description"] for stop in stops_dir0],
             )
