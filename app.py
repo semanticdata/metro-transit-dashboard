@@ -157,7 +157,7 @@ def display_page(pathname):
             hover_name="vehicle_id",
             hover_data=["route_id", "timestamp"],
             color_discrete_sequence=["blue"],
-            zoom=10,
+            zoom=11,
             height=600,
         )
         # Draw the Blue Line track using the static stops (direction 0 as default)
@@ -167,8 +167,8 @@ def display_page(pathname):
                 mode="lines+markers",
                 lon=[stop["longitude"] for stop in stops_dir0],
                 lat=[stop["latitude"] for stop in stops_dir0],
-                marker={"size": 8, "color": "gray"},
-                line=dict(width=3, color="gray"),
+                marker={"size": 8, "color": "blue"},
+                line=dict(width=3, color="blue"),
                 name="Blue Line Track (Northbound)",
                 text=[stop["description"] for stop in stops_dir0],
             )
@@ -181,8 +181,8 @@ def display_page(pathname):
                     mode="lines+markers",
                     lon=[stop["longitude"] for stop in stops_dir1],
                     lat=[stop["latitude"] for stop in stops_dir1],
-                    marker={"size": 8, "color": "lightgray"},
-                    line=dict(width=2, color="lightgray"),
+                    marker={"size": 8, "color": "blue"},
+                    line=dict(width=2, color="blue"),
                     name="Blue Line Track (Southbound)",
                     text=[stop["description"] for stop in stops_dir1],
                 )
@@ -228,7 +228,7 @@ def display_page(pathname):
             hover_name="vehicle_id",
             hover_data=["route_id", "timestamp"],
             color_discrete_sequence=["green"],
-            zoom=10,
+            zoom=12,
             height=600,
         )
         # Draw the Green Line track using the static stops (direction 0 as default)
@@ -238,8 +238,8 @@ def display_page(pathname):
                 mode="lines+markers",
                 lon=[stop["longitude"] for stop in stops_dir0],
                 lat=[stop["latitude"] for stop in stops_dir0],
-                marker={"size": 8, "color": "darkgreen"},
-                line=dict(width=3, color="darkgreen"),
+                marker={"size": 8, "color": "green"},
+                line=dict(width=3, color="green"),
                 name="Green Line Track (Eastbound)",
                 text=[stop["description"] for stop in stops_dir0],
             )
@@ -252,8 +252,8 @@ def display_page(pathname):
                     mode="lines+markers",
                     lon=[stop["longitude"] for stop in stops_dir1],
                     lat=[stop["latitude"] for stop in stops_dir1],
-                    marker={"size": 8, "color": "lightgreen"},
-                    line=dict(width=2, color="lightgreen"),
+                    marker={"size": 8, "color": "green"},
+                    line=dict(width=2, color="green"),
                     name="Green Line Track (Westbound)",
                     text=[stop["description"] for stop in stops_dir1],
                 )
