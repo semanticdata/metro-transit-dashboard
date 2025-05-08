@@ -1,5 +1,5 @@
 import dash
-from dash import html, dcc
+from dash import html, dcc, dash_table
 from dash.dependencies import Input, Output
 
 # Import data fetching functions from other modules
@@ -51,31 +51,82 @@ def display_page(pathname):
         return html.Div(
             [
                 html.H3("Trip Updates"),
-                html.Ul(
-                    [
-                        html.Li(
-                            f"{update['trip_id']} - Route: {update['route_id']} - Arrival: {update.get('arrival', update.get('departure', 'N/A'))}"
-                        )
-                        for update in updates
-                    ]
+                dash_table.DataTable(
+                    data=updates,
+                    columns=[
+                        {"name": "Trip ID", "id": "trip_id"},
+                        {"name": "Route", "id": "route_id"},
+                        {"name": "Schedule", "id": "schedule"},
+                        {"name": "Stop", "id": "stop_id"},
+                        {"name": "Arrival", "id": "arrival"},
+                        {"name": "Departure", "id": "departure"},
+                    ],
+                    style_header={
+                        "backgroundColor": "#0055A5",
+                        "color": "white",
+                        "fontWeight": "bold",
+                    },
+                    style_cell={
+                        "textAlign": "left",
+                        "padding": "10px",
+                        "whiteSpace": "normal",
+                        "height": "auto",
+                    },
+                    style_data_conditional=[
+                        {"if": {"row_index": "odd"}, "backgroundColor": "#f4f4f4"}
+                    ],
+                    sort_action="native",
+                    filter_action="native",
+                    # page_size=20,
                 ),
             ]
         )
     elif pathname == "/service-alerts":
         alerts = fetch_service_alerts()
-        # Support both old (header/description) and new (alert_text/stop_closed) alert formats
+        # Convert affected_routes list to string for display
+        for alert in alerts:
+            if "affected_routes" in alert:
+                alert["affected_routes"] = ", ".join(alert["affected_routes"])
         return html.Div(
             [
                 html.H3("Service Alerts"),
-                html.Ul(
-                    [
-                        html.Li(
-                            alert.get("alert_text")
-                            if "alert_text" in alert
-                            else f"{alert.get('header', 'N/A')}: {alert.get('description', 'N/A')}"
-                        )
-                        for alert in alerts
-                    ]
+                dash_table.DataTable(
+                    data=alerts,
+                    columns=[
+                        {"name": "ID", "id": "id"},
+                        {"name": "Header", "id": "header"},
+                        {"name": "Description", "id": "description"},
+                        {"name": "Effect", "id": "effect"},
+                        {"name": "Cause", "id": "cause"},
+                        {"name": "Affected Routes", "id": "affected_routes"},
+                        {"name": "Time", "id": "timestamp"},
+                    ],
+                    style_header={
+                        "backgroundColor": "#0055A5",
+                        "color": "white",
+                        "fontWeight": "bold",
+                    },
+                    style_cell={
+                        "textAlign": "left",
+                        "padding": "10px",
+                        "whiteSpace": "normal",
+                        "height": "auto",
+                        "minWidth": "100px",
+                        "maxWidth": "400px",
+                    },
+                    style_cell_conditional=[
+                        {"if": {"column_id": "description"}, "maxWidth": "400px"},
+                        {"if": {"column_id": "header"}, "maxWidth": "300px"},
+                        {"if": {"column_id": "effect"}, "maxWidth": "100px"},
+                        {"if": {"column_id": "cause"}, "maxWidth": "100px"},
+                        {"if": {"column_id": "id"}, "maxWidth": "100px"},
+                    ],
+                    style_data_conditional=[
+                        {"if": {"row_index": "odd"}, "backgroundColor": "#f4f4f4"}
+                    ],
+                    sort_action="native",
+                    filter_action="native",
+                    # page_size=10,
                 ),
             ]
         )
@@ -84,13 +135,43 @@ def display_page(pathname):
         return html.Div(
             [
                 html.H3("Vehicle Positions"),
-                html.Ul(
-                    [
-                        html.Li(
-                            f"Vehicle {vehicle.get('vehicle_id', 'N/A')} on route {vehicle.get('route_id', 'N/A')} at ({vehicle.get('latitude', 'N/A')}, {vehicle.get('longitude', 'N/A')}) at {vehicle.get('timestamp', 'N/A')}"
-                        )
-                        for vehicle in vehicles
-                    ]
+                dash_table.DataTable(
+                    data=vehicles,
+                    columns=[
+                        {"name": "Vehicle ID", "id": "vehicle_id"},
+                        {"name": "Route", "id": "route_id"},
+                        {
+                            "name": "Latitude",
+                            "id": "latitude",
+                            "type": "numeric",
+                            "format": {"specifier": ".6f"},
+                        },
+                        {
+                            "name": "Longitude",
+                            "id": "longitude",
+                            "type": "numeric",
+                            "format": {"specifier": ".6f"},
+                        },
+                        {"name": "Speed", "id": "speed"},
+                        {"name": "Last Updated", "id": "timestamp"},
+                    ],
+                    style_header={
+                        "backgroundColor": "#0055A5",
+                        "color": "white",
+                        "fontWeight": "bold",
+                    },
+                    style_cell={
+                        "textAlign": "left",
+                        "padding": "10px",
+                        "whiteSpace": "normal",
+                        "height": "auto",
+                    },
+                    style_data_conditional=[
+                        {"if": {"row_index": "odd"}, "backgroundColor": "#f4f4f4"}
+                    ],
+                    sort_action="native",
+                    filter_action="native",
+                    # page_size=20,
                 ),
             ]
         )
@@ -100,13 +181,30 @@ def display_page(pathname):
         return html.Div(
             [
                 html.H3("Routes"),
-                html.Ul(
-                    [
-                        html.Li(
-                            f"{route.get('route_label', 'N/A')} (ID: {route.get('route_id', 'N/A')})"
-                        )
-                        for route in routes_data
-                    ]
+                dash_table.DataTable(
+                    data=routes_data,
+                    columns=[
+                        {"name": "Route", "id": "route_label"},
+                        {"name": "Route ID", "id": "route_id"},
+                        {"name": "Agency", "id": "agency_id", "type": "numeric"},
+                    ],
+                    style_header={
+                        "backgroundColor": "#0055A5",
+                        "color": "white",
+                        "fontWeight": "bold",
+                    },
+                    style_cell={
+                        "textAlign": "left",
+                        "padding": "10px",
+                        "whiteSpace": "normal",
+                        "height": "auto",
+                    },
+                    style_data_conditional=[
+                        {"if": {"row_index": "odd"}, "backgroundColor": "#f4f4f4"}
+                    ],
+                    sort_action="native",
+                    filter_action="native",
+                    # page_size=20,
                 ),
             ]
         )
