@@ -22,9 +22,9 @@ app.layout = html.Div(
             [
                 dcc.Link("Home", href="/"),
                 html.Br(),
-                dcc.Link("Trip Updates", href="/trip-updates"),
-                html.Br(),
                 dcc.Link("Service Alerts", href="/service-alerts"),
+                html.Br(),
+                dcc.Link("Trip Updates", href="/trip-updates"),
                 html.Br(),
                 dcc.Link("Vehicle Positions", href="/vehicle-positions"),
                 html.Br(),
@@ -380,10 +380,33 @@ def display_page(pathname):
             ]
         )
     else:
+        # Get service alerts for home page statistics
+        alerts = fetch_service_alerts()
+        active_alerts_count = len(alerts) if alerts else 0
+
         return html.Div(
             [
                 html.H3("Welcome to the Metro Transit Dashboard!"),
                 html.P("Select a page from the navigation menu."),
+                html.Div(
+                    [
+                        html.H4("System Status"),
+                        html.P(
+                            [
+                                f"There are currently ",
+                                html.Strong(str(active_alerts_count)),
+                                " active service alerts. ",
+                                html.A("View details", href="/service-alerts"),
+                            ]
+                        ),
+                    ],
+                    style={
+                        "marginTop": "20px",
+                        "padding": "15px",
+                        "backgroundColor": "#f8f9fa",
+                        "borderRadius": "5px",
+                    },
+                ),
             ]
         )
 
