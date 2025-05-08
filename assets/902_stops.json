@@ -1,0 +1,434 @@
+[
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "TF2",
+    "description": "Target Field Station Platform 2",
+    "latitude": 44.983442,
+    "longitude": -93.278615,
+    "stop_id": 56334
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "TF1",
+    "description": "Target Field Station Platform 1",
+    "latitude": 44.982905,
+    "longitude": -93.277396,
+    "stop_id": 56335
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "WARE",
+    "description": "Warehouse District Hennepin Ave Station",
+    "latitude": 44.980074,
+    "longitude": -93.273244,
+    "stop_id": 56336
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "5SNI",
+    "description": "Nicollet Mall Station",
+    "latitude": 44.978541,
+    "longitude": -93.26996,
+    "stop_id": 51408
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "GOVT",
+    "description": "Government Plaza Station",
+    "latitude": 44.976796,
+    "longitude": -93.265899,
+    "stop_id": 51409
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "USBA",
+    "description": "U.S. Bank Stadium Station",
+    "latitude": 44.97496,
+    "longitude": -93.259658,
+    "stop_id": 56338
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "WEBK",
+    "description": "West Bank Station",
+    "latitude": 44.971941,
+    "longitude": -93.246128,
+    "stop_id": 56001
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "EABK",
+    "description": "East Bank Station",
+    "latitude": 44.973645,
+    "longitude": -93.231064,
+    "stop_id": 56002
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "STVI",
+    "description": "Stadium Village Station",
+    "latitude": 44.974753,
+    "longitude": -93.222757,
+    "stop_id": 56003
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "PSPK",
+    "description": "Prospect Park Station",
+    "latitude": 44.971754,
+    "longitude": -93.215303,
+    "stop_id": 56004
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "WGAT",
+    "description": "Westgate Station",
+    "latitude": 44.967132,
+    "longitude": -93.20574,
+    "stop_id": 56005
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "RAST",
+    "description": "Raymond Ave Station",
+    "latitude": 44.963067,
+    "longitude": -93.195466,
+    "stop_id": 56006
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "FAUN",
+    "description": "Fairview Ave Station",
+    "latitude": 44.956386,
+    "longitude": -93.178742,
+    "stop_id": 56007
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "SNUN",
+    "description": "Snelling Ave Station",
+    "latitude": 44.95565,
+    "longitude": -93.166107,
+    "stop_id": 56008
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "HMUN",
+    "description": "Hamline Ave Station",
+    "latitude": 44.95569,
+    "longitude": -93.155934,
+    "stop_id": 56009
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "LXUN",
+    "description": "Lexington Pkwy Station",
+    "latitude": 44.955705,
+    "longitude": -93.145702,
+    "stop_id": 56010
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "VIUN",
+    "description": "Victoria St Station",
+    "latitude": 44.95571,
+    "longitude": -93.135578,
+    "stop_id": 56011
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "UNDA",
+    "description": "Dale St Station",
+    "latitude": 44.955697,
+    "longitude": -93.125412,
+    "stop_id": 56012
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "WEUN",
+    "description": "Western Ave Station",
+    "latitude": 44.955736,
+    "longitude": -93.115269,
+    "stop_id": 56013
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "UNRI",
+    "description": "Capitol / Rice St Station",
+    "latitude": 44.955682,
+    "longitude": -93.105177,
+    "stop_id": 56014
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "ROST",
+    "description": "Robert St Station",
+    "latitude": 44.954023,
+    "longitude": -93.097507,
+    "stop_id": 56015
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "10CE",
+    "description": "10th St Station",
+    "latitude": 44.950612,
+    "longitude": -93.097608,
+    "stop_id": 56016
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "CNST",
+    "description": "Central Station",
+    "latitude": 44.94613,
+    "longitude": -93.092306,
+    "stop_id": 56017
+  },
+  {
+    "route_id": "902",
+    "direction_id": 0,
+    "place_code": "UNDP",
+    "description": "Union Depot Station",
+    "latitude": 44.948208,
+    "longitude": -93.086735,
+    "stop_id": 56018
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "UNDP",
+    "description": "Union Depot Station",
+    "latitude": 44.948226,
+    "longitude": -93.08672,
+    "stop_id": 56026
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "CNST",
+    "description": "Central Station",
+    "latitude": 44.946164,
+    "longitude": -93.092297,
+    "stop_id": 56027
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "10CE",
+    "description": "10th St Station",
+    "latitude": 44.950663,
+    "longitude": -93.097492,
+    "stop_id": 56028
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "ROST",
+    "description": "Robert St Station",
+    "latitude": 44.954047,
+    "longitude": -93.097459,
+    "stop_id": 56029
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "UNRI",
+    "description": "Capitol / Rice St Station",
+    "latitude": 44.955728,
+    "longitude": -93.105179,
+    "stop_id": 56030
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "WEUN",
+    "description": "Western Ave Station",
+    "latitude": 44.955776,
+    "longitude": -93.117045,
+    "stop_id": 56031
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "UNDA",
+    "description": "Dale St Station",
+    "latitude": 44.955741,
+    "longitude": -93.127216,
+    "stop_id": 56032
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "VIUN",
+    "description": "Victoria St Station",
+    "latitude": 44.95575,
+    "longitude": -93.137323,
+    "stop_id": 56033
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "LXUN",
+    "description": "Lexington Pkwy Station",
+    "latitude": 44.955739,
+    "longitude": -93.147502,
+    "stop_id": 56034
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "HMUN",
+    "description": "Hamline Ave Station",
+    "latitude": 44.955718,
+    "longitude": -93.157728,
+    "stop_id": 56035
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "SNUN",
+    "description": "Snelling Ave Station",
+    "latitude": 44.955696,
+    "longitude": -93.167894,
+    "stop_id": 56036
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "FAUN",
+    "description": "Fairview Ave Station",
+    "latitude": 44.956409,
+    "longitude": -93.17872,
+    "stop_id": 56037
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "RAST",
+    "description": "Raymond Ave Station",
+    "latitude": 44.963091,
+    "longitude": -93.195441,
+    "stop_id": 56038
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "WGAT",
+    "description": "Westgate Station",
+    "latitude": 44.967838,
+    "longitude": -93.207226,
+    "stop_id": 56039
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "PSPK",
+    "description": "Prospect Park Station",
+    "latitude": 44.971754,
+    "longitude": -93.215229,
+    "stop_id": 56040
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "STVI",
+    "description": "Stadium Village Station",
+    "latitude": 44.974799,
+    "longitude": -93.222881,
+    "stop_id": 56041
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "EABK",
+    "description": "East Bank Station",
+    "latitude": 44.973713,
+    "longitude": -93.231063,
+    "stop_id": 56042
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "WEBK",
+    "description": "West Bank Station",
+    "latitude": 44.971988,
+    "longitude": -93.246139,
+    "stop_id": 56043
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "USBA",
+    "description": "U.S. Bank Stadium Station",
+    "latitude": 44.975101,
+    "longitude": -93.259722,
+    "stop_id": 56330
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "GOVT",
+    "description": "Government Plaza Station",
+    "latitude": 44.976863,
+    "longitude": -93.265879,
+    "stop_id": 51424
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "5SNI",
+    "description": "Nicollet Mall Station",
+    "latitude": 44.978597,
+    "longitude": -93.269919,
+    "stop_id": 51423
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "WARE",
+    "description": "Warehouse District Hennepin Ave Station",
+    "latitude": 44.980177,
+    "longitude": -93.273202,
+    "stop_id": 56332
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "TF1",
+    "description": "Target Field Station Platform 1",
+    "latitude": 44.983045,
+    "longitude": -93.277453,
+    "stop_id": 56333
+  },
+  {
+    "route_id": "902",
+    "direction_id": 1,
+    "place_code": "TF2",
+    "description": "Target Field Station Platform 2",
+    "latitude": 44.983543,
+    "longitude": -93.278703,
+    "stop_id": 56339
+  }
+]

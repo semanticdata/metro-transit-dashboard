@@ -28,11 +28,13 @@ app.layout = html.Div(
                 html.Br(),
                 dcc.Link("Vehicle Positions", href="/vehicle-positions"),
                 html.Br(),
-                dcc.Link("Map", href="/map"),
-                html.Br(),
                 dcc.Link("Routes", href="/routes"),
                 html.Br(),
+                dcc.Link("Map", href="/map"),
+                html.Br(),
                 dcc.Link("Blue Line Map", href="/blue-line-map"),
+                html.Br(),
+                dcc.Link("Green Line Map", href="/green-line-map"),
             ]
         ),
         html.Hr(),
@@ -92,6 +94,22 @@ def display_page(pathname):
                 ),
             ]
         )
+    elif pathname == "/routes":
+        api = MetroTransitAPI()
+        routes_data = api.get_routes()
+        return html.Div(
+            [
+                html.H3("Routes"),
+                html.Ul(
+                    [
+                        html.Li(
+                            f"{route.get('route_label', 'N/A')} (ID: {route.get('route_id', 'N/A')})"
+                        )
+                        for route in routes_data
+                    ]
+                ),
+            ]
+        )
     elif pathname == "/map":
         vehicles = fetch_vehicle_positions()
         if vehicles and (
@@ -119,22 +137,6 @@ def display_page(pathname):
                     html.P("Could not load vehicle data for the map."),
                 ]
             )
-    elif pathname == "/routes":
-        api = MetroTransitAPI()
-        routes_data = api.get_routes()
-        return html.Div(
-            [
-                html.H3("Routes"),
-                html.Ul(
-                    [
-                        html.Li(
-                            f"{route.get('route_label', 'N/A')} (ID: {route.get('route_id', 'N/A')})"
-                        )
-                        for route in routes_data
-                    ]
-                ),
-            ]
-        )
     elif pathname == "/blue-line-map":
         import json
         import plotly.express as px
@@ -205,6 +207,77 @@ def display_page(pathname):
         return html.Div(
             [
                 html.H3("Blue Line Train Map"),
+                dcc.Graph(figure=fig),
+            ]
+        )
+    elif pathname == "/green-line-map":
+        import json
+        import plotly.express as px
+        import plotly.graph_objects as go
+
+        # Load static Green Line stops from JSON
+        with open("assets/902_stops.json", "r", encoding="utf-8") as f:
+            green_line_stops = json.load(f)
+        # Get Green Line vehicles from GTFS realtime
+        vehicles = fetch_vehicle_positions()
+        green_line_vehicles = [v for v in vehicles if v.get("route_id") == "902"]
+        fig = px.scatter_map(
+            green_line_vehicles,
+            lat="latitude",
+            lon="longitude",
+            hover_name="vehicle_id",
+            hover_data=["route_id", "timestamp"],
+            color_discrete_sequence=["green"],
+            zoom=10,
+            height=600,
+        )
+        # Draw the Green Line track using the static stops (direction 0 as default)
+        stops_dir0 = [s for s in green_line_stops if s["direction_id"] == 0]
+        fig.add_trace(
+            go.Scattermap(
+                mode="lines+markers",
+                lon=[stop["longitude"] for stop in stops_dir0],
+                lat=[stop["latitude"] for stop in stops_dir0],
+                marker={"size": 8, "color": "darkgreen"},
+                line=dict(width=3, color="darkgreen"),
+                name="Green Line Track (Eastbound)",
+                text=[stop["description"] for stop in stops_dir0],
+            )
+        )
+        # Optionally, add direction 1 as a separate line
+        stops_dir1 = [s for s in green_line_stops if s["direction_id"] == 1]
+        if stops_dir1:
+            fig.add_trace(
+                go.Scattermap(
+                    mode="lines+markers",
+                    lon=[stop["longitude"] for stop in stops_dir1],
+                    lat=[stop["latitude"] for stop in stops_dir1],
+                    marker={"size": 8, "color": "lightgreen"},
+                    line=dict(width=2, color="lightgreen"),
+                    name="Green Line Track (Westbound)",
+                    text=[stop["description"] for stop in stops_dir1],
+                )
+            )
+        # Draw trains as a separate scatter layer over the tracks
+        if green_line_vehicles:
+            fig.add_trace(
+                go.Scattermap(
+                    mode="markers",
+                    lon=[v["longitude"] for v in green_line_vehicles],
+                    lat=[v["latitude"] for v in green_line_vehicles],
+                    marker={"size": 14, "color": "green", "symbol": "rail"},
+                    name="Green Line Trains",
+                    text=[
+                        f"Train {v.get('vehicle_id', 'N/A')}<br>Last seen: {v.get('timestamp', 'N/A')}"
+                        for v in green_line_vehicles
+                    ],
+                )
+            )
+        fig.update_layout(mapbox_style="open-street-map")
+        fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
+        return html.Div(
+            [
+                html.H3("Green Line Train Map"),
                 dcc.Graph(figure=fig),
             ]
         )

@@ -2,14 +2,20 @@
 
 This is a dashboard for the Metro Transit system in Minneapolis/St. Paul, MN.
 
+## Get Route Stops
+
+```shell
+python get_route_stops.py {route_id} {output.json}
+```
+
+## API Reference
+
 - GTFS Realtime API: <https://svc.metrotransit.org/>
 - Trip Updates feed: <https://svc.metrotransit.org/mtgtfs/tripupdates.pb>
 - Vehicle Positions feed: <https://svc.metrotransit.org/mtgtfs/vehiclepositions.pb>
 - Service Alerts feed: <https://svc.metrotransit.org/mtgtfs/alerts.pb>
 - NexTrip API Swagger UI: <https://svc.metrotransit.org/swagger/index.html>
 - API Reference: <https://svc.metrotransit.org/swagger/docs/v2/nextrip>
-
-## API Reference
 
 ### `/nextrip/{route_id}/{direction_id}/{place_code}`
 
