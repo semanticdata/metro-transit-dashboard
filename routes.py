@@ -1,6 +1,6 @@
 import requests
-import json
 from typing import Dict, List
+
 
 class MetroTransitAPI:
     def __init__(self):
