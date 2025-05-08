@@ -1,39 +1,161 @@
 # 🚇 Metro Transit Dashboard 🚌
 
-This is a dashboard for the Metro Transit system in Minneapolis/St. Paul, MN. It is built with Flask and uses the Transitland API to get data about the routes and vehicles.
+This is a dashboard for the Metro Transit system in Minneapolis/St. Paul, MN.
 
-## 🚀 Usage
+## Get Route Stops
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/semanticdata/traffic-studies.git
-cd traffic-studies
+```shell
+python get_route_stops.py {route_id} {output.json}
 ```
 
-2. Create a virtual environment (optional but recommended):
+## API Reference
 
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+- GTFS Realtime API: <https://svc.metrotransit.org/>
+- Trip Updates feed: <https://svc.metrotransit.org/mtgtfs/tripupdates.pb>
+- Vehicle Positions feed: <https://svc.metrotransit.org/mtgtfs/vehiclepositions.pb>
+- Service Alerts feed: <https://svc.metrotransit.org/mtgtfs/alerts.pb>
+- NexTrip API Swagger UI: <https://svc.metrotransit.org/swagger/index.html>
+- API Reference: <https://svc.metrotransit.org/swagger/docs/v2/nextrip>
+
+### `/nextrip/{route_id}/{direction_id}/{place_code}`
+
+```json
+{
+  "stops": [
+    {
+      "stop_id": 0,
+      "latitude": 0,
+      "longitude": 0,
+      "description": "string"
+    }
+  ],
+  "alerts": [
+    {
+      "stop_closed": true,
+      "alert_text": "string"
+    }
+  ],
+  "departures": [
+    {
+      "actual": true,
+      "trip_id": "string",
+      "stop_id": 0,
+      "departure_text": "string",
+      "departure_time": 0,
+      "description": "string",
+      "gate": "string",
+      "route_id": "string",
+      "route_short_name": "string",
+      "direction_id": 0,
+      "direction_text": "string",
+      "terminal": "string",
+      "agency_id": 0,
+      "schedule_relationship": "string"
+    }
+  ]
+}
 ```
 
-3. Install dependencies:
+### `/nextrip/{stop_id}`
 
-```bash
-pip install -r requirements.txt
+```json
+{
+  "stops": [
+    {
+      "stop_id": 0,
+      "latitude": 0,
+      "longitude": 0,
+      "description": "string"
+    }
+  ],
+  "alerts": [
+    {
+      "stop_closed": true,
+      "alert_text": "string"
+    }
+  ],
+  "departures": [
+    {
+      "actual": true,
+      "trip_id": "string",
+      "stop_id": 0,
+      "departure_text": "string",
+      "departure_time": 0,
+      "description": "string",
+      "gate": "string",
+      "route_id": "string",
+      "route_short_name": "string",
+      "direction_id": 0,
+      "direction_text": "string",
+      "terminal": "string",
+      "agency_id": 0,
+      "schedule_relationship": "string"
+    }
+  ]
+}
 ```
 
-4. Run the app:
+### `/nextrip/agencies`
 
-```bash
-python app.py
+```json
+[
+  {
+    "agency_id": 0,
+    "agency_name": "string"
+  }
+]
 ```
 
-## API
+### `/nextrip/directions/{route_id}`
 
-https://svc.metrotransit.org/
+```json
+[
+  {
+    "direction_id": 0,
+    "direction_name": "string"
+  }
+]
+```
 
-## 📜 License
+### `/nextrip/routes`
 
-The code in this repository is available under the [MIT License](LICENSE).
+```json
+[
+  {
+    "route_id": "string",
+    "agency_id": 0,
+    "route_label": "string"
+  }
+]
+```
+
+### `/nextrip/stops/{route_id}/{direction_id}`
+
+```json
+[
+  {
+    "place_code": "string",
+    "description": "string"
+  }
+]
+```
+
+### `/nextrip/vehicles/{route_id}`
+
+```json
+[
+  {
+    "trip_id": "string",
+    "direction_id": 0,
+    "direction": "string",
+    "location_time": 0,
+    "route_id": "string",
+    "terminal": "string",
+    "latitude": 0,
+    "longitude": 0,
+    "bearing": 0,
+    "odometer": 0,
+    "speed": 0
+  }
+]
+```
