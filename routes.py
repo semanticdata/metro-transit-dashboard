@@ -49,3 +49,25 @@ class MetroTransitAPI:
                 0
             ]  # Return the first stop object from the 'stops' list
         return None  # Return None if 'stops' key is missing, not a list, or empty
+
+    def get_agencies(self) -> List[Dict]:
+        """Get all transit agencies"""
+        response = requests.get(
+            f"{self.base_url}/agencies", headers={"Accept": "application/json"}
+        )
+        return response.json()
+
+    def get_departures_by_stop(self, stop_id: int) -> Dict:
+        """Get departures, stops, and alerts for a given stop_id"""
+        response = requests.get(
+            f"{self.base_url}/{stop_id}", headers={"Accept": "application/json"}
+        )
+        return response.json()
+
+    def get_vehicles(self, route_id: str) -> List[Dict]:
+        """Get vehicle positions for a specific route"""
+        response = requests.get(
+            f"{self.base_url}/vehicles/{route_id}",
+            headers={"Accept": "application/json"},
+        )
+        return response.json()

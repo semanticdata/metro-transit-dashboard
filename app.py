@@ -4,9 +4,9 @@ from dash.dependencies import Input, Output
 
 # Import data fetching functions from other modules
 # These will be used in callbacks later
-from trip_updates import get_trip_updates
-from service_alerts import fetch_service_alerts
-from vehicle_position import fetch_vehicle_positions
+from gtfs_trip_updates import get_trip_updates
+from gtfs_service_alerts import fetch_service_alerts
+from gtfs_vehicle_position import fetch_vehicle_positions
 from routes import MetroTransitAPI
 
 # Initialize the Dash app
@@ -137,80 +137,76 @@ def display_page(pathname):
         )
     elif pathname == "/blue-line-map":
         api = MetroTransitAPI()
-        routes_data = api.get_routes()
-        blue_line_route_id = None
-        for route in routes_data:
-            if "Blue Line" in route.get("route_label", ""):
-                blue_line_route_id = route.get("route_id")
-                break
-        if not blue_line_route_id:
-            return html.Div(
-                [
-                    html.H3("Blue Line Train Map"),
-                    html.P("Could not find the Blue Line route ID."),
-                ]
-            )
+        blue_line_route_id = "901"  # Blue Line route_id is 901
+        # Get all directions for Blue Line
+        directions = api.get_directions(blue_line_route_id)
+        blue_line_stops = []
+        for direction in directions:
+            direction_id = direction.get("direction_id")
+            stops = api.get_stops(blue_line_route_id, direction_id)
+            for stop in stops:
+                place_code = stop.get("place_code")
+                stop_details = api.get_stop_details(
+                    blue_line_route_id, direction_id, place_code
+                )
+                if (
+                    stop_details
+                    and "latitude" in stop_details
+                    and "longitude" in stop_details
+                ):
+                    blue_line_stops.append(
+                        {
+                            "lat": stop_details["latitude"],
+                            "lon": stop_details["longitude"],
+                            "description": stop_details.get("description", place_code),
+                        }
+                    )
+        # Remove duplicates and sort by lat/lon for a cleaner line (optional, can be improved)
+        seen = set()
+        unique_stops = []
+        for stop in blue_line_stops:
+            key = (stop["lat"], stop["lon"])
+            if key not in seen:
+                unique_stops.append(stop)
+                seen.add(key)
+        # Get Blue Line vehicles
         vehicles = fetch_vehicle_positions()
-        blue_line_vehicles = []
-        if vehicles and (
-            isinstance(vehicles, list) and (not vehicles or "error" not in vehicles[0])
-        ):
-            for vehicle in vehicles:
-                if vehicle.get("route_id") == blue_line_route_id:
-                    blue_line_vehicles.append(vehicle)
-        if blue_line_vehicles:
-            import plotly.express as px
-            import plotly.graph_objects as go
+        blue_line_vehicles = [
+            v for v in vehicles if v.get("route_id") == blue_line_route_id
+        ]
+        import plotly.express as px
+        import plotly.graph_objects as go
 
-            blue_line_track_lat = [44.9778, 44.9760, 44.9730, 44.9700, 44.9670]
-            blue_line_track_lon = [-93.2650, -93.2600, -93.2550, -93.2500, -93.2450]
-            fig = px.scatter_map(
-                blue_line_vehicles,
-                lat="latitude",
-                lon="longitude",
-                hover_name="vehicle_id",
-                hover_data=["route_id", "timestamp"],
-                color_discrete_sequence=["blue"],
-                zoom=10,
-                height=600,
-            )
+        fig = px.scatter_map(
+            blue_line_vehicles,
+            lat="latitude",
+            lon="longitude",
+            hover_name="vehicle_id",
+            hover_data=["route_id", "timestamp"],
+            color_discrete_sequence=["blue"],
+            zoom=10,
+            height=600,
+        )
+        if unique_stops:
             fig.add_trace(
                 go.Scattermap(
-                    mode="lines",
-                    lon=blue_line_track_lon,
-                    lat=blue_line_track_lat,
-                    marker={"size": 0},
-                    line=dict(width=2, color="gray"),
+                    mode="lines+markers",
+                    lon=[stop["lon"] for stop in unique_stops],
+                    lat=[stop["lat"] for stop in unique_stops],
+                    marker={"size": 8, "color": "gray"},
+                    line=dict(width=3, color="gray"),
                     name="Blue Line Track",
+                    text=[stop["description"] for stop in unique_stops],
                 )
             )
-            fig.update_layout(mapbox_style="open-street-map")
-            fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
-            return html.Div(
-                [
-                    html.H3(f"Blue Line Train Map (Route ID: {blue_line_route_id})"),
-                    dcc.Graph(figure=fig),
-                ]
-            )
-        elif (
-            vehicles
-            and isinstance(vehicles, list)
-            and vehicles
-            and "error" in vehicles[0]
-        ):
-            return html.Div(
-                [
-                    html.H3("Blue Line Train Map"),
-                    html.P("Could not load vehicle data for the map."),
-                ]
-            )
-        else:
-            return html.Div(
-                [
-                    html.H3(f"Blue Line Train Map (Route ID: {blue_line_route_id})"),
-                    html.P("No Blue Line trains currently active or data unavailable."),
-                ]
-            )
+        fig.update_layout(mapbox_style="open-street-map")
+        fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
+        return html.Div(
+            [
+                html.H3(f"Blue Line Train Map (Route ID: {blue_line_route_id})"),
+                dcc.Graph(figure=fig),
+            ]
+        )
     else:
         return html.Div(
             [
