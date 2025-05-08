@@ -136,47 +136,18 @@ def display_page(pathname):
             ]
         )
     elif pathname == "/blue-line-map":
-        api = MetroTransitAPI()
-        blue_line_route_id = "901"  # Blue Line route_id is 901
-        # Get all directions for Blue Line
-        directions = api.get_directions(blue_line_route_id)
-        blue_line_stops = []
-        for direction in directions:
-            direction_id = direction.get("direction_id")
-            stops = api.get_stops(blue_line_route_id, direction_id)
-            for stop in stops:
-                place_code = stop.get("place_code")
-                stop_details = api.get_stop_details(
-                    blue_line_route_id, direction_id, place_code
-                )
-                if (
-                    stop_details
-                    and "latitude" in stop_details
-                    and "longitude" in stop_details
-                ):
-                    blue_line_stops.append(
-                        {
-                            "lat": stop_details["latitude"],
-                            "lon": stop_details["longitude"],
-                            "description": stop_details.get("description", place_code),
-                        }
-                    )
-        # Remove duplicates and sort by lat/lon for a cleaner line (optional, can be improved)
-        seen = set()
-        unique_stops = []
-        for stop in blue_line_stops:
-            key = (stop["lat"], stop["lon"])
-            if key not in seen:
-                unique_stops.append(stop)
-                seen.add(key)
-        # Get Blue Line vehicles
-        vehicles = fetch_vehicle_positions()
-        blue_line_vehicles = [
-            v for v in vehicles if v.get("route_id") == blue_line_route_id
-        ]
+        import json
         import plotly.express as px
         import plotly.graph_objects as go
 
+        # Load static Blue Line stops from JSON
+        with open("assets/901_stops.json", "r", encoding="utf-8") as f:
+            blue_line_stops = json.load(f)
+        # Sort stops by direction and then by their order in the file (as listed)
+        # Optionally, you could sort by latitude/longitude if needed
+        # Get Blue Line vehicles from GTFS realtime
+        vehicles = fetch_vehicle_positions()
+        blue_line_vehicles = [v for v in vehicles if v.get("route_id") == "901"]
         fig = px.scatter_map(
             blue_line_vehicles,
             lat="latitude",
@@ -187,23 +158,53 @@ def display_page(pathname):
             zoom=10,
             height=600,
         )
-        if unique_stops:
+        # Draw the Blue Line track using the static stops (direction 0 as default)
+        stops_dir0 = [s for s in blue_line_stops if s["direction_id"] == 0]
+        fig.add_trace(
+            go.Scattermap(
+                mode="lines+markers",
+                lon=[stop["longitude"] for stop in stops_dir0],
+                lat=[stop["latitude"] for stop in stops_dir0],
+                marker={"size": 8, "color": "gray"},
+                line=dict(width=3, color="gray"),
+                name="Blue Line Track (Northbound)",
+                text=[stop["description"] for stop in stops_dir0],
+            )
+        )
+        # Optionally, add direction 1 as a separate line
+        stops_dir1 = [s for s in blue_line_stops if s["direction_id"] == 1]
+        if stops_dir1:
             fig.add_trace(
                 go.Scattermap(
                     mode="lines+markers",
-                    lon=[stop["lon"] for stop in unique_stops],
-                    lat=[stop["lat"] for stop in unique_stops],
-                    marker={"size": 8, "color": "gray"},
-                    line=dict(width=3, color="gray"),
-                    name="Blue Line Track",
-                    text=[stop["description"] for stop in unique_stops],
+                    lon=[stop["longitude"] for stop in stops_dir1],
+                    lat=[stop["latitude"] for stop in stops_dir1],
+                    marker={"size": 8, "color": "lightgray"},
+                    line=dict(width=2, color="lightgray"),
+                    name="Blue Line Track (Southbound)",
+                    text=[stop["description"] for stop in stops_dir1],
+                )
+            )
+        # Draw trains as a separate scatter layer over the tracks
+        if blue_line_vehicles:
+            fig.add_trace(
+                go.Scattermap(
+                    mode="markers",
+                    lon=[v["longitude"] for v in blue_line_vehicles],
+                    lat=[v["latitude"] for v in blue_line_vehicles],
+                    marker={"size": 14, "color": "blue", "symbol": "rail"},
+                    name="Blue Line Trains",
+                    text=[
+                        f"Train {v.get('vehicle_id', 'N/A')}<br>Last seen: {v.get('timestamp', 'N/A')}"
+                        for v in blue_line_vehicles
+                    ],
                 )
             )
         fig.update_layout(mapbox_style="open-street-map")
         fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
         return html.Div(
             [
-                html.H3(f"Blue Line Train Map (Route ID: {blue_line_route_id})"),
+                html.H3("Blue Line Train Map"),
                 dcc.Graph(figure=fig),
             ]
         )

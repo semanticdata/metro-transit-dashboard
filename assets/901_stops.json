@@ -1,0 +1,254 @@
+[
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "FTSN",
+    "description": "Fort Snelling Station",
+    "latitude": 44.893222,
+    "longitude": -93.198084,
+    "stop_id": 51433
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "VAMC",
+    "description": "VA Medical Center Station",
+    "latitude": 44.90279,
+    "longitude": -93.202266,
+    "stop_id": 51432
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "50HI",
+    "description": "50th St / Minnehaha Park Station",
+    "latitude": 44.912429,
+    "longitude": -93.210163,
+    "stop_id": 51431
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "46HI",
+    "description": "46th St Station",
+    "latitude": 44.920758,
+    "longitude": -93.219847,
+    "stop_id": 51430
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "38HI",
+    "description": "38th St Station",
+    "latitude": 44.934655,
+    "longitude": -93.229449,
+    "stop_id": 51429
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "LAHI",
+    "description": "Lake St - Midtown Station",
+    "latitude": 44.94836,
+    "longitude": -93.238864,
+    "stop_id": 51428
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "FRHI",
+    "description": "Franklin Ave Station",
+    "latitude": 44.962525,
+    "longitude": -93.247027,
+    "stop_id": 51427
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "CDRV",
+    "description": "Cedar Riverside Station",
+    "latitude": 44.968406,
+    "longitude": -93.251029,
+    "stop_id": 51426
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "USBA",
+    "description": "U.S. Bank Stadium Station",
+    "latitude": 44.975101,
+    "longitude": -93.259722,
+    "stop_id": 56330
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "GOVT",
+    "description": "Government Plaza Station",
+    "latitude": 44.976863,
+    "longitude": -93.265879,
+    "stop_id": 51424
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "5SNI",
+    "description": "Nicollet Mall Station",
+    "latitude": 44.978597,
+    "longitude": -93.269919,
+    "stop_id": 51423
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "WARE",
+    "description": "Warehouse District Hennepin Ave Station",
+    "latitude": 44.980177,
+    "longitude": -93.273202,
+    "stop_id": 56332
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "TF1",
+    "description": "Target Field Station Platform 1",
+    "latitude": 44.983045,
+    "longitude": -93.277453,
+    "stop_id": 56333
+  },
+  {
+    "route_id": "901",
+    "direction_id": 0,
+    "place_code": "TF2",
+    "description": "Target Field Station Platform 2",
+    "latitude": 44.983543,
+    "longitude": -93.278703,
+    "stop_id": 56339
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "TF2",
+    "description": "Target Field Station Platform 2",
+    "latitude": 44.983442,
+    "longitude": -93.278615,
+    "stop_id": 56334
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "TF1",
+    "description": "Target Field Station Platform 1",
+    "latitude": 44.982905,
+    "longitude": -93.277396,
+    "stop_id": 56335
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "WARE",
+    "description": "Warehouse District Hennepin Ave Station",
+    "latitude": 44.980074,
+    "longitude": -93.273244,
+    "stop_id": 56336
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "5SNI",
+    "description": "Nicollet Mall Station",
+    "latitude": 44.978541,
+    "longitude": -93.26996,
+    "stop_id": 51408
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "GOVT",
+    "description": "Government Plaza Station",
+    "latitude": 44.976796,
+    "longitude": -93.265899,
+    "stop_id": 51409
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "USBA",
+    "description": "U.S. Bank Stadium Station",
+    "latitude": 44.97496,
+    "longitude": -93.259658,
+    "stop_id": 56338
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "CDRV",
+    "description": "Cedar Riverside Station",
+    "latitude": 44.968395,
+    "longitude": -93.251064,
+    "stop_id": 51411
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "FRHI",
+    "description": "Franklin Ave Station",
+    "latitude": 44.962518,
+    "longitude": -93.247072,
+    "stop_id": 51412
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "LAHI",
+    "description": "Lake St Midtown Station",
+    "latitude": 44.948353,
+    "longitude": -93.238902,
+    "stop_id": 51413
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "38HI",
+    "description": "38th St Station",
+    "latitude": 44.934651,
+    "longitude": -93.229461,
+    "stop_id": 51414
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "46HI",
+    "description": "46th St Station",
+    "latitude": 44.920736,
+    "longitude": -93.21992,
+    "stop_id": 51415
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "50HI",
+    "description": "50th St / Minnehaha Park Station",
+    "latitude": 44.91241,
+    "longitude": -93.210193,
+    "stop_id": 51416
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "VAMC",
+    "description": "VA Medical Center Station",
+    "latitude": 44.902785,
+    "longitude": -93.202297,
+    "stop_id": 51417
+  },
+  {
+    "route_id": "901",
+    "direction_id": 1,
+    "place_code": "FTSN",
+    "description": "Fort Snelling Station",
+    "latitude": 44.893229,
+    "longitude": -93.19812,
+    "stop_id": 51418
+  }
+]
