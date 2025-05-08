@@ -1,11 +1,7 @@
 import requests
 from google.transit import gtfs_realtime_pb2
 from datetime import datetime
-from tabulate import tabulate
-from flask import Flask, render_template
 import json
-
-app = Flask(__name__)
 
 def fetch_trip_updates():
     """Fetch GTFS realtime trip updates from Metro Transit"""
@@ -53,11 +49,3 @@ def get_trip_updates():
             updates.append(update)
     
     return updates
-
-@app.route('/')
-def dashboard():
-    updates = get_trip_updates()
-    return render_template('trip-updates.html', updates=updates)
-
-if __name__ == "__main__":
-    app.run(debug=True)

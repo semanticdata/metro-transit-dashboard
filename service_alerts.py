@@ -1,10 +1,7 @@
 import requests
 from google.transit import gtfs_realtime_pb2
 from datetime import datetime
-from flask import Flask, render_template
 import json
-
-app = Flask(__name__)
 
 def fetch_service_alerts():
     """Fetch service alerts from Metro Transit GTFS realtime feed"""
@@ -38,11 +35,3 @@ def fetch_service_alerts():
         return [{'error': f"Error fetching alerts: {e}"}]
     except Exception as e:
         return [{'error': f"Error processing alerts: {e}"}]
-
-@app.route('/')
-def dashboard():
-    alerts = fetch_service_alerts()
-    return render_template('service-alerts.html', alerts=alerts)
-
-if __name__ == "__main__":
-    app.run(debug=True)

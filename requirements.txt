@@ -1,4 +1,7 @@
-flask
+dash
+plotly
 requests
 gtfs-realtime-bindings
-tabulate
+gunicorn
+numpy
+pandas

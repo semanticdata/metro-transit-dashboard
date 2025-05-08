@@ -2,10 +2,7 @@ import requests
 from google.transit import gtfs_realtime_pb2
 from google.protobuf.message import DecodeError
 from datetime import datetime
-from flask import Flask, render_template
 import json
-
-app = Flask(__name__)
 
 def fetch_vehicle_positions():
     """Fetch and parse vehicle position data from Metro Transit"""
@@ -48,11 +45,3 @@ def fetch_vehicle_positions():
     except DecodeError as e:
         print(f"Error decoding protobuf: {e}")
         return []
-
-@app.route('/')
-def dashboard():
-    vehicles = fetch_vehicle_positions()
-    return render_template('vehicle-positions.html', vehicles=vehicles)
-
-if __name__ == "__main__":
-    app.run(debug=True)
