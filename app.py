@@ -31,6 +31,8 @@ app.layout = html.Div(
                 dcc.Link("Map", href="/map"),
                 html.Br(),
                 dcc.Link("Routes", href="/routes"),
+                html.Br(),
+                dcc.Link("Blue Line Map", href="/blue-line-map"),
             ]
         ),
         html.Hr(),
@@ -47,11 +49,10 @@ def display_page(pathname):
         return html.Div(
             [
                 html.H3("Trip Updates"),
-                # Displaying as a simple list for now, can be improved with a table or other components
                 html.Ul(
                     [
                         html.Li(
-                            f"{update['trip_id']} - Route: {update['route_id']} - Arrival: {update['arrival']}"
+                            f"{update['trip_id']} - Route: {update['route_id']} - Arrival: {update.get('arrival', update.get('departure', 'N/A'))}"
                         )
                         for update in updates
                     ]
@@ -60,13 +61,16 @@ def display_page(pathname):
         )
     elif pathname == "/service-alerts":
         alerts = fetch_service_alerts()
+        # Support both old (header/description) and new (alert_text/stop_closed) alert formats
         return html.Div(
             [
                 html.H3("Service Alerts"),
                 html.Ul(
                     [
                         html.Li(
-                            f"{alert.get('header', 'N/A')}: {alert.get('description', 'N/A')}"
+                            alert.get("alert_text")
+                            if "alert_text" in alert
+                            else f"{alert.get('header', 'N/A')}: {alert.get('description', 'N/A')}"
                         )
                         for alert in alerts
                     ]
@@ -81,7 +85,7 @@ def display_page(pathname):
                 html.Ul(
                     [
                         html.Li(
-                            f"Vehicle {vehicle['vehicle_id']} on route {vehicle['route_id']} at ({vehicle['latitude']}, {vehicle['longitude']}) at {vehicle['timestamp']}"
+                            f"Vehicle {vehicle.get('vehicle_id', 'N/A')} on route {vehicle.get('route_id', 'N/A')} at ({vehicle.get('latitude', 'N/A')}, {vehicle.get('longitude', 'N/A')}) at {vehicle.get('timestamp', 'N/A')}"
                         )
                         for vehicle in vehicles
                     ]
@@ -90,17 +94,11 @@ def display_page(pathname):
         )
     elif pathname == "/map":
         vehicles = fetch_vehicle_positions()
-        # Basic map using Plotly Express (requires plotly to be installed)
-        # For a more interactive map, consider dash-leaflet or other mapping libraries
-        if vehicles and "error" not in vehicles[0]:
+        if vehicles and (
+            isinstance(vehicles, list) and (not vehicles or "error" not in vehicles[0])
+        ):
             import plotly.express as px
 
-            df = (
-                px.data.tips()
-            )  # Placeholder for actual vehicle data processing for map
-            # Create a scatter_mapbox plot
-            # This requires a Mapbox access token for some map styles.
-            # Using 'open-street-map' style which doesn't require a token.
             fig = px.scatter_map(
                 vehicles,
                 lat="latitude",
@@ -129,12 +127,90 @@ def display_page(pathname):
                 html.H3("Routes"),
                 html.Ul(
                     [
-                        html.Li(f"{route['route_label']} (ID: {route['route_id']})")
+                        html.Li(
+                            f"{route.get('route_label', 'N/A')} (ID: {route.get('route_id', 'N/A')})"
+                        )
                         for route in routes_data
                     ]
                 ),
             ]
         )
+    elif pathname == "/blue-line-map":
+        api = MetroTransitAPI()
+        routes_data = api.get_routes()
+        blue_line_route_id = None
+        for route in routes_data:
+            if "Blue Line" in route.get("route_label", ""):
+                blue_line_route_id = route.get("route_id")
+                break
+        if not blue_line_route_id:
+            return html.Div(
+                [
+                    html.H3("Blue Line Train Map"),
+                    html.P("Could not find the Blue Line route ID."),
+                ]
+            )
+        vehicles = fetch_vehicle_positions()
+        blue_line_vehicles = []
+        if vehicles and (
+            isinstance(vehicles, list) and (not vehicles or "error" not in vehicles[0])
+        ):
+            for vehicle in vehicles:
+                if vehicle.get("route_id") == blue_line_route_id:
+                    blue_line_vehicles.append(vehicle)
+        if blue_line_vehicles:
+            import plotly.express as px
+            import plotly.graph_objects as go
+
+            blue_line_track_lat = [44.9778, 44.9760, 44.9730, 44.9700, 44.9670]
+            blue_line_track_lon = [-93.2650, -93.2600, -93.2550, -93.2500, -93.2450]
+            fig = px.scatter_map(
+                blue_line_vehicles,
+                lat="latitude",
+                lon="longitude",
+                hover_name="vehicle_id",
+                hover_data=["route_id", "timestamp"],
+                color_discrete_sequence=["blue"],
+                zoom=10,
+                height=600,
+            )
+            fig.add_trace(
+                go.Scattermap(
+                    mode="lines",
+                    lon=blue_line_track_lon,
+                    lat=blue_line_track_lat,
+                    marker={"size": 0},
+                    line=dict(width=2, color="gray"),
+                    name="Blue Line Track",
+                )
+            )
+            fig.update_layout(mapbox_style="open-street-map")
+            fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
+            return html.Div(
+                [
+                    html.H3(f"Blue Line Train Map (Route ID: {blue_line_route_id})"),
+                    dcc.Graph(figure=fig),
+                ]
+            )
+        elif (
+            vehicles
+            and isinstance(vehicles, list)
+            and vehicles
+            and "error" in vehicles[0]
+        ):
+            return html.Div(
+                [
+                    html.H3("Blue Line Train Map"),
+                    html.P("Could not load vehicle data for the map."),
+                ]
+            )
+        else:
+            return html.Div(
+                [
+                    html.H3(f"Blue Line Train Map (Route ID: {blue_line_route_id})"),
+                    html.P("No Blue Line trains currently active or data unavailable."),
+                ]
+            )
     else:
         return html.Div(
             [
