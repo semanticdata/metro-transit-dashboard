@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "25197",
+    "header": "The following stop is closed for Route 3 until further notice due to construction: East River Pkwy & Appleby Hall - Stop #57013 (northbound)",
+    "description": "Get on/off eastbound buses at:\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nTemporary stop on East River Pkwy & Bruininks Hall (northbound)\r\nPleasant St & Jones Hall - Stop #49881 (northbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "3"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "27336",
+    "header": "Route 22 detoured off Humboldt Ave from 49th Ave N to Shingle Creek Dr and off Shingle Creek Dr from Humboldt Ave to 47th Ave N until further notice due to road conditions",
+    "description": "Note: This detour will only be in effect when semi trucks are blocking the road.\r\n\nGet on/off buses at:\r\n49th Ave N & Logan Ave N - Stop #9106 (eastbound, 22 buses via Penn only)\r\nHumboldt Ave N & 51st Ave N - Stop #11390 (southbound, 22 buses via Humboldt only)\r\nShingle Creek Dr & Fremont Ave N - Stop #50610 (eastbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound 22 (via Humboldt) buses will travel regular route on Humboldt Ave to 49th Ave N, left on 49th Ave, right on Girard Ave, right on 47th Ave, left on Shingle Creek Dr, and resume regular route.\r\n\nSouthbound 22 (via Penn) buses will travel regular route on 49th Ave N to Humboldt Ave, continue on 49th Ave to Girard Ave, right on Girard, right on 47th Ave, left on Shingle Creek Dr, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nHumboldt Ave N & 49th Ave N - Stop #11394 (southbound)\r\nHumboldt Ave N & Shingle Creek Dr - Stop #11397 (southbound)",
+    "effect": "4",
+    "cause": "2",
+    "affected_routes": [
+      "22",
+      "22"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "27882",
+    "header": "The following stop is closed for Route 9 beginning Mon Apr 22 at 7:00 AM until further notice due to construction: 22nd St E & Cedar Ave S - Stop #56504 (westbound)",
+    "description": "Get on/off buses at:\r\nMinnehaha Ave & 21st Ave S - Stop #56503 (northbound)\r\nFranklin Ave E & Franklin Station - Stop #51533 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "9"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "29072",
+    "header": "The following stop is closed for Routes 6 and 540 until further notice due to construction: 77th St W & #4660 - Stop #4382 (westbound)",
+    "description": "Get on/off buses at:\r\n77th St W & #4600 - Stop #20196 (westbound)\r\n77th St W & Computer Ave - Stop #4383 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "540",
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "29251",
+    "header": "Update: I-35W & Lake St Station northeast and southeast tower elevators unavailable until further notice due to mechanical issue",
+    "description": "Updated 5/7 at 9:40 AM.\r\n\nWith both the northeast and southeast elevators out of service, there is no elevator service for the northbound platform.\r\n\nBoth elevators to the southbound platform remain available.\r\n\nADA riders who need to get off a northbound Orange Line bus at the station should remain on the bus to downtown Minneapolis, get off at a Group F stop on 2nd Ave S at 11th St, 7th St or 5th St, then board a southbound Orange Line bus on Marquette at Group C stops at 5th St, 7th St or 11th St to return to the I-35W & Lake St Station.\r\n\nADA riders at street level should board a northbound Route 18 bus at 1st Ave S & 31st St / Lake St E - Stop #1888 to access downtown Minneapolis or board northbound Orange Line buses at I-35W & 46th St Station - Stop #53542. ",
+    "effect": "11",
+    "cause": "1",
+    "affected_routes": [
+      "467",
+      "578",
+      "600",
+      "695",
+      "904"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "30546",
+    "header": "The following stop is closed for Route 7 beginning Mon Aug 5 at 7:00 AM until further notice: 28th St E & 27th Ave S - Stop #51529 (eastbound)",
+    "description": "Get on/off buses at:\r\n26th Ave S & 28th St E - Stop #51528 (northbound)\r\n27th Ave S & 26th St E - Stop #16319 (northbound)",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "7"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "31416",
+    "header": "Central Ave NE & 22nd Ave NE - Stop #17200 (southbound) is closed for Route 10 from Thu Sep 12 to Fri Jun 6 on school days only from 3:00 PM to 4:00 PM",
+    "description": "Note: Stop is closed on school days only.\r\n\nGet on/off buses at:\r\nCentral Ave NE & Lowry Ave NE - Stop #17195 (southbound)\r\nCentral Ave NE & 18th 1/2 Ave NE - Stop #17207 (southbound)",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "10"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "31442",
+    "header": "44th Ave N & James Ave N - Stop #9599 (eastbound) is closed for Route 5 until Fri Jun 6 school days only from 3:00 PM to 4:00 PM",
+    "description": "Note: Stop is only closed from 3:00 PM to 4:00 PM on school days.\r\n\nGet on/off buses at:\r\n44th Ave N & Morgan Ave N - Stop #9593 (eastbound)\r\n44th Ave & Girard Station - Stop #56903 (eastbound)",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "5"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "33259",
+    "header": "Route 71 detoured off Robert St from Kellogg Blvd to 12th St until further notice due to construction",
+    "description": "Updated detour routing and get on/off locations 1/23 1:30 pm.\r\n\nFor northbound Route 71 get on/off buses at:\r\nMinnesota St & 4th St - Stop #2611 (northbound)\r\nMinnesota St & 6th St - Stop #1235 (northbound)\r\nMinnesota St & 7th Pl/7th St - Stop #41241 (northbound)\r\nJackson St & 14th St - Stop #11903 (northbound)\r\n\nFor southbound Route 71 get on/off buses at:\r\nJackson St & 12th St - Stop #47356 (southbound)\r\nCedar St & 10th St - Stop #11912 (southbound)\r\nCedar St & 7th St (southbound)\r\nCedar St & 7th Place / 6th St - Stop #20013 (southbound)\r\nCedar St & 5th St - Stop #1246 (southbound)\r\n\nNorthbound 71 buses that are coming from South St Paul will travel regular route on Robert St to Kellogg Blvd, left on Kellogg Blvd, right on Minnesota St, right on 11th St, left on Jackson St, and resume regular route.\r\n\nNorthbound 71 buses that normally depart Minnesota/4th St will depart layover on Minnesota & 4th St, right on 11th St, left on Jackson St, and resume regular route. \r\n\nSouthbound 71 buses that continue past downtown will travel regular route on 12th St to Robert St, continue on 12th St to Cedar St, left on Cedar, left on Kellogg Blvd, right on Robert St, and resume regular route.\r\n\nSouthbound 71 Downtown buses will travel regular route on 12th St to Robert St, continue on 12th St to Cedar St, left on Cedar St, left on Kellogg Blvd, left on Minnesota St, and layover on Minnesota St & 4th St.\r\n\nAffected stops:\r\nRobert St & 5th St - Stop #49935 (northbound)\r\nRobert St & 6th St - Stop #49112 (northbound)\r\nRobert St & 7th Place - Stop #49936 (northbound)\r\nRobert St & 9th St - Stop #50848 (northbound)\r\nRobert St & 11th St - Stop #51611 (northbound)\r\nRobert St & 10th St E - Stop #49993 (southbound)\r\nRobert St & 9th St - Stop #49950 (southbound)\r\nRobert St & 7th Place - Stop #49951 (southbound)\r\nRobert St & 6th St / 5th St - Stop #49952 (southbound)\r\nRobert St & Kellogg Blvd - Stop #49995 (southbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "71"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "33569",
+    "header": "East Tower Elevator at Franklin Ave Station remains unavailable until further notice",
+    "description": "The east elevator tower remains closed. To access the station and bus stops continue to use the exterior ramp, or the elevators on the west side of Franklin Ave Station.",
+    "effect": "11",
+    "cause": "1",
+    "affected_routes": [
+      "901",
+      "901"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "33643",
+    "header": "81st St W & Knox Ave S - Stop #57159 (westbound) is closed for Route 4 beginning Wed Jan 22 at 7:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\n81st St W & Humboldt Ave S - Stop #50231 (southbound)\r\nKnox Ave S & #8100 - Stop #51974 (southbound, Route 4 via Lyndale only)\r\nAmerican Blvd & Knox Ave S - Stop #41217 (westbound, Route 4 via Penn only)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "4"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "33649",
+    "header": "France Ave S & 49th St W - Stop #1288 (northbound) is closed for Route 6 beginning Tue Jan 14 at 4:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\nFrance Ave S & 50th St W - Stop #1287 (northbound)\r\nFrance Ave S & 48th St W - Stop #1289 (northbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "34448",
+    "header": " Both escalators at Blue Line Lake St - Midtown Station unavailable until further notice due to mechanical issue",
+    "description": "Elevators in the north tower and south tower are available for access between street and platform levels. Sorry for the inconvenience. ",
+    "effect": "7",
+    "cause": "1",
+    "affected_routes": [
+      "901",
+      "901"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "34802",
+    "header": "American Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound) is closed for Routes 534 and 542 until further notice due to construction",
+    "description": "Get on/off buses at:\r\nTemporary bus stop just west of regular bus stop",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "534",
+      "542"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "34911",
+    "header": "Route 6D & 6F detoured off France Ave from 60th St to Hwy 62 until further notice due to METRO E Line construction",
+    "description": "Get on/off buses at:\r\nFrance Ave S & Grimes Ave / 60th St W - Stop #1150 (southbound)\r\n65th St W & Southdale Medical Bldg - Stop #1156 (eastbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound 6D & 6F buses will travel regular route on France Ave to 60th St, left on 60th St, right on Xerxes Ave, right onto westbound Hwy 62, exit at France Ave, left on France Ave and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nFrance Ave S & 60th St W - Stop #1151 (southbound)\r\nFrance Ave S & Halifax Ave - Stop #1152 (southbound)\r\nFrance Ave S & 62nd St W - Stop #1153 (southbound)\r\nFrance Ave S & #6226 - Stop #44197 (southbound)\r\nFrance Ave S & #6316 - Stop #44198 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "6",
+      "6",
+      "6",
+      "6",
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "34946",
+    "header": "Route 4 detoured off Penn Ave from 52nd St to 50th St and off 50th St from Penn Ave to Newton Ave until further notice due to construction",
+    "description": "Update 3/20 12:45pm: Southbound back to regular.\r\n\nGet on/off northbound buses at:\r\nPenn Ave S & 54th St W - Stop #1091 (northbound)\r\nTemporary stop on Penn Ave just before 52nd St (northbound)\r\n50th St W & Logan Ave S - Stop #1009 (eastbound)\r\n\nNorthbound 4 buses via Penn Ave will travel regular route on Penn Ave to 52nd St, right on 52nd St, left on Newtown Ave, right on 50th St and resume regular route.\r\n\nAffected direction: Northbound\r\n\nAffected stops:\r\nPenn Ave S & 52nd St W - Stop #1093 (northbound)\r\n50th St W & Penn Ave S - Stop #1005 (eastbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "4"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "34947",
+    "header": "50th St W & Penn Ave S - Stop #1005 (eastbound) is closed for Route 46 until further notice due to construction",
+    "description": "Get on/off buses at:\r\n50th St W & Queen Ave S - Stop #1004 (eastbound)\r\n50th St W & Logan Ave S - Stop #1009 (eastbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "46"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "34990",
+    "header": "65th St W & Drew Ave S - Stop #56170 (eastbound) is closed for Route 6 until further notice due to construction",
+    "description": "Get on/off buses at:\r\n65th St W & Southdale Medical Bldg - Stop #1156 (eastbound)\r\nTemporary stop on 65th St 100 ft back from Drew Ave (eastbound)\r\nSouthdale Transit Center & Gate A - Stop #53703 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "34991",
+    "header": "Route 2 detoured off 10th Ave SE from 5th St to University Ave and off University Ave from 10th Ave SE to 15th Ave SE beginning Mon Mar 31 at 7:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\n10th Ave SE & 5th St SE - Stop #56699 (southbound)\r\nTemporary stop on University Ave just past 15th Ave SE (eastbound)\r\nUniversity Ave SE & 17th Ave SE - Stop #16140 (eastbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on 10th Ave SE to 5th St, left on 5th St, right on 15th Ave SE, left on University Ave, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nUniversity Ave SE & 12th Ave SE - Stop #16136 (eastbound)\r\nUniversity Ave SE & 15th Ave SE - Stop #16137 (eastbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "2",
+      "2"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "34992",
+    "header": "Route 6U detoured off University Ave from I-35W to Oak St beginning Mon Mar 31 at 7:00 AM until further notice due to construction",
+    "description": "Get on/off northbound buses at:\r\nUniversity Ave SE & 8th Ave SE - Stop #16132 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nWashington Ave & Coffman Union - Stop #13209 (eastbound)\r\nOak St SE & University Ave SE - Stop #41243 (eastbound)\r\nUniversity Ave SE & Ontario St/Huron Blvd - Stop #16143 (eastbound)\r\n\nNorthbound 6U buses will travel regular route on University Ave to I-35W, right on southbound I-35W ramp, exit at Washington Ave, left on Washington and continue onto Cedar Ave, left on 3rd St ramp and continue onto Washington Ave, left on Oak St, right on University Ave, and resume regular route.\r\n\nAffected direction: Northbound\r\n\nAffected stops:\r\nUniversity Ave SE & 12th Ave SE - Stop #16136 (eastbound)\r\nUniversity Ave SE & 15th Ave SE - Stop #16137 (eastbound)\r\nUniversity Ave SE & 17th Ave SE - Stop #16140 (eastbound)\r\nUniversity Ave SE & Univ Rec Center - Stop #16142 (eastbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "6",
+      "6",
+      "6",
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "34994",
+    "header": "Hennepin Ave S & 36th St W - Stop #1111 (southbound) is closed for Route 6 beginning Tue Mar 25 at 9:00 AM until further notice due to METRO E Line construction",
+    "description": "Get on/off buses at:\r\nHennepin Ave S & 34th St W - Stop #1109 (southbound)\r\n36th St W & Humboldt Ave S - Stop #1113 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35025",
+    "header": "Route 75 detoured off Minnesota St from 7th St to 10th St beginning Mon Mar 31 at 4:00 AM until further notice due to construction",
+    "description": "Get on/off northbound buses at:\r\nMinnesota St & 7th St - Stop #41241 (northbound)\r\n\nNo southbound stops missed.\r\n\nNorthbound buses will travel regular route on Minnesota St to 7th St, right on 7th St, left on Jackson St and layover on northbound Jackson St at 10th St.\r\n\nSouthbound buses will depart temporary layover on northbound Jackson St at 10th St, continue straight on Jackson St to 12th St, left on 12th St to Minnesota St, and resume regular route.\r\n\nAffected stops:\r\nMinnesota St & 9th St - Stop #50540 (northbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "75"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35027",
+    "header": "Routes 3, 62 and 67 detoured off Minnesota St from 7th St to 10th St beginning Mon Mar 31 at 4:00 AM until further notice",
+    "description": "Get on/off northbound/westbound buses at:\r\nMinnesota St & 7th St - Stop #41241 (northbound)\r\n10th St E & Cedar St - Stop #52329 (westbound)\r\n\nNorthbound/westbound buses will travel regular route on Minnesota St to 7th St, right on 7th St, left on Jackson St, left on 10th St, continue on 10th St to Cedar St and resume regular route.\r\n\nSouthbound/eastbound buses will travel regular route.\r\n\nAffected stops:\r\nMinnesota St & 9th St - Stop #50540 (northbound)",
+    "effect": "4",
+    "cause": "1",
+    "affected_routes": [
+      "3",
+      "62",
+      "67"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35028",
+    "header": "Routes 68 and 71 detoured off Minnesota St from 7th St to 11th St and off 11th St from Minnesota St to Jackson St beginning Mon Mar 31 at 4:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\nMinnesota St & 7th St - Stop #41241 (northbound)\r\nJackson St & 14th St - Stop #11903 (northbound, 68M, 68R and 71 buses only)\r\nJackson St & 14th St - Stop #11904 (southbound, 68 Downtown only)\r\n\nNorthbound buses will travel regular route on Minnesota St to 7th St, right on 7th St, left on Jackson St to 11th St, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\nMinnesota St & 9th St - Stop #50540 (northbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "68",
+      "71"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35039",
+    "header": "Excelsior Blvd & Market Plaza - Stop #42034 (westbound) is closed for Route 612 until further notice due to construction",
+    "description": "Get on/off buses at:\r\nLake St W & Dean Pkwy E - Stop #3527 (westbound)\r\nExcelsior Blvd & Market / Abbott - Stop #50108 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "612"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35042",
+    "header": "Excelsior Blvd & 32nd St W - Stop #3532 (westbound) is closed for Route 612 until further notice due to construction",
+    "description": "Get on/off buses at:\r\nExcelsior Blvd & Market / Abbott - Stop #50108 (westbound)\r\nTemporary stop on Excelsior Blvd just past 32nd St W (westbound)\r\nExcelsior Blvd & France Ave S - Stop #3533 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "612"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35069",
+    "header": "Route 32 detoured off Lowry Ave from Central Ave to Arthur St beginning Mon Mar 24 at 4:00 AM until further notice due to construction",
+    "description": "Updated get on/off stops 3/27 1:15 pm.\r\n\nFor eastbound Route 32 get on/off buses at:\r\nLowry Ave NE & Monroe St NE - Stop #12822 (eastbound, 32 buses that depart Robbinsdale Transit Center only)\r\n22nd Ave NE & Edison High - Gate A - Stop #56073 (eastbound, 32 buses that depart Edison High School only)\r\nTemporary stop on Lowry Ave between Jackson St and Central Ave (eastbound)\r\nTemporary stop on 26th Ave NE & Fillmore St (eastbound)\r\nTemporary stop on 26th Ave NE & Johnson St (eastbound)\r\nLowry Ave NE & Arthur St NE - Stop #12850 (eastbound)\r\n\nFor westbound Route 32 get on/off buses at:\r\nLowry Ave NE & Arthur St NE - Stop #12849 (westbound)\r\nTemporary stop on 26th Ave NE & Johnson St (westbound)\r\nTemporary stop on 26th Ave NE & Fillmore St (westbound)\r\nCentral Ave NE & Lowry Ave NE - Stop #17195 (southbound)\r\nLowry Ave NE & Howard St NE - Stop #57446 (westbound)\r\n\nEastbound buses will travel regular on Lowry Ave to Central Ave, left on Central, right on 26th Ave NE, right on Arthur St, right on Garfield St, left on Lowry Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lowry Ave to Arthur St, right on Arthur, left on 26th Ave NE, left on Central Ave, right on Lowry Ave, and resume regular route.\r\n\nAffected stops:\r\nLowry Ave NE & Central Ave NE - Stop #12827 (eastbound)\r\nLowry Ave NE & Taylor St NE - Stop #12831 (eastbound)\r\nLowry Ave NE & Pierce St NE - Stop #12835 (eastbound)\r\nLowry Ave NE & Lincoln St NE - Stop #12839 (eastbound)\r\nLowry Ave NE & Johnson St NE - Stop #42286 (eastbound)\r\nLowry Ave NE & Hayes St NE - Stop #12846 (eastbound)\r\nLowry Ave NE & Hayes St NE - Stop #12845 (westbound)\r\nLowry Ave NE & Johnson St NE - Stop #42287 (westbound)\r\nLowry Ave NE & Pierce St NE - Stop #12836 (westbound)\r\nLowry Ave NE & Taylor St NE - Stop #12832 (westbound)\r\nLowry Ave NE & Central Ave NE - Stop #12828 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "32"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35097",
+    "header": "Route 2 detoured off Hennepin Ave from Franklin Ave to 22nd St beginning Mon Mar 31 until further notice due to construction",
+    "description": "Get on/off buses at:\r\nFranklin Ave W & Lyndale Ave S - Stop #13335 (westbound)\r\nDupont Ave S & 22nd St E / Franklin Ave - Stop #57469 (northbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Franklin Ave to Hennepin Ave, continue on Franklin to Emerson Ave, left on Emerson, left on 22nd St, left on Dupont Ave, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nHennepin Ave & Franklin Ave W - Stop #1096 (southbound)\r\nHennepin Ave S & 22nd St W - Stop #1099 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "2",
+      "2"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35163",
+    "header": "Route 62 detoured off Rice St from Maryland Ave to Larpenteur Ave beginning Mon Apr 7 at 4:45 AM until further notice due to Rice St construction project",
+    "description": "Updated 4:48 AM -- Southbound detour start time adjusted to 4:45 AM \r\n\nFor northbound Route 62 get on/off buses at:\r\nRice St & Maryland Ave - Stop #10503 (northbound)\r\nJackson St & Timberlake Rd - Stop #49670 (northbound)\r\nLarpenteur Ave W & Rice St - Stop #56959 (westbound)\r\nRice St & McCarrons Blvd S - Stop #46708 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nRice St & McCarrons Blvd S - Stop #46696 (southbound)\r\nLarpenteur Ave W & Rice St/Camelot St - Stop #56969 (eastbound)\r\nJackson St & Arlington Ave - Stop #49680 (southbound)\r\nTemporary stop Rice St just past Maryland Ave (southbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\n\nNorthbound buses will travel regular route on Rice St to Maryland Ave, right on Maryland, left on Jackson St, left on Larpenteur Ave, right on Rice, and resume regular route.\r\n\nSouthbound buses will travel regular route on Rice St to Larpenteur Ave, left on Larpenteur, right on Jackson St, right on Maryland Ave, left on Rice, and resume regular route.\r\n\nAffected stops:\r\nRice St & Orange Ave - Stop #10505 (northbound)\r\nRice St & Ivy Ave - Stop #10507 (northbound)\r\nRice St & Cottage Ave - Stop #10508 (northbound)\r\nRice St & Arlington Ave - Stop #46702 (northbound)\r\nRice St & Nebraska Ave - Stop #52555 (northbound)\r\nRice St & Hoyt Ave - Stop #46704 (northbound)\r\nRice St & Wheelock Pkwy - Stop #46705 (northbound)\r\nRice St & Larpenteur Ave - Stop #46707 (northbound)\r\nRice St & Larpenteur Ave - Stop #46697 (southbound)\r\nRice St & Wheelock Pkwy - Stop #46698 (southbound)\r\nRice St & Hoyt Ave - Stop #46699 (southbound)\r\nRice St & Nebraska Ave - Stop #46700 (southbound)\r\nRice St & Arlington Ave - Stop #46701 (southbound)\r\nRice St & Cottage Ave - Stop #10467 (southbound)\r\nRice St & Ivy Ave - Stop #10468 (southbound)\r\nRice St & Orange Ave - Stop #10470 (southbound)\r\nRice St & Maryland Ave - Stop #10471 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "62"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35301",
+    "header": "Route 94, 355, and 363 detoured off 6th St and 7th St from 11th Ave to I-94 until further notice due to construction",
+    "description": "Get on/off eastbound buses at:\r\n6th St S & Bud Grant Way - Stop #17888 (eastbound)\r\n\nNo westbound stops will be missed.\r\n\nEastbound buses will travel regular route on 6th St to 11th Ave, left on 11th Ave, right on Washington Ave, right on Cedar Ave, left onto I-94 and resume regular route.\r\n\nWestbound buses will travel regular route on I-94 to Cedar Ave exit, exit at Cedar Ave, right on Cedar Ave, left on Washington Ave, left on 11th Ave, right on 7th St, and resume regular route.\r\n\nAffected stops:\r\n6th St S & 11th Ave S - Stop #17890 (eastbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "355",
+      "363",
+      "94"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35311",
+    "header": "Route 63 detoured off Grand Ave from Cleveland Ave to Snelling Ave beginning Mon Apr 14 until further notice due to construction",
+    "description": "For eastbound Route 63 get on/off buses at:\r\nGrand Ave & Cretin Ave - Stop #3104 (eastbound)\r\nCleveland Ave & Grand Ave - Stop #18785 (northbound)\r\nTemporary stop Summit Ave & Fairview Ave (eastbound)\r\nTemporary stop Grand Ave just past Snelling Ave (eastbound)\r\nGrand Ave & Pascal St - Stop #3116 (eastbound)\r\n\nFor westbound Route 63 get on/off buses at:\r\nGrand Ave & Pascal St - Stop #3087 (westbound)\r\nTemporary stop Grand Ave just before Snelling Ave (westbound)\r\nTemporary stop Summit Ave & Fairview Ave (westbound)\r\nGrand Ave & Cleveland Ave - Stop #56942 (westbound)\r\n\nEastbound buses will travel regular route on Grand Ave to Cleveland Ave, left on Cleveland, right on Summit Ave, right on Snelling Ave, left on Grand Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Grand Ave to Snelling Ave, right on Snelling, left on Summit Ave, left on Cleveland Ave, right on Grand, and resume regular route.\r\n\nAffected stops:\r\nGrand Ave & Cleveland Ave - Stop #56943 (eastbound)\r\nGrand Ave & Prior Ave - Stop #3108 (eastbound)\r\nGrand Ave & Fairview Ave - Stop #56945 (eastbound)\r\nGrand Ave & Cambridge St - Stop #3112 (eastbound)\r\nGrand Ave & Snelling Ave - Stop #3114 (eastbound)\r\nGrand Ave & Snelling Ave - Stop #3089 (westbound)\r\nGrand Ave & Cambridge St - Stop #3091 (westbound)\r\nGrand Avenue & Fairview Ave - Stop #56944 (westbound)\r\nGrand Ave & Prior Ave - Stop #3095 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "63",
+      "63",
+      "63",
+      "63",
+      "63",
+      "63",
+      "63",
+      "63",
+      "63"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35317",
+    "header": "White Bear Ave & 7th St E - Stop #13601 (northbound) and White Bear Ave & 7th St E - Stop #12894 (southbound) are closed for Route 80 beginning Mon Apr 14 at 6:00 AM until further notice due to construction",
+    "description": "For northbound Route 80 get on/off buses at:\r\nWhite Bear Ave & Bush Ave - Stop #13599 (northbound)\r\nWhite Bear Ave & Stillwater Ave - Stop #10404 (northbound)\r\n\nFor southbound Route 80 get on/off buses at:\r\nWhite Bear Ave & Stillwater Ave - Stop #12893 (southbound)\r\nWhite Bear Ave & Bush Ave - Stop #13603 (southbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "80",
+      "80"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35328",
+    "header": "82nd St W & Bloomington Frwy Rd E - Stop #42103 (westbound) is closed for Routes 4 and 538 until further notice",
+    "description": "Get on/off buses at:\r\n82nd St W & Colfax Ave S - Stop #42093 (westbound)\r\nTemporary stop on 82nd St W 150 ft before closed stop (westbound)\r\nKnox Ave S & 82nd St / 81st St W - Stop #41216 (northbound)",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "4",
+      "538"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35350",
+    "header": "Route 74 detoured off Minnehaha Ave from Hazel St to Mcknight Rd/Stillwater Rd beginning Mon Apr 14 at 4:00 AM until further notice due to construction",
+    "description": "Updated get on/off locations 4/18 2:30 PM.\r\n\nFor eastbound Route 74 get on/off buses at:\r\n7th St E & Hazel St N - Stop #56049 (eastbound)\r\nStillwater Rd & Bush Ave - Stop #5221 (southbound, 74S only)\r\nTemporary stop Stillwater Rd & Reaney Ave (southbound, 74S only)\r\nTemporary stop Margaret St & Winthrop St (westbound, 74S only)\r\nTemporary stop Margaret St & Pedersen St (westbound, 74S only)\r\nTemporary stop Margaret St & Ruth St (westbound, 74S only)\r\nRuth St & 5th St E - Stop #49624 (southbound)\r\n\nFor westbound Route 74 get on/off buses at:\r\nRuth St & Margaret St - Stop #49636 (northbound)\r\nTemporary stop Margaret St & Pedersen St (eastbound, 74 via Stillwater Rd only)\r\nTemporary stop Margaret St & Winthrop St (eastbound, 74 via Stillwater Rd only)\r\nTemporary stop Stillwater Rd & Reaney Ave (northbound, 74 via Stillwater Rd only)\r\nStillwater Rd & Bush Ave - Stop #5181 (northbound, 74 via Stillwater Rd only)\r\n7th St E & Hazel St N - Stop #56052 (westbound)\r\n\nEastbound 74C buses will travel regular route on Hazel St to Minnehaha Ave, continue on Hazel to left on Margaret St, right on Ruth St, and resume regular route.\r\n\nEastbound 74S buses will travel regular route on Stillwater Rd to Minnehaha Ave, continue on Stillwater Rd onto McKnight Rd, right on Margaret St, left on Ruth St, and resume regular route.\r\n\nWestbound buses via Hazel St will travel regular route on Ruth St to Margaret St, left on Margaret, right on Hazel St, continue to Minnehaha Ave and resume regular route.\r\n\nWestbound buses via Stillwater Rd will travel regular route on Ruth St to Margaret St, right on Margaret, left on McKnight Rd, continue onto Stillwater Rd, and resume regular route.\r\n\nAffected stops:\r\nMinnehaha Ave & Hazel St - Stop #56050 (eastbound)\r\nMinnehaha Ave & McKnight Rd - Stop #10565 (westbound)\r\nMinnehaha Ave & Winthrop St - Stop #10607 (westbound)\r\nMinnehaha Ave & Pedersen St - Stop #10608 (westbound)\r\nRuth St & Minnehaha Ave - Stop #51289 (southbound)\r\nRuth St & Margaret St - Stop #49623 (southbound)\r\nRuth St & Minnehaha Ave - Stop #49637 (northbound)\r\nMinnehaha Ave & Hazel St - Stop #56051 (westbound)\r\nMinnehaha Ave & Pedersen St - Stop #10559 (eastbound)\r\nMinnehaha Ave & Winthrop St - Stop #10560 (eastbound)\r\nMinnehaha Ave & Howard St / McKnight Rd - Stop #10562 (eastbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35368",
+    "header": "Route 68M detoured off westbound Larpenteur Ave between Jackson St and Rice St until further notice due to Rice St construction project.",
+    "description": "Updated get on/off locations 4/11 8:15 AM.\r\n\nFor northbound Route 68M get on/off buses at:\r\nJackson St & Larpenteur Ave - Stop #18051 (northbound)\r\nLarpenteur Ave W & Rice/Camelot St -Stop #56960 (eastbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nLarpenteur Ave W & Rice / Camelot St - Stop #56960 (eastbound)\r\nLarpenteur Ave & Sylvan St - Stop #49945 (eastbound)\r\n\nNorthbound buses will travel regular route on Jackson St to Larpenteur Ave, continue on Jackson to Roselawn Ave, left on Roselawn, left on Rice St, left on Larpenteur and layover on Larpenteur Ave & Rice St/Camelot St.\r\n\nSouthbound buses will depart the temporary layover and travel eastbound on Larpenteur Ave to Camelot St and resume regular route.\r\n\n68R buses will travel regular route.\r\n\nAffected stops:\r\nLarpenteur Ave & Abell St N - Stop #49941 (westbound)\r\nLarpenteur Ave & Sylvan St - Stop #49942 (westbound)\r\nCamelot St & Larpenteur/California Ave - Stop #49905 (southbound)\r\nLarpenteur Ave W & Rice St - Stop #56959 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "68",
+      "68",
+      "68",
+      "68"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35370",
+    "header": "Route 4 detoured off Johnson St NE from 19th Ave to 26th Ave beginning Mon Apr 7 at 4:00 AM until further notice due to construction",
+    "description": "For northbound Route 4 get on/off buses at:\r\nJohnson St NE & 19th Ave NE - Stop #42290 (northbound)\r\nLowry Ave NE & Arthur St NE - Stop #12849 (westbound)\r\nJohnson St NE & 27th Ave NE - Stop #16026 (northbound)\r\n\nFor southbound Route 4 get on/off buses at:\r\nJohnson St NE & 27th Ave NE - Stop #42303 (southbound)\r\nLowry Ave NE & Arthur St NE - Stop #12850 (eastbound)\r\nJohnson St NE & 19th Ave NE - Stop #42306 (southbound)\r\n\nNorthbound buses will travel regular route on Johnson St to 19th Ave, right on 19th Ave, left on Stinson Pkwy, left on Lowry Ave, right on Arthur St, left on 26th Ave, right on Johnson, and resume regular route.\r\n\nSouthbound buses will travel regular route on Johnson St to 26th Ave, left on 26th Ave, right on Arthur St, right on Garfield St, left on Lowry Ave, right on Stinson Pkwy, right on 19th Ave, left on Johnson, and resume regular route.\r\n\nAffected stops:\r\nJohnson St NE & 22nd Ave NE - Stop #16034 (northbound)\r\nJohnson St NE & 23rd Ave NE - Stop #42291 (northbound)\r\nJohnson St NE & Lowry Ave NE - Stop #42292 (northbound)\r\nJohnson St NE & Lowry Ave NE - Stop #16031 (southbound)\r\nJohnson St NE & 23rd Ave NE - Stop #16032 (southbound)\r\nJohnson St NE & 22nd Ave NE - Stop #16035 (southbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "4"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35373",
+    "header": "Route 760 detoured out of 65th Ave and Brooklyn Blvd Park & Ride beginning Mon Apr 14 at 5:00 AM until further notice due to construction",
+    "description": "Get on/off northbound buses at:\r\nBrooklyn Blvd & 65th Ave N - Stop #52723 (northbound)\r\n\nGet on/off southbound buses at:\r\nBrooklyn Blvd & 65th Ave N - Stop #52724 (southbound)\r\n\nThe Park & Ride is still open to customers to park, buses will just not be able to access the Park & Ride directly.\r\n\nNorthbound buses will travel regular route on Brooklyn Blvd to 65th Ave, buses will continue on Brooklyn Blvd and resume regular route.\r\n\nSouthbound buses will travel regular route on Brooklyn Blvd to 65th Ave, buses will continue on Brooklyn Blvd and resume regular route.\r\n\nAffected stops:\r\nBrooklyn Blvd P&R & 65th Ave N - Stop #44655 (northbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "760"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35454",
+    "header": "Route 32 detoured off Lowry Ave N from Washington Ave N to 2nd St N beginning Mon Apr 21 at 7:00 AM due to construction",
+    "description": "For eastbound Route 32 get on/off buses at:\r\nLowry Ave N & 4th St / 3rd St N - Stop #12790 (eastbound)\r\nLowry Ave NE & Marshall St NE - Stop #12195 (eastbound)\r\n\nFor westbound Route 32 get on/off buses at:\r\nLowry Ave NE & Marshall St NE - Stop #12196 (westbound)\r\nLowry Ave N & 4th St N - Stop #12789 (westbound)\r\n\nEastbound buses will travel regular route on Lowry Ave to Washington Ave N, right on Washington, left on 30th Ave, left on 2nd St N, right on Lowry, and resume regular route.\r\n\nWestbound buses will travel regular route on Lowry Ave to 2nd St N, right on 2nd St, left on 33rd Ave, left on Washington Ave N, right on Lowry, and resume regular route.\r\n\nAffected stops:\r\nLowry Ave N & 2nd St N - Stop #12794 (eastbound)\r\nLowry Ave N & Washington Ave N - Stop #12792 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "32",
+      "32"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35474",
+    "header": "Route 250 detoured off Mounds View Blvd at Co Rd H until further notice due to construction",
+    "description": "No stops missed.\r\n\nNorthbound buses will travel regular route on northbound I-35W to Mounds View Blvd/Co Rd 10 exit, continue on I-35W and exit at Co Rd H, left on Co Rd H, left into Co Rd H Park & Ride lot, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected direction: Northbound",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "250"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35486",
+    "header": "Snelling & St Clair Station - Stop #56116 (northbound) and Snelling & St Clair Station - Stop #17318 (southbound) are closed for A Line until further notice due to construction",
+    "description": "Get on/off northbound buses at:\r\nSnelling & Randolph Station - Stop #56115 (northbound)\r\nTemporary stop on Snelling Ave & Sargent Ave (northbound)\r\nSnelling & Grand Station - Stop #17366 (northbound)\r\n\nGet on/off southbound buses at:\r\nSnelling & Grand Station - Stop #17312 (southbound)\r\nTemporary stop on Snelling Ave & Berkeley Ave (southbound)\r\nSnelling & Randolph Station - Stop #56123 (southbound)\r\n",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "921",
+      "921"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35487",
+    "header": "Buses will replace Blue Line trains from Fort Snelling Station to Mall of America Station April 23-May 14",
+    "description": "Buses will replace METRO Blue Line trains beginning at 10 p.m. on Wednesday, April 23 to allow for scheduled maintenance. At that time buses will replace trains between Fort Snelling and Mall of America stations in both directions.\r\nFind your specific replacement bus locations for all stations at link below.\r\nNOTE: The light rail shuttle between airport terminals will not be available during this closure. Please use replacement buses to travel between terminals (bus ride is about 10 minutes between terminals).\r\n\nTrain service will return at these stations by 3 a.m. on Wednesday, May 14.\r\n\nNOTE: Replacement bus timing can vary and trips may take longer because of needed routing and traffic conditions. Please plan extra time for your trip.\r\n\nWork being conducted includes replacement of track and rail switches.\r\n\nHeading to Twins games or other downtown events? Park and ride from Fort Snelling Station during the closure.\r\n\nWe appreciate your patience while we care for your system!\r\n\nAffected stops:\r\nMall of America Station (northbound)\r\n30th Ave Station (northbound)\r\nBloomington Central Station (northbound)\r\nAmerican Blvd Station (northbound)\r\nTerminal 2 Station (northbound)\r\nTerminal 1 Station (northbound)\r\nFort Snelling Station (southbound)\r\nTerminal 1 Station (southbound)\r\nTerminal 2 Station (southbound)\r\nAmerican Blvd Station (southbound)\r\nBloomington Central Station (southbound)\r\n30th Ave Station (southbound)\r\nMall of America Station (southbound)",
+    "effect": "4",
+    "cause": "1",
+    "affected_routes": [
+      "901",
+      "901",
+      "901",
+      "901",
+      "901",
+      "901",
+      "901",
+      "901",
+      "901",
+      "901",
+      "901",
+      "901"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35488",
+    "header": "Route 46 detoured off 50th St/Vernon Ave from Eden Ave to Eden Ave beginning Wed Apr 23 at 5:00 AM until further notice due to construction",
+    "description": "For eastbound Route 46 get on/off buses at:\r\nEden-Vernon Busway & Sherwood/Vernon Ave - Stop #220 (westbound)\r\nTemporary stop Eden Ave & Arcadia Ave (eastbound)\r\nTemporary stop Eden Ave & 50th St W (eastbound)\r\n50th St W & Browndale Ave - Stop #982 (eastbound)\r\n\nFor westbound Route 46 get on/off buses at:\r\n50th St W & Browndale Ave - Stop #214 (westbound)\r\nTemporary stop Eden Ave & Grange Rd (westbound)\r\nTemporary stop Eden Ave & Arcadia Ave (westbound)\r\nEden-Vernon Busway & Sherwood/Vernon Ave - Stop #220 (westbound)\r\n\nEastbound buses will travel regular route on Vernon Ave to Eden Ave, right on Eden, right on 50th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 50th St to Eden Ave, left on Eden, left on Sherwood Rd, and resume regular route.\r\n\nAffected stops:\r\nVernon Ave & Eden Ave - Stop #542 (northbound)\r\nVernon Ave & #5101 - Stop #543 (northbound)\r\nVernon Ave & Interlachen Blvd - Stop #544 (eastbound)\r\nVernon Ave & Arcadia Ave - Stop #545 (eastbound)\r\n50th St W & Edina City Hall - Stop #979 (eastbound)\r\n50th St W & Grange Rd - Stop #216 (westbound)\r\nVernon Ave & Interlachen Blvd - Stop #217 (westbound)\r\nVernon Ave & Wells Fargo Bank - Stop #218 (southbound)\r\nEden Ave & Vernon Ave / Sherwood Rd - Stop #219 (eastbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "46",
+      "46",
+      "46",
+      "46",
+      "46",
+      "46",
+      "46",
+      "46",
+      "46"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35568",
+    "header": "Route 75 detoured off 50th St from Ashley Ln to Ashley Ln beginning Mon Apr 28 at 7:00 AM until further notice due to construction",
+    "description": "No northbound stops will be missed.\r\n\nGet on/off southbound buses at:\r\n50th St E & Ashley Ln - Stop #56790 (southbound)\r\nTemporary stop 50th St E just past Ashley Ln (eastbound)\r\n50th St E & Babcock Trail - Stop #382 (eastbound)\r\n\nNorthbound buses will travel regular route on 50th St to Ashley Ln, right on Ashley Ln, right on 50th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 50th St to Ashley Ln, left on Ashley Ln, left on 50th St, and resume regular route.\r\n\nAffected stops:\r\n50th St E & Ashley Ln - Stop #56788 (eastbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "75"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35572",
+    "header": "Route 30 detoured off Eustis St from Como Ave to Larpenteur Ave and off Larpenteur Ave from Eustis St to Hwy 280 until further notice due to construction",
+    "description": "Get on/off westbound buses at:\r\nEustis St & Como Ave - Stop #50665 (northbound)\r\nLarpenteur Ave & 33rd Ave SE - Stop #41627 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Eustis St just past Como Ave, left into Como and Eustis Park & Ride, left on Como, right on Eustis, right onto northbound Hwy 280 ramp, exit Hennepin Ave/Larpenteur Ave, left on Hennepin Ave/Larpenteur Ave, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nEustis St & Idaho Ave - Stop #53796 (northbound)\r\nLarpenteur Ave & Malvern St - Stop #53896 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "30",
+      "30"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35574",
+    "header": "Southbound Route 7 detoured off 1st St N from 1st Ave N to Hennepin and off Hennepin from 1st St N to 2nd St N every day from 9:00 AM to 3:00 PM due to construction",
+    "description": "Get on/off buses at:\r\n1st St N & 2nd Ave N - Stop #53265 (eastbound)\r\nHennepin Ave & Washington Ave N - Stop #17919 (southbound)\r\n\nNorthbound buses are not affected.\r\nSouthbound buses will travel the regular route on 1st St N, right on 1st Ave N, left on 2nd St N, right on Hennepin, and resume the regular route.\r\n\nAffected stops:\r\n1st St N & Hennepin Ave - Stop #17971 (eastbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "7"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35575",
+    "header": "Route 6 detoured off Hennepin from 1st St S to Washington Ave S until further notice every day from 9:00 AM to 3:00 PM",
+    "description": "Updated detour routing to clarify that this detour only affects southbound buses originating in downtown on 4/21 at 1:30 PM. \r\n\nGet on/off buses at:\r\n1st St N & Hennepin Ave - Stop #17971 (eastbound)\r\nHennepin Ave & 3rd St N - Stop #17921 (southbound)\r\n\nNorthbound buses are not affected.\r\n\nSouthbound buses originating at 1st St N and 1st Ave N will travel the regular route on 1st St N to Hennepin Ave, continue onto 1st St S, right on Marquette Ave, right Washington Ave, left on Hennepin, and resume the regular route.\r\n\nAffected stops:\r\nHennepin Ave & Washington Ave N - Stop #17919 (southbound)",
+    "effect": "4",
+    "cause": "1",
+    "affected_routes": [
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35596",
+    "header": "1st St N & Hennepin Ave - Stop #17961 (westbound) is closed for Routes 7, 667 and 673 until further notice",
+    "description": "Get on/off 7 buses at:\r\n3rd St S & Nicollet Mall - Stop #40172 (westbound)\r\n1st St N & 2nd Ave N - Stop #17962 (westbound)\r\n\nGet on/off 667 & 673 buses at:\r\n2nd Ave S & Washington Ave S - Stop #19260 (northbound)\r\nTemporary stop on 1st St N & 1st Ave N (westbound)",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "667",
+      "673",
+      "7"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35608",
+    "header": "Hennepin Ave & Washington / 2nd St - Stop #17950 (northbound) is closed for Routes 4B, 6U, 11 and 61 until further notice",
+    "description": "Updated get on/off locations 4/23 8:15 AM.\r\n\nGet on/off buses at:\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound, Route 11 only)\r\nHennepin Ave & 4th St S - Stop #17948 (northbound, routes 4, 6, and 61 only)\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\n",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "11",
+      "4",
+      "6",
+      "61"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35627",
+    "header": "Central Ave NE & 50th Ave NE - Stop #17144 (northbound) is permanently moving for Route 10",
+    "description": "Effective Saturday, May 3, the bus stop on northbound Central Ave NE & 50th Ave NE will permanently relocate. The new location of the stop is on Central Ave NE just past 50th Ave NE.",
+    "effect": "9",
+    "cause": "1",
+    "affected_routes": [
+      "10"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35635",
+    "header": "Route 6 detoured off Sheridan Ave from 39th St to 40th St beginning Mon Apr 28 at 4:00 AM until further notice due to METRO E Line construction",
+    "description": "For northbound Route 6 get on/off buses at:\r\nSheridan Ave S & 40th St W - Stop #6205 (northbound, buses via Xerxes Ave only)\r\nRichfield Rd & William Berry Pkwy - Stop #1311 (northbound)\r\n\nFor southbound Route 6 get on/off buses at:\r\nRichfield Rd & William Berry Pkwy - Stop #1116 (southbound)\r\n39th St W & Zenith Ave S - Stop #1124 (westbound, 6D & 6F buses only)\r\nSheridan Ave S & 40th St W - Stop #6376 (southbound, 6C, 6E, 6G, & 6K buses only)\r\n\nNorthbound buses via Xerxes Ave will travel regular route on Sheridan Ave to 40th St, right on 40th St, left on Richfield Rd, right on 39th St, and resume regular route.\r\n\nNorthbound buses via France Ave will travel regular route.\r\n\nSouthbound Route 6C, 6E, 6G, and 6K buses will travel regular route on 39th St to Sheridan Ave, continue on 39th St to left on Upton Ave, left on 40th St, right on Sheridan Ave, and resume regular route.\r\n\nSouthbound Route 6D and 6F buses will travel regular route.\r\n\nAffected stops:\r\nSheridan Ave S & 39th St W - Stop #6206 (northbound)\r\n39th St W & Sheridan Ave S - Stop #1117 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "6",
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35650",
+    "header": "5th St Transit Center Gate C - Stop #51201 (eastbound) is closed for Route 355 beginning Mon Apr 21 at 8:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\n5th St Transit Center Gate A - Stop #17857 (eastbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "355"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35652",
+    "header": "5th St Transit Center lobby is closed for Routes 14, 94, 355 and 363 until further notice due facility improvements",
+    "description": "Buses will continue to provide service to stops at the 5th St Transit Center, but the lobby is closed until further notice due to facility improvements. We apologize for any inconvenience. ",
+    "effect": "7",
+    "cause": "9",
+    "affected_routes": [
+      "14",
+      "355",
+      "363",
+      "94"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35653",
+    "header": "5th St Transit Center Gate D - Stop #51202 (eastbound) is closed for Route 363 beginning Mon Apr 21 at 8:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\n5th St Transit Center Gate A - Stop #17857 (eastbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "363"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35654",
+    "header": "Routes 25 and 804 detoured off 89th Ave from Jefferson St to Central Ave/Hwy 65 beginning Mon Mar 17 at 6:00 AM until further notice due to construction",
+    "description": "Get on/off northbound Route 25 and westbound Route 804 buses at:\r\n85th Ave NE & Hwy 65 Service Rd E - Stop #13951 (westbound)\r\nTemporary stop on 91st Ave NE just past Polk St NE (westbound)\r\n87th Lane NE & 89th Ave NE - Stop #13923 (southbound)\r\n\nGet on/off southbound Route 25 and eastbound Route 804 buses at:\r\n89th Ave NE & 87th Ln NE - Stop #57119 (eastbound)\r\nTemporary stop on 91st Ave NE & Polk St NE (eastbound)\r\n85th Ave NE & Hwy 65 Central Ave - Stop #49272 (eastbound)\r\n\nNorthbound Route 25 and westbound Route 804 buses will travel regular route on Central Ave to 89th Ave, continue on Central Ave/Hwy 65, left on Clover Leaf Pkwy, left on Polk St, right on 91st Ave, left on Jefferson St, right on 89th Ave, and resume regular route.\r\n\nSouthbound Route 25 and eastbound Route 804 buses will travel regular route on 89th Ave to Jefferson St, left on Jefferson, right on 91st Ave, left on Polk St, right on Clover Leaf Pkwy, right on Central Ave/Hwy 65, continue to 89th Ave, and resume regular route.\r\n\nAffected stops:\r\n89th Ave NE & Jefferson St - Stop #13925 (eastbound)\r\n89th Ave NE & Madison St - Stop #13926 (eastbound)\r\n89th Ave NE & Jackson St - Stop #13933 (eastbound)\r\n89th Ave NE & Polk St NE - Stop #13941 (eastbound)\r\n89th Ave NE & Lincoln St NE - Stop #13945 (eastbound)\r\n89th Ave NE & Blaine Human Service Cntr - Stop #13944 (westbound)\r\n89th Ave NE & Polk St - Stop #13940 (westbound)\r\n89th Ave NE & Jackson St - Stop #13932 (westbound)\r\n89th Ave NE & Madison St - Stop #13927 (westbound)\r\n89th Ave NE & Jefferson St - Stop #13924 (westbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "25",
+      "804"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35771",
+    "header": "39th St W & Sheridan Ave S - Stop #1310 (eastbound) is closed for Route 6 until further notice due to METRO E Line construction",
+    "description": "Get on/off buses at:\r\n39th St W & Vincent Ave S - Stop #1307 (eastbound, Route 6 via France Ave buses only)\r\nRichfield Rd & William Berry Pkwy - Stop #1311 (northbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35788",
+    "header": "Route 74 detoured off 7th St E from Hazelwood St to White Bear Ave beginning Mon May 5 at 6:00 AM until further notice due to construction",
+    "description": "For eastbound Route 74 get on/off buses at:\r\n7th St E & Hazelwood St - Stop #10399 (eastbound)\r\nWhite Bear Ave & 7th St E - Stop #13601 (northbound)\r\n7th St E & Van Dyke St - Stop #49612 (eastbound)\r\n\nFor westbound Route 74 get on/off buses at:\r\n7th St E & Van Dyke St - Stop #49650 (westbound)\r\n7th St E & #1467 - Stop #12899 (westbound)\r\n\nEastbound buses will travel regular route on 7th St to Hazelwood St, right on Hazelwood, left on Minnehaha Ave, left on White Bear Ave, right on 7th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 7th St to White Bear Ave, left on White Bear, right on Minnehaha Ave, right on Hazelwood St, left on 7th St, and resume regular route.\r\n \r\nAffected stops:\r\n7th St E & Germain St - Stop #10400 (eastbound)\r\n7th St E & Kennard St - Stop #10401 (eastbound)\r\n7th St E & Flandrau St - Stop #10402 (eastbound)\r\n7th St E & White Bear Ave - Stop #10403 (eastbound)\r\n7th St E & White Bear Ave - Stop #49651 (westbound)\r\n7th St E & Flandrau St - Stop #12895 (westbound)\r\n7th St E & Kennard St - Stop #12896 (westbound)\r\n7th St E & Germain St - Stop #12897 (westbound)\r\n7th St E & Hazelwood St - Stop #12898 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35800",
+    "header": "Routes 250 and 252 detoured off Naples St NE from 95th Ave NE to the 95th Ave Park & Ride until further notice",
+    "description": "No bus stops are missed.\r\n\nNorthbound buses will travel regular route on 95th Ave NE to Radisson Rd NE, continue on Radisson RD NE to 101st Ave NE, right on 101st Ave NE, right on Naples St NE, and left into the 95th Ave Park & Ride.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected direction: Northbound",
+    "effect": "4",
+    "cause": "1",
+    "affected_routes": [
+      "250",
+      "252"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35821",
+    "header": "France Ave S & 50th St W - Stop #80763 (northbound) is permanently moving for Route 6 until further notice due to METRO E Line construction",
+    "description": "Due to the construction of the METRO E Line station, the stop on northbound France Ave & 50th St will move. The new location of the stop is on northbound France Ave just past 50th St.\r\n\nGet on/off buses at:\r\nFrance Ave S just past 50th St W - Stop #1287 (northbound)",
+    "effect": "9",
+    "cause": "10",
+    "affected_routes": [
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35881",
+    "header": "Route 515 detoured off 12th Ave from 76th St to American Blvd until further notice due to construction",
+    "description": "Get on/off eastbound buses at:\r\n76th St E & 14th Ave S - Stop #41265 (westbound)\r\nTemporary stop 76th St E & 12th Ave S (westbound)\r\nAmerican Blvd & 13th Ave S - Stop #4525 (eastbound)\r\n\nEastbound buses will travel regular route on 76th St to 12th Ave, continue on 76th St to left on Portland Ave, left on American Blvd, continue to 12th Ave, and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound\r\n\nAffected stops:\r\n12th Ave S & 76th St E - Stop #41267 (southbound)\r\n12th Ave S & 77th St E - Stop #41268 (southbound)\r\n12th Ave S & 78th St E (Hwy 494 Front) - Stop #672 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "515",
+      "515",
+      "515"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35885",
+    "header": "Shingle Creek Pkwy & Summit Dr - Stop #11361 (northbound) is temporarily moving for Route 722 until further notice due to construction",
+    "description": "The bus stop has been relocated 100 feet north on Shingle Creek Pkwy at the end of the construction cones.",
+    "effect": "9",
+    "cause": "10",
+    "affected_routes": [
+      "722"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35893",
+    "header": "Effective Saturday, May 17, changes will take effect on Route 355",
+    "description": "Updated to include routing detail 5/6 11:30 AM.\r\n\nRoute 355 will no longer serve Woodbury Theatre Park & Ride and will now serve Woodlane Drive Station \u2013 Gate B in Woodbury.\r\n\nEastbound buses will travel regular route on Valley Creek Rd to Woodlane Dr, left on Woodlane Dr, left on Guider Dr into the Woodlane Dr Station and stop at Gate B.\r\n\nWestbound buses will depart Gate B, turn right on Woodlane Dr, right on Valley Creek Rd, and resume regular route.",
+    "effect": "6",
+    "cause": "1",
+    "affected_routes": [
+      "355"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35894",
+    "header": "Effective Saturday, May 17, changes will take effect on Route 323. Route will be extended to serve Queens Dr Station and Woodlane Dr Station.",
+    "description": "Updated to include route details, affected stops, and get on/off locations 5/6 11:15 AM.\r\n\nGet on/off eastbound buses:\r\nQueens Dr & Currell Blvd - Stop #57031 (eastbound)\r\nQueens Dr Station - Stop #57440 (westbound)\r\nWoodlane Dr Station - Gate B - Stop #57508\r\n\nGet on/off westbound buses:\r\nWoodlane Dr Station - Gate B - Stop #57508\r\nQueens Dr Station - Stop #57439 (eastbound)\r\nQueens Dr & Currell Blvd - Stop #57032 (westbound)\r\n\nEastbound buses will travel regular route on Valley Creek Rd to Queens Dr, left on Queens, left on Guider Dr, continue into Woodlane Dr Station to layover at Gate B.\r\n\nWestbound buses will depart Gate B, left on Woodlane Dr, right on Guider Dr, right on Queens Dr, right on Valley Creek, and resume regular route. \r\n\nAffected stops:\r\nQueens Dr & Woodbury Theatre - Stop #57034 (westbound)",
+    "effect": "6",
+    "cause": "1",
+    "affected_routes": [
+      "323"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35924",
+    "header": "Routes 3, 113, 114 and 252 service advisory beginning Thu May 15: U of M summer break begins",
+    "description": "The University of Minnesota's summer break begins Thursday, May 15th. U of M extra trips on Routes 3, 113, 114, and 252 will not operate starting on this date until fall semester begins in September. See schedules on metrotransit.org for more details.\r\n\nNote: During summer break, schedules online will not show the U of M-only trips that are not operating.",
+    "effect": "7",
+    "cause": "1",
+    "affected_routes": [
+      "113",
+      "114",
+      "252",
+      "3"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35925",
+    "header": "Route 7 detoured off Riverside Ave from 25th Ave S to 27th Ave S beginning Thu May 8 at 6:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\nRiverside Ave & 24th / 25th Ave S - Stop #13239 (eastbound)\r\n27th Ave S & Franklin Ave E - Stop #13247 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Riverside Ave to 25th Ave S, right on 25th Ave, left on 9th St, right on 27th Ave S, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nRiverside Ave & 25th Ave S - Stop #13241 (eastbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "7"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35928",
+    "header": "University Ave & 73rd Ave NE - Stop #40234 (southbound) is closed for Routes 10 and 824 until further notice",
+    "description": "Get on/off buses at:\r\nUniversity Ave & Osborne Rd NE - Stop #40237 (southbound)\r\nUniversity Ave & 69th Ave NE - Stop #40231 (southbound)",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "10",
+      "824"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35929",
+    "header": "Route 67 detoured off Riverside Ave from 25th Ave S to 29th Ave S and off 25th/26th Ave from Riverside Ave to Franklin Ave beginning Thu May 8 at 6:00 AM until further notice due to construction",
+    "description": "For eastbound Route 67 get on/off buses at:\r\n26th Ave S & Seward Tower West - Stop #56702 (northbound)\r\nRiverside Ave & 9th St S - Stop #13245 (eastbound)\r\n\nFor westbound Route 67 get on/off buses at:\r\nFranklin Ave E & 30th Ave / Riverside - Stop #16559 (westbound)\r\nFranklin Ave E & 24th Ave S - Stop #13259 (westbound)\r\n\nEastbound buses will travel regular route on 26th Ave S to 9th St, right on 9th St, right on Riverside Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Franklin Ave to Riverside Ave, continue on Franklin Ave to 26th Ave S, and resume regular route.\r\n\nAffected stops:\r\nRiverside Ave & 25th Ave S - Stop #13241 (eastbound)\r\nRiverside Ave & 9th St S - Stop #13236 (westbound)\r\nRiverside Ave & 8th St S - Stop #54011 (westbound)\r\n25th Ave S & Butler Place - Stop #56704 (southbound)\r\n26th Ave S & Seward Tower West - Stop #56703 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "67",
+      "67",
+      "67",
+      "67",
+      "67"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35932",
+    "header": "METRO Gold Line service advisory beginning Sat May 17: New Gate Assignment at Woodlane Dr Station",
+    "description": "METRO Gold Line buses will pick up and drop off at Gate A at Woodlane Dr Station beginning Sat May 17th.\r\n\nAffected stops:\r\nWoodlane Dr Station - Stop #57441 (westbound)",
+    "effect": "7",
+    "cause": "1",
+    "affected_routes": [
+      "905"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35933",
+    "header": "58th St W & Lyndale Ave S - Stop #3401 (eastbound) is closed for Route 4 until further notice due to construction",
+    "description": "Get on/off buses at:\r\nLyndale Ave S & 56th St W - Stop #139 (southbound)\r\nTemporary stop on Lyndale Ave just past 58th St (southbound)\r\nLyndale Ave S & 60th St W - Stop #40672 (southbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "4"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35938",
+    "header": "Route 6 detoured off 65th St from Drew Ave to France Ave until further notice due to construction",
+    "description": "Get on/off buses at:\r\n66th St W & Drew Ave S - Stop #4370 (westbound)\r\nFrance Ave S & Hwy 62 - Stop #47790 (northbound)\r\n\nNorthbound 6 (via France) buses will travel regular route on 66th St to Drew Ave, continue on 66th St to France Ave, right on France to 65th St, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected direction: Northbound\r\n\nAffected stops:\r\n65th St W & Fairview Hospital - Stop #4369 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35960",
+    "header": "Route 10 detoured off Central Ave from East Moore Lake Dr/Rice Creek Rd to 73rd Ave beginning Mon May 12 at 6:00 AM until further notice due to construction",
+    "description": "For northbound Route 10 get on/off buses at:\r\nCentral Ave NE & Woody Lane - Stop #14237 (northbound)\r\nTemporary stop East Moore Lake Dr just past Central Ave (westbound)\r\nTemporary stop Hwy 65 just past Mississippi St (northbound)\r\nTemporary stop Central Ave NE & Onondaga St (northbound)\r\nCentral Ave NE & 75th Ave NE - Stop #14027 (northbound)\r\n\nFor southbound Route 10 get on/off buses at:\r\nCentral Ave NE & Fireside Dr - Stop #14029 (southbound)\r\nTemporary stop Central Ave NE & 73 1/2 Ave NE (southbound)\r\nCentral Ave NE & Moore Lake Dr E - Stop #14240 (southbound)\r\n\nNorthbound 10N buses will travel regular route on Central Ave to East Moore Lake Dr, left on East Moore Lake, right on Hwy 65, right on 73rd Ave, left on Central Ave, and resume regular route.\r\n\nSouthbound 10 buses via Central Ave will travel regular route on Central Ave to 73rd Ave, right on 73rd Ave, left on Hwy 65, left on East Moore Lake Rd, right on Central Ave, and resume regular route.\r\n\nAffected stops:\r\nCentral Ave NE & Rice Creek Rd - Stop #14241 (northbound)\r\nCentral Ave NE & Mississippi St - Stop #14245 (northbound)\r\nCentral Ave NE & 66th Ave NE - Stop #14246 (northbound)\r\nCentral Ave NE & Medtronic - Stop #14253 (northbound)\r\nCentral Ave NE & Norton Ave - Stop #14254 (northbound)\r\nCentral Ave NE & 72nd Ave NE - Stop #14257 (northbound)\r\nCentral Ave NE & 73rd Ave NE - Stop #57445 (northbound)\r\nCentral Ave NE & 73rd Ave NE - Stop #14260 (southbound)\r\nCentral Ave NE & 72nd Ave NE - Stop #14256 (southbound)\r\nCentral Ave NE & Norton Ave - Stop #14255 (southbound)\r\nCentral Ave NE & 69th Ave NE - Stop #14251 (southbound)\r\nCentral Ave NE & 66th Ave NE - Stop #14247 (southbound)\r\nCentral Ave NE & Mississippi St - Stop #14244 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35961",
+    "header": "76th St W & Centennial Lakes Plaza - Stop #52038 (westbound) is temporarily moving for Route 6 beginning Mon May 12 at 8:00 AM until further notice",
+    "description": "The bus stop has been relocated 100 feet west of the closed stop on 76th St W.",
+    "effect": "9",
+    "cause": "1",
+    "affected_routes": [
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35983",
+    "header": "North tower elevator at Blue Line Lake St Midtown Station unavailable until further notice due to mechanical issue",
+    "description": "Riders should utilize the elevator in the south tower for light rail platform access. Sorry for the inconvenience.",
+    "effect": "11",
+    "cause": "3",
+    "affected_routes": [
+      "901",
+      "901"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35987",
+    "header": "Route 113 detoured off Grand Ave from 37th St to 39th St beginning Tue May 13 at 5:00 AM until further notice due to construction",
+    "description": "For northbound Route 113 get on/off buses at:\r\nGrand Ave S & 39th St W - Stop #14887 (northbound)\r\nGrand Ave S & 35th St W - Stop #14891 (northbound)\r\n\nFor southbound Route 113 get on/off buses at:\r\nGrand Ave S & 37th St W - Stop #14861 (southbound)\r\nGrand Ave S & 40th St W - Stop #14864 (southbound)\r\n\nNorthbound buses will travel regular route on Grand Ave to 39th St, right on 39th St, left on Pleasant Ave, left on 37th St, right on Grand, and resume regular route.\r\n\nSouthbound buses will travel regular route on Grand Ave to 37th St, right on 37th St, left on Harriet Ave, left on 39th St, right on Grand Ave, and resume regular route.\r\n\nAffected stops:\r\nGrand Ave S & 38th St W - Stop #14888 (northbound)\r\nGrand Ave S & 37th St W - Stop #14889 (northbound)\r\nGrand Ave S & 38th St W - Stop #14862 (southbound)\r\nGrand Ave S & 39th St W - Stop #14863 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "113",
+      "113",
+      "113",
+      "113"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35988",
+    "header": "Route 23 detoured off 38th St from Harriet Ave to Pleasant Ave beginning Tue May 13 at 5:00 AM until further notice due to construction",
+    "description": "For eastbound Route 23 get on/off buses at:\r\n38th St W & Harriet Ave S - Stop #17527 (eastbound)\r\n38th St W & Blaisdell Ave S - Stop #17519 (eastbound)\r\n\nFor westbound Route 23 get on/off buses at:\r\n38th St W & Pleasant Ave S - Stop #17522 (westbound)\r\n38th St W & Lyndale Ave S - Stop #17530 (westbound)\r\n\nEastbound buses will travel regular route on 38th St to Harriet Ave, right on Harriet, left on 39th St, left on Pleasant Ave, right on 38th St, and resume regular route. \r\n\nWestbound buses will travel regular route on 38th St to Pleasant Ave, right on Pleasant, left on 37th St, left on Harriet Ave, right on 38th St, and resume regular route.\r\n\nAffected stops:\r\n38th St W & Grand Ave S - Stop #17524 (eastbound)\r\n38th St W & Pleasant Ave S - Stop #17523 (eastbound)\r\n38th St W & Grand Ave S - Stop #17525 (westbound)\r\n38th St W & Harriet Ave S - Stop #17526 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "23",
+      "23",
+      "23",
+      "23"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35990",
+    "header": "Route 645 detoured off Ridgedale Dr from Cartway Ln to Oakland Rd and off Oakland Rd from Ridgedale Dr to Carlson Pkwy beginning Mon May 12 at 4:00 AM until further notice due to construction",
+    "description": "For eastbound Route 645 get on/off buses at:\r\nWayzata Blvd & Holiday Station - Stop #6998 (eastbound)\r\nRidgedale Dr & Cartway Lane - Stop #7035 (southbound)\r\n\nFor westbound Route 645 get on/off buses at:\r\nRidgedale Dr & Cartway Lane - Stop #56601 (northbound)\r\nWayzata Blvd & Holiday Station - Stop #6774 (westbound)\r\n\nEastbound 645 buses that depart Mound or Wayzata will travel regular route on Wayzata Blvd to Gleason Lake Rd/Bushaway Rd, continue onto eastbound Hwy 12/Hwy 394, exit at Plymouth Rd, left on Plymouth Rd, right on Cartway Ln, left on Ridgedale Dr, and resume regular route.\r\n\nWestbound 645C and 645E buses will travel regular route on Ridgedale Dr to Cartway Ln, right on Cartway, left on Plymouth Rd, right onto westbound Hwy 394 to Carlson Pkwy, and resume regular route.\r\n\nAffected stops:\r\nOakland Rd & Carlson Pkwy - Stop #7025 (eastbound)\r\nOakland Rd & Oakways Rd - Stop #7026 (eastbound)\r\nOakland Rd & Brightwood Dr - Stop #7027 (eastbound)\r\nRidgedale Dr & White Birch Rd - Stop #7028 (eastbound)\r\nRidgedale Dr & Wayzata Childrens Clinic - Stop #7030 (eastbound)\r\nRidgedale Dr & Fairfield Rd S - Stop #7031 (eastbound)\r\nRidgedale Dr & Essex Rd - Stop #7032 (eastbound)\r\nRidgedale Dr & Target Entrance - Stop #7033 (eastbound)\r\nRidgedale Dr & Ridgehaven / Cartway Lane - Stop #7034 (southbound)\r\nRidgedale Dr & Essex Rd - Stop #7077 (westbound)\r\nRidgedale Dr & Fairfield Rd S - Stop #7078 (westbound)\r\nRidgedale Dr & Wayzata Clinic - Stop #7079 (westbound)\r\nRidgedale Dr & White Birch Rd - Stop #7081 (westbound)\r\nOakland Rd & Brightwood Dr - Stop #7082 (westbound)\r\nOakland Rd & Oakways Rd - Stop #7083 (westbound)\r\nOakland Rd & Carlson Pkwy - Stop #42502 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35991",
+    "header": "Route 6 detoured off Hennepin Ave from 35th St to 36th St and off 36th St from Hennepin Ave to Holmes Ave until further notice due to construction",
+    "description": "Get on/off buses at:\r\nHennepin Ave S & 34th St W - Stop #1109 (southbound)\r\n36th St W & Humboldt Ave S - Stop #1113 (westbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Hennepin Ave to 35th St, right on 35th St, left on Holmes Ave, right on 36th St, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nHennepin Ave S & 36th St W - Stop #1111 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35996",
+    "header": "Route 578 detoured off Xerxes Ave from Heritage Dr to Hwy 62 until further notice due to construction",
+    "description": "Get on/off buses at:\r\nHeritage Dr & Xerxes Ave S - Stop #40586 (eastbound)\r\n\nNorthbound buses will travel regular route on Heritage Dr to Xerxes Ave, right on Xerxes, left on 64th St, left on Penn Ave, right on ramp to eastbound Hwy 62, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected direction: Northbound\r\n\nAffected stops:\r\nXerxes Ave S & Hwy 62 - Stop #6140 (northbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "578"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35998",
+    "header": "Route 578 detoured off 65th St from Barrie Rd to Drew Ave until further notice due to construction",
+    "description": "Get on/off buses at:\r\nBarrie Rd & 65th St W - Stop #40434 (southbound)\r\nSouthdale Transit Center & Gate C - Stop #53705 (northbound)\r\n\nNorthbound buses will travel the regular route.\r\n\nSouthbound buses will travel regular route on Barrie Rd to 65th St, continue on Barrie Rd to 66th St, right on 66th St, left on Drew Ave, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\n65th St W & Drew Ave S - Stop #41876 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "578"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "35999",
+    "header": "Hennepin Ave & 13th St / 12th St S - Stop #17942 (northbound) is closed for Routes 4 and 6 until further notice",
+    "description": "Get on/off buses at:\r\nHennepin Ave & Minneapolis College - Stop #17940 (northbound)\r\nTemporary Stop Hennepin Ave & 11th St S (northbound)\r\nHennepin Ave & 10th St S - Stop #17944 (northbound)",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "4",
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36025",
+    "header": "5th St & Minnesota St - Stop #49397 (eastbound) is closed for Routes 275 and five other routes beginning Sun May 11 at 9:00 PM until further notice due to construction",
+    "description": "Get on/off buses at:\r\n5th St & Wabasha St / Cedar St - Stop #48302 (eastbound)\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\n\nAffected routes:\r\n275\r\n294\r\n363\r\n480\r\n484\r\n489",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "275",
+      "294",
+      "363"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36026",
+    "header": "36th Ave N & Douglas Dr / Colorado Ave - Stop #40357 (eastbound) is closed for Route 14 beginning Mon May 12 at 7:00 AM until further notice",
+    "description": "Get on/off buses at:\r\nDouglas Dr N & 36th Ave N - Stop #19535 (northbound)\r\n36th Ave N & Brunswick Ave - Stop #17561 (eastbound)",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "14"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36027",
+    "header": "Route 17 detoured off Hennepin Ave from 28th St to 24th St and off 24th St from Hennepin Ave to Lyndale Ave beginning Mon Mar 31 until further notice due to Hennepin Ave construction project",
+    "description": "Updated get on/off locations 4/3 10:45 AM.\r\n\nFor eastbound Route 17 get on/off buses at:\r\nHennepin Ave & Uptown Station - Gate B - Stop #50195 (northbound)\r\nTemporary stop 28th St W & Girard Ave S (eastbound)\r\nTemporary stop 24th St W just past Lyndale Ave S (eastbound)\r\n24th St W & Pleasant Ave S - Stop #40342 (eastbound)\r\n\nFor westbound Route 17 get on/off buses at:\r\n24th St W & Pleasant Ave S - Stop #4663 (westbound)\r\nTemporary stop Lyndale Ave S just past 24th St W (southbound)\r\nTemporary stop 26th St W & Emerson Ave S (westbound)\r\nHennepin Ave S & 27th St W - Stop #1102 (southbound)\r\n\nEastbound buses will travel regular route on Hennepin Ave to 28th St, right on 28th St, left on Lyndale Ave, right on 24th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 24th St to Lyndale Ave, left on Lyndale, right on 26th St, left on Hennepin Ave, and resume regular route.\r\n\nAffected stops:\r\nHennepin Ave & 27th St W - Stop #1325 (northbound)\r\nHennepin Ave & 25th St W - Stop #1327 (northbound)\r\nHennepin Ave & 24th St W - Stop #1328 (northbound)\r\n24th St W & Bryant Ave S - Stop #40333 (eastbound)\r\n24th St W & Lyndale Ave S - Stop #40339 (eastbound)\r\n24th St W & Lyndale Ave S - Stop #4667 (westbound)\r\n24th St W & Bryant Ave S - Stop #4669 (westbound)\r\n24th St W & Hennepin Ave S - Stop #4672 (westbound)\r\nHennepin Ave S & 25th St W - Stop #1100 (southbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "17"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36028",
+    "header": "Route 114 detoured off Hennepin Ave from 28th St to I-94 beginning Mon Mar 31 until further notice due to Hennepin Ave construction project",
+    "description": "For northbound Route 114 get on/off buses at:\r\nHennepin Ave & Uptown Station - Gate B - Stop #50195 (northbound)\r\nTemporary stop 28th St W & Girard Ave S (eastbound)\r\nLyndale Ave S & 24th St W - Stop #175 (northbound)\r\nLyndale Ave S & 22nd St W - Stop #20031 (northbound)\r\nLyndale Ave St & Franklin Ave W - Stop #177 (northbound)\r\n\nFor southbound Route 114 get on/off buses at:\r\nLyndale Ave S & Franklin Ave W - Stop #102 (southbound)\r\nLyndale Ave S & 22nd St W - Stop #103 (southbound)\r\nLyndale Ave S & 24th St W - Stop #104 (southbound)\r\nTemporary stop 26th St W & Emerson Ave S (westbound)\r\nHennepin Ave S & 27th St W - Stop #1102 (southbound)\r\n\nNorthbound buses will travel regular route on Hennepin Ave to 28th St, right on 28th St, left on Lyndale Ave, right on eastbound I-94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route on I-94 to Lyndale Ave exit, left on Lyndale Ave, right on 26th St, left on Hennepin Ave, and resume regular route.\r\n\nAffected stops:\r\nHennepin Ave & 27th St W - Stop #1325 (northbound)\r\nHennepin Ave & 25th St W - Stop #1327 (northbound)\r\nHennepin Ave & 24th St W - Stop #1328 (northbound)\r\nHennepin Ave & 22nd St W - Stop #1329 (northbound)\r\nHennepin Ave & Franklin Ave W - Stop #1330 (northbound)\r\nHennepin Ave & Franklin Ave W - Stop #1096 (southbound)\r\nHennepin Ave S & 22nd St W - Stop #1099 (southbound)\r\nHennepin Ave S & 24th St W - Stop #1098 (southbound)\r\nHennepin Ave S & 25th St W - Stop #1100 (southbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "114"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36029",
+    "header": "Route 17 detoured off Minnetonka Blvd from France Ave to Hwy 100 beginning Mon Mar 31 until further notice due to Minnetonka Blvd construction project",
+    "description": "Updated to include 17F information 3/27 11:45 AM.\r\n\nFor eastbound Route 17 get on/off buses at:\r\nMinnetonka Blvd & Hwy 100 - Stop #5795 (eastbound, buses beginning in Hopkins only)\r\nBeltline Blvd & Park Glen Rd - Stop #4739 (northbound, buses beginning at Brunswick/37th only)\r\nTemporary stop Ottawa Ave S & Hwy 7 Service Rd (southbound)\r\nLake St W & France Ave S - Stop #5805 (eastbound)\r\n\nFor westbound Route 17 get on/off buses at:\r\nLake St W & Drew Ave S - Stop #4674 (westbound)\r\nTemporary stop Ottawa Ave S just past 31st St W (southbound)\r\nBeltLine Blvd & Lynn Ave S - Stop #47839 (southbound, 17F only)\r\nMinnetonka Blvd & Vernon Ave S - Stop #57292 (westbound, 17D only)\r\n\nEastbound buses that begin in Hopkins will travel regular route on Minnetonka Blvd to Hwy 100, right on ramp to southbound Hwy 100, exit to eastbound Co Rd 25, left on Ottawa Ave, right on Hwy 7 Service Rd, left on Natchez Ave, left on 31st St, left on Ottawa Ave, left on Co Rd 25, continue to Lake St and resume regular route.\r\n\nEastbound buses that begin at Brunswick Ave & 37th St W will travel regular route on Ottawa Ave to Hwy 7 Service Rd, right on Hwy 7 Service Rd, left on Natchez Ave, left on 31st St, left on Ottawa Ave, left on Co Rd 25, continue to Lake St and resume regular route.\r\n\nWestbound 17D buses will travel regular route on Lake St to France Ave, veer left to continue on Co Rd 25, right on Ottawa Ave, right on Hwy 7 Service Rd, left on Natchez Ave, left on 31st St, left on Ottawa Ave, right on Co Rd 25, left onto ramp to northbound Hwy 100, exit Minnetonka Blvd, left on Minnetonka Blvd, and resume regular route.\r\n\nWestbound 17F buses will travel regular route on Lake St to France Ave, veer left to continue on Co Rd 25, right on Ottawa Ave, right on Hwy 7 Service Rd, left on Natchez Ave, left on 31st St, left on Ottawa Ave, and resume regular route.\r\n\nAffected stops:\r\nMinnetonka Blvd & Salem Ave/Raleigh Ave - Stop #5797 (eastbound)\r\nOttawa Ave S & Minnetonka Blvd - Stop #57309 (northbound)\r\nMinnetonka Blvd & Ottawa Ave S - Stop #57291 (eastbound)\r\nMinnetonka Blvd & Lynn Ave - Stop #5802 (eastbound)\r\nMinnetonka Blvd & Inglewood Ave - Stop #5804 (eastbound)\r\nLake St W & France Ave S - Stop #4676 (westbound)\r\nMinnetonka Blvd & Inglewood Ave - Stop #4678 (westbound)\r\nMinnetonka Blvd & Park Embassy - Stop #4680 (westbound)\r\nOttawa Ave S & Minnetonka Blvd - Stop #53894 (southbound)\r\nMinnetonka Blvd & Ottawa Ave - Stop #4683 (westbound)\r\nMinnetonka Blvd & Salem Ave - Stop #56129 (westbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "17"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36030",
+    "header": "Route 6 detoured off Hennepin Ave from 28th St to Douglas St beginning Mon Mar 31 until further notice due to Hennepin Ave construction project",
+    "description": "Get on/off northbound buses at:\r\nHennepin Ave & Uptown Station - Gate B - Stop #50195 (northbound)\r\nTemporary stop 28th St W & Girard Ave S (eastbound)\r\nLyndale Ave S & 24th St W - Stop #175 (northbound)\r\nLyndale Ave S & 22nd St W - Stop #20031 (northbound)\r\nLyndale Ave S & Franklin Ave W - Stop #177 (northbound)\r\nHennepin Ave & Groveland Ave - Stop #17936 (northbound)\r\n\nGet on/off southbound buses at:\r\nLyndale Ave S & Vineland Place - Stop #17931 (southbound)\r\nLyndale Ave S & Franklin Ave W - Stop #102 (southbound)\r\nLyndale Ave S & 22nd St W - Stop #103 (southbound)\r\nLyndale Ave S & 24th St W - Stop #104 (southbound)\r\nTemporary stop 26th St W & Emerson Ave S (westbound)\r\nHennepin Ave S & 27th St W - Stop #1102 (southbound)\r\n\nNorthbound buses will travel regular route on Hennepin Ave to 28th St, right on 28th St, left on Lyndale Ave, continue on Lyndale Ave to Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Lyndale Ave to Groveland Ave, veer left to continue on Lyndale Ave to right on 26th St, left on Hennepin Ave, and resume regular route.\r\n\nAffected stops:\r\nHennepin Ave & 27th St W - Stop #1325 (northbound)\r\nHennepin Ave & 25th St W - Stop #1327 (northbound)\r\nHennepin Ave & 24th St W - Stop #1328 (northbound)\r\nHennepin Ave & 22nd St W - Stop #1329 (northbound)\r\nHennepin Ave & Franklin Ave W - Stop #1330 (northbound)\r\nHennepin Ave & Douglas Ave - Stop #17932 (southbound)\r\nHennepin Ave & Lincoln Ave - Stop #17934 (southbound)\r\nHennepin Ave & Franklin Ave W - Stop #1096 (southbound)\r\nHennepin Ave S & 22nd St W - Stop #1099 (southbound)\r\nHennepin Ave S & 24th St W - Stop #1098 (southbound)\r\nHennepin Ave S & 25th St W - Stop #1100 (southbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36031",
+    "header": "Route 61 detoured off Arcade St from Larpenteur Ave to 7th St E beginning Mon Apr 7 at 7:00 AM until further notice due to construction",
+    "description": "For eastbound Route 61J get on/off buses at:\r\nLarpenteur Ave & Payne Ave - Stop #41076 (eastbound)\r\nPayne Ave & Idaho Ave (SB)\r\nPayne Ave & Nebraska Ave (SB)\r\nPayne Ave & Cottage Ave (SB)\r\nPayne Ave & Ivy Ave (SB)\r\nJohnson High School & Gate C - Stop #54048\r\n\nFor eastbound Route 61 that departs Johnson High School get on/off buses at:\r\nJohnson High School & Gate C - Stop #54048\r\nPayne Ave & Ivy Ave (SB)\r\nMaryland Ave & Arcade St - Stop #11797 (EB)\r\nForest & Geranium (SB)\r\nForest & Magnolia (SB)\r\nForest & Lawson (SB)\r\nForest & Case (SB)\r\nForest & York (SB)\r\nForest & Wells (SB)\r\n7th St E & Arcade St (WB)\r\n7th St E & Hope St - Stop #10294 (westbound)\r\n\nFor westbound Route 61 that departs Johnson High School get on/off buses at:\r\nJohnson High School & Gate C - Stop #54048\r\nPayne & Arlington (NB)\r\nPayne & Nebraska (NB)\r\nPayne & Hoyt (NB)\r\nPayne & Idaho (NB)\r\nLarpenteur Ave & Edgerton St - Stop #5379 (westbound)\r\n\nEastbound 61J buses will travel regular route on Larpenteur Ave to Payne Ave, right on Payne, left on Hyacinth Ave, left on Walsh St, and resume regular route.\r\n\nEastbound 61 buses that depart Johnson High School will travel regular route on Walsh St to Cottage Ave, left on Cottage, left on Payne Ave, left on Maryland Ave, right on Forest St, right on 7th St E to Arcade St, and resume regular route.\r\n\nWestbound 61 buses that depart Johnson High School will travel regular route on Walsh St to Cottage Ave, left on Cottage, right on Payne Ave, left on Larpenteur Ave, and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Weide St - Stop #11799 (westbound)\r\nMaryland Ave & Walsh St - Stop #11800 (westbound)\r\nLarpenteur Ave & Parkway Dr - Stop #40124 (eastbound)\r\nLarpenteur Ave & Arcade St - Stop #49676 (eastbound)\r\nArcade St & Idaho Ave - Stop #12372 (southbound)\r\nArcade St & Hoyt Ave - Stop #12374 (southbound)\r\nArcade St & Nebraska Ave - Stop #12376 (southbound)\r\nArcade St & Wheelock Pkwy - Stop #12378 (southbound)\r\nArcade St & Cottage Ave - Stop #12380 (southbound)\r\nArcade St & Ivy Ave - Stop #12382 (southbound)\r\nArcade St & Orange Ave - Stop #13896 (southbound)\r\nArcade St & Maryland Ave - Stop #13819 (southbound)\r\nArcade St & Geranium Ave - Stop #13821 (southbound)\r\nArcade St & Magnolia Ave - Stop #13823 (southbound)\r\nArcade St & Lawson Ave - Stop #13825 (southbound)\r\nArcade St & Case Ave - Stop #13827 (southbound)\r\nArcade St & York Ave - Stop #10288 (southbound)\r\nArcade St & Neid Lane - Stop #10289 (southbound)\r\nArcade St & Minnehaha Ave - Stop #10291 (southbound)\r\nArcade St & Wheelock Pkwy - Stop #13810 (northbound)\r\nArcade St & Nebraska Ave - Stop #13812 (northbound)\r\nArcade St & Hoyt Ave - Stop #13814 (northbound)\r\nArcade St & Idaho Ave - Stop #13816 (northbound)\r\nLarpenteur Ave & Arcade St N - Stop #5455 (westbound)\r\nLarpenteur Ave & #701-739 - Stop #49675 (westbound)\r\nLarpenteur Ave & Payne Ave - Stop #48377 (westbound)",
+    "effect": "7",
+    "cause": "10",
+    "affected_routes": [
+      "61"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36032",
+    "header": "Route 64 detoured off Arcade St from Cottage Ave to Maryland Ave beginning Mon Apr 7 at 7:00 AM until further notice due to construction",
+    "description": "For eastbound Route 64 get on/off buses at:\r\nJohnson High School & Gate B - Stop #53948 (northbound)\r\nMaryland Ave & Mendota Ave - Stop #12916 (eastbound)\r\n\nFor westbound Route 64 get on/off buses at:\r\nJohnson High School & Gate B - Stop #53948 (northbound)\r\nPayne Ave & Geranium Ave - Stop #11803 (southbound)\r\n\nEastbound 64 buses departing Johnson High School will travel regular route on Walsh St to Cottage Ave, left on Cottage, left on Payne Ave, left on Maryland Ave to Arcade St, and resume regular route.\r\n\nWestbound 64 buses departing Johnson High School will travel regular route on Walsh St to Cottage Ave, left on Cottage, left on Payne Ave to Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nArcade St & Orange Ave - Stop #13896 (southbound)\r\nMaryland Ave & Weide St - Stop #11799 (westbound)\r\nMaryland Ave & Walsh St - Stop #11800 (westbound)\r\nMaryland Ave & Greenbrier St - Stop #11801 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "64",
+      "64",
+      "64"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36037",
+    "header": "Route 23 detoured off 46th Ave from 46th St into the Minnesota Veteran's Home from 6:00 AM to 1:30 PM on Sat May 17 due to Women Run the Cities event",
+    "description": "For eastbound Route 23 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #53134 (southbound)\r\n\nFor westbound Route 23 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #16498 (northbound)\r\n\nEastbound buses will travel regular route on 46th Ave to 46th St, right on 46th St, right into 46th St Station to layover.\r\n\nWestbound buses will depart the temporary layover at the 46th St Station, left on 46th St, left on 46th Ave, and resume regular route.\r\n\nAffected stops:\r\n46th Ave S & Godfrey Pkwy - Stop #16492 (southbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16493 (eastbound)\r\nMinnesota Veterans Home & Bldg 4 - Stop #16494 (eastbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16496 (westbound)\r\n46th Ave S & Godfrey Pkwy - Stop #16497 (northbound)",
+    "effect": "4",
+    "cause": "2",
+    "affected_routes": [
+      "23",
+      "23",
+      "23",
+      "23",
+      "23"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36038",
+    "header": "Lake St E & West River Pkwy S - Stop #42039 (eastbound) is closed for Route 21 from 6:00 AM to 1:30 PM on Sat May 17 due to Women Run the Cities event",
+    "description": "Get on/off buses at:\r\nLake St E & 46th Ave S - Stop #56591 (eastbound)",
+    "effect": "1",
+    "cause": "2",
+    "affected_routes": [
+      "21"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36039",
+    "header": "A Line and Route 74 detoured off 46th St and Ford Pkwy from 46th Ave to Cretin Ave from 6:00 AM to 1:30 PM on Sat May 17 due to the Women Run the Cities event",
+    "description": "Get on/off northbound/eastbound buses at:\r\n46th St E & 44th Ave S - Stop #51513 (eastbound)\r\nFord & Finn Station - Stop #56112 (eastbound)\r\n\nGet on/off southbound/westbound buses at:\r\nFord & Finn Station - Stop #56126 (westbound)\r\nFord Pkwy & Cretin Ave - Stop #4287 (westbound, Route 74 only)\r\n46th St & 46th Ave Station - Stop #56128 (westbound)\r\n\nNorthbound METRO A Line and eastbound Route 74 buses will travel regular route on 46th St to 46th Ave, left on 46th Ave, right on Lake St, continue onto Marshall Ave, right on Cretin Ave, left on Ford Pkwy, and resume regular route.\r\n\nSouthbound METRO A Line and westbound Route 74 buses will travel regular route on Ford Pkwy to Cretin Ave, right on Cretin, left on Marshall Ave, continue onto Lake St, left on 46th Ave, right on 46th St, and resume regular route.\r\n\nAffected stops:\r\n46th St & 46th Ave Station - Stop #51514 (eastbound)\r\nFord & Woodlawn Station - Stop #56111 (eastbound)\r\nFord Pkwy & Cretin Ave - Stop #4280 (eastbound)\r\nFord & Woodlawn Station - Stop #56127 (westbound)",
+    "effect": "4",
+    "cause": "2",
+    "affected_routes": [
+      "74",
+      "74",
+      "74",
+      "74",
+      "921",
+      "921",
+      "921"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36043",
+    "header": "Routes 54 and 74 detoured off 7th St W from Grand Ave to 6th St until further notice due to sink hole repair work",
+    "description": "Updated get on/off stops 5/12 9 am.\r\n\nGet on/off eastbound buses at:\r\n7th St W & St Clair Ave - Stop #11740 (northbound)\r\n7th St W & Smith Ave - Stop #10234 (northbound)\r\n5th St & 7th St W - Stop #11834 (eastbound)\r\n\nGet on/off westbound buses at:\r\n6th St & Washington St / 7th St - Stop #3264 (westbound)\r\nSmith & Kellogg Station - Stop #52760 (westbound)\r\n7th St W & Smith Ave - Stop #10361 (southbound)\r\n7th St W & St Clair Ave - Stop #10366 (southbound)\r\n\nEastbound buses will travel regular route on 7th St W to Grand Ave, left on Grand, right on Smith Ave, right on 5th St, continue past 7th St W, and resume regular route.\r\n\nWestbound buses will travel regular route on 6th St to 7th St W, continue on 6th St to Smith Ave, left on Smith, left on Grand Ave, right on 7th St W, and resume regular route.\r\n\nAffected stops:\r\n7th St W & Grand Ave - Stop #10236 (northbound)\r\n7th St W & Chestnut St - Stop #10238 (northbound)\r\n7th St W & 5th St / Kellogg Blvd - Stop #47485 (westbound)\r\n7th St W & Kellogg Blvd - Stop #11865 (southbound)\r\n7th St W & Walnut St - Stop #10358 (southbound)\r\n7th St W & Grand Ave - Stop #10359 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "54",
+      "54",
+      "54",
+      "54",
+      "54",
+      "54",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36048",
+    "header": "Route 54M detoured off Arcade St from 7th St to Maryland Ave and off Maryland Ave from Arcade St to Forest St beginning Mon Mar 31 at 6:00 AM until further notice due to construction",
+    "description": "Updated get on/off locations 5/12 8:05 AM.\r\n\nFor eastbound Route 54 get on/off buses at:\r\n7th St E & Maria Ave - Stop #11849 (eastbound)\r\n7th St E & Arcade St - Stop #10385 (eastbound)\r\nTemporary Stop Forest St & Sims Ave (northbound)\r\nMaryland Ave & Cypress St - Stop #12918 (eastbound)\r\nMaryland Ave & Earl St - Stop #12919 (eastbound)\r\n\nFor westbound Route 54 get on/off buses at:\r\nMaryland Ave & Earl St - Stop #12934 (westbound)\r\nTemporary stop on Forest St & Sims Ave (southbound)\r\nTemporary stop 7th St E & Mendota St (westbound)\r\n7th St E & Maria Ave - Stop #11850 (westbound)\r\n\nEastbound 54M buses will travel regular route on 7th St to Arcade St, continue on 7th St to left on Forest St, right on Maryland Ave, and resume regular route.\r\n\nWestbound 54 buses that depart Maplewood Mall will travel regular route on Maryland Ave to Forest St, left on Forest, right on 7th St, continue on 7th St to Arcade St, and resume regular route.\r\n\nAffected stops:\r\nArcade St & Minnehaha Ave - Stop #51089 (northbound)\r\nArcade St & York Ave - Stop #10247 (northbound)\r\nArcade St & Maryland Ave - Stop #42053 (northbound)\r\nForest St & York Ave - Stop #80737 (northbound)\r\nArcade St & Rose Ave E - Stop #56680 (southbound)\r\nArcade St & York Ave - Stop #10288 (southbound)\r\nArcade St & Minnehaha Ave - Stop #10291 (southbound)\r\nForest St & York Ave - Stop #80715 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "54",
+      "54",
+      "54"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36070",
+    "header": "Route 11 detoured off 2nd 1/2 St from 35th Ave NE to 36th Ave NE starting May 12th at 5:00 AM until further notice due to construction",
+    "description": "For northbound Route 11 get on/off buses at:\r\n35th Ave NE & 2nd 1/2 St NE - Stop #14610 (eastbound)\r\n2nd 1/2 St NE & 37th Ave NE - Stop #14606 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n2nd 1/2 St NE & 37th Ave NE - Stop #14607 (southbound)\r\n35th Ave NE & 2nd St NE - Stop #14612 (westbound)\r\n\nNorthbound buses will travel from 35th Ave NE to 3rd St NE, left on 3rd St NE, left on 36th Ave NE, right on 2nd 1/2 St NE, and resume to regular route.\r\n\nSouthbound buses will travel from 2nd 1/2 St NE to 36th Ave NE, left on 36th Ave NE, right on 3rd St NE, right on 35th Ave NE, and resume to regular route. \r\n\nAffected stops:\r\n2nd 1/2 St NE & 36th Ave NE - Stop #14609 (northbound)\r\n2nd 1/2 St NE & 36th Ave NE - Stop #14608 (southbound)\r\n2nd 1/2 St NE & 35th Ave NE - Stop #14611 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "11",
+      "11",
+      "11"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36106",
+    "header": "Route 74J detoured off Arcade St from Cottage Ave to Minnehaha Ave until further notice due to construction",
+    "description": "Updated get on/off locations 5/12 11:20 AM.\r\n\nGet on/off eastbound buses at:\r\nJohnson High School & Gate C - Stop #54048\r\nPayne Ave & Ivy Ave - Stop #80709 (southbound)\r\nPayne Ave & Orange Ave E - Stop #80709 (southbound)\r\nPayne & Maryland - Stop #18177 (southbound)\r\nMaryland & Arcade - Stop #11797 (eastbound)\r\nForest & Geranium -Stop #80711 (southbound)\r\nForest St & Magnolia - Stop #80712 (southbound)\r\nForest & Lawson - Stop #80713 (southbound)\r\nForest & Case - Stop 80714 (southbound)\r\nForest St & York Ave - Stop #80715 (southbound)\r\nForest St & 7th St E - Stop #80716 (southbound)\r\nTemporary stop on Cypress St & Minnehaha Ave (southbound)\r\nMinnehaha Ave & Earl St - Stop #49606 (eastbound)\r\n\nGet on/off westbound buses at:\r\nMinnehaha Ave & Cypress St - Stop #49659 (westbound)\r\nTemporary Stop Forest St just past 7th St E (northbound)\r\nForest St & York Ave - Stop #80737 (northbound)\r\nForest & Case - Stop 80739 (northbound)\r\nForest & Magnolia - Stop 80741 (northbound)\r\nForest & Geranium - Stop 80742 (northbound)\r\nForest & Maryland - Stop 80743 (northbound)\r\nMaryland & Arcade - Stop 11798 (westbound)\r\nMaryland & Weide - Stop 11799 (westbound)\r\nJohnson High School & Gate C - Stop #54048\r\n\nEastbound buses will travel regular routing on Walsh St to Cottage Ave, left on Cottage, left on Payne Ave, left on Maryland Ave, right on Forest St, left on 7th St, right on Bush Ave, right on Cypress St, left on Minnehaha Ave and resume regular routing.\r\n\nWestbound buses will travel regular routing on Minnehaha Ave to Cypress St, right on Cypress, left on Bush Ave, left on 7th St, right on Forest St, left on Maryland Ave, right on Walsh St to Hyacinth Ave and resume regular routing.\r\n\nAffected stops:\r\nArcade St & Orange Ave - Stop #13896 (southbound)\r\nArcade St & Maryland Ave - Stop #13819 (southbound)\r\nArcade St & Geranium Ave - Stop #13821 (southbound)\r\nArcade St & Magnolia Ave - Stop #13823 (southbound)\r\nArcade St & Lawson Ave - Stop #13825 (southbound)\r\nArcade St & Case Ave - Stop #13827 (southbound)\r\nArcade St & York Ave - Stop #10288 (southbound)\r\nArcade St & Neid Lane - Stop #10289 (southbound)\r\nArcade St & Minnehaha Ave - Stop #10291 (southbound)\r\nMinnehaha Ave & Forest St - Stop #49604 (eastbound)\r\n7th St E & Arcade St - Stop #12915 (westbound)\r\nArcade St & Minnehaha Ave - Stop #51089 (northbound)\r\nMinnehaha Ave & Forest St - Stop #49660 (westbound)\r\nArcade St & Neid Lane - Stop #10246 (northbound)\r\nArcade St & York Ave - Stop #10247 (northbound)\r\nArcade St & Case Ave - Stop #13794 (northbound)\r\nArcade St & Lawson Ave - Stop #13796 (northbound)\r\nArcade St & Magnolia Ave - Stop #13798 (northbound)\r\nArcade St & Geranium Ave - Stop #13800 (northbound)\r\nArcade St & Maryland Ave - Stop #42053 (northbound)\r\nArcade St & Orange Ave - Stop #13804 (northbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74",
+      "74"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36134",
+    "header": "Route 645 detoured off Shoreline Dr from the Mound Transit Center to Bartlett Blvd until further notice due to construction",
+    "description": "Updated detour routing, affected direction, affected stops, and get on/off locations 5/12 10:45 AM.\r\n\nFor eastbound Route 645 get on/off buses at:\r\nTemporary Stop at Mound Transit Center across Veteran's Cir from bus stop sign (northbound)\r\nShoreline Dr (Co Rd 15) & Island Dr - Stop #6944 (eastbound)\r\n\nFor westbound Route 645 get on/off buses at:\r\nShoreline Dr (Co Rd 15) & Island Dr - Stop #6822 (westbound)\r\nTemporary Stop at Mound Transit Center across Veteran's Cir from bus stop sign (northbound)\r\n\nEastbound buses will depart the temporary layover position at the Mound Transit Center on Veteran's Cir facing Shoreline Dr (across from the bus stop sign), left on Shoreline Dr, left on Commerce Blvd, left on Bartlett Blvd, right on Shoreline Dr, and resume regular route.\r\n\nWestbound buses will travel regular route on Shoreline Dr to Bartlett Blvd, left on Bartlett, right on Commerce Blvd, right on Shoreline, right into the Mound Transit Center (first entrance, where buses normally exit), and layover on Veteran's Cir facing Shoreline Dr (across from the bus stop sign).\r\n\nAffected stops:\r\nMound TC & Shoreline Dr - Stop #52852 \r\nShoreline Dr (Co Rd 15) & Cypress Lane - Stop #6936 (eastbound)\r\nShoreline Dr (Co Rd 15) & Hiddenvale Ln - Stop #6937 (eastbound)\r\nShoreline Dr (Co Rd 15) & Chateau Lane - Stop #6939 (eastbound)\r\nShoreline Dr (Co Rd 15) & Fernside Lane - Stop #6940 (eastbound)\r\nShoreline Dr (Co Rd 15) & Montclair Lane - Stop #6941 (eastbound)\r\nShoreline Dr (Co Rd 15) & Bartlett Blvd - Stop #6942 (eastbound)\r\nShoreline Dr (Co Rd 15) & Bartlett Blvd - Stop #6824 (westbound)\r\nShoreline Dr (Co Rd 15) & Sandy Lane - Stop #6825 (westbound)\r\nShoreline Dr (Co Rd 15) & Fernside Lane - Stop #6826 (westbound)\r\nShoreline Dr (Co Rd 15) & Chateau Lane - Stop #6827 (westbound)\r\nShoreline Dr (Co Rd 15) & Hiddenvale Ln - Stop #6829 (westbound)\r\nShoreline Dr (Co Rd 15) & Cypress Lane - Stop #6831 (westbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645",
+      "645"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36137",
+    "header": "Lyndale Av S & 37th St W - Stop #40261 (northbound) is closed for Route 4 beginning Wed May 14 at 6:00 AM until further notice due to utility work",
+    "description": "Get on/off buses at:\r\nLyndale Av S & 38th St W - Stop #40263 (northbound)\r\nLyndale Av S & 36th St W - Stop #40259 (northbound)",
+    "effect": "1",
+    "cause": "9",
+    "affected_routes": [
+      "4"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36138",
+    "header": "Cedar Lake Rd & Ridge Dr - Stop #49602 (westbound) is closed for Route 9 beginning Thu May 15 at 6:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\nPark Place Blvd & Gamble / Cedar Lake Rd - Stop #2973 (southbound)\r\nCedar Lake Rd & Zarthan Ave S - Stop #2977 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "9"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36139",
+    "header": "Hennepin Ave E & 27th Ave SE - Stop #41630 (westbound) is closed for Routes 30 and 61 beginning Tue May 13 at 4:00 AM until further notice",
+    "description": "Get on/off buses at:\r\nHennepin Ave E & 29th Ave SE - Stop #41629 (westbound)\r\nHennepin Ave E & Hoover St NE (25th Ave) - Stop #41632 (westbound)",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "30",
+      "61"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36140",
+    "header": "Hennepin Ave E & Harding St NE - Stop #15775 (westbound) is closed for Route 61 beginning Tue May 13 at 4:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\nHennepin Ave E & Hoover St NE (25th Ave) - Stop #41632 (westbound)\r\nHennepin Ave E & Taft St NE - Stop #15776 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "61"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36141",
+    "header": "Hennepin Ave E & Stinson Blvd - Stop #15777 (westbound) is closed for Routes 25 and 61 beginning Tue May 13 at 4:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\nStinson Blvd & Kennedy St NE - Stop #15785 (southbound, Route 25 only)\r\nHennepin Ave E & Taft St NE - Stop #15776 (westbound, Route 61 only)\r\nTemporary stop on Hennepin Ave E across from 17th Ave SE (westbound)\r\nHennepin Ave E & 14th Ave SE - Stop #15780 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "25",
+      "61"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36142",
+    "header": "Hennepin Ave E & 16th Ave SE - Stop #15778 (westbound) is closed for Routes 25 and 61 beginning Tue May 13 at 4:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\nStinson Blvd & Kennedy St NE - Stop #15785 (southbound, Route 25 only)\r\nHennepin Ave E & Taft St NE - Stop #15776 (westbound, Route 61 only)\r\nTemporary stop on Hennepin Ave E across from 17th Ave SE (westbound)\r\nHennepin Ave E & 14th Ave SE - Stop #15780 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "25",
+      "61"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36143",
+    "header": "Hennepin Ave E & 15th Ave SE - Stop #15779 (westbound) is closed for Routes 25 and 61 beginning Tue May 13 at 4:00 AM until further notice due to construction",
+    "description": "Get on/off buses at:\r\nStinson Blvd & Kennedy St NE - Stop #15785 (southbound, Route 25 only)\r\nHennepin Ave E & Taft St NE - Stop #15776 (westbound, Route 61 only)\r\nHennepin Ave E & 14th Ave SE - Stop #15780 (westbound)",
+    "effect": "1",
+    "cause": "10",
+    "affected_routes": [
+      "25",
+      "61"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36148",
+    "header": "Hennepin Ave & Minneapolis College - Stop #17940 (northbound) and Hennepin Ave & 13th St / 12th St S - Stop #17942 (northbound) are closed for Routes 4 and 6 until further notice",
+    "description": "Get on/off buses at:\r\nHennepin Ave & Maple St (16th St) - Stop #17939 (northbound)\r\nTemporary stop Hennepin Ave & 12th St S (northbound)\r\nHennepin Ave & 10th St S - Stop #17944 (northbound)",
+    "effect": "1",
+    "cause": "1",
+    "affected_routes": [
+      "4",
+      "4",
+      "6",
+      "6"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36162",
+    "header": "Route 5 detoured off Fremont from 41st Ave N to 42nd Ave N until further notice due to construction",
+    "description": "For northbound Route 5 get on/off buses at:\r\nFremont Ave N & 41st Ave N - Stop #8944 (northbound)\r\nFremont Ave N & 43rd Ave N - Stop #8946 (northbound)\r\n\nFor southbound Route 5 get on/off buses at:\r\nFremont & 42nd Ave Station - Stop #9611 (southbound)\r\nFremont Ave N & 40th Ave N - Stop #9615 (southbound)\r\n\nNorthbound buses will travel the regular route on Fremont to 41st Ave N, left on 41st Ave N, right on Girard, right on 42nd Ave N, left on Fremont, and resume the regular route. \r\nSouthbound buses will travel the regular route on Fremont to 42nd Ave N, left on 42nd Ave N, right on Dupont, right on 41st Ave N, left on Fremont, and resume the regular route.\r\n\nAffected stops:\r\nFremont & 42nd Ave Station - Stop #8945 (northbound)\r\nFremont Ave N & 41st Ave N - Stop #9613 (southbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "5",
+      "5"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36163",
+    "header": "D Line detoured off Fremont from 41st Ave N to 42nd Ave N until further notice due to construction",
+    "description": "Get on/off buses at:\r\nFremont & Dowling Station - Stop #56951 (northbound)\r\n44th Ave & Girard Station - Stop #8948 (westbound)\r\n\nNorthbound buses will travel the regular route on Fremont to 41st Ave N, left on 41st Ave N, right on Girard, right on 42nd Ave N, left on Fremont, and resume the regular route. \r\nSouthbound buses will travel the regular route on Fremont to 42nd Ave N, left on 42nd Ave N, right on Dupont, right on 41st Ave N, left on Fremont, and resume the regular route. No southbound stops are missed.\r\n\nAffected stops:\r\nFremont & 42nd Ave Station - Stop #8945 (northbound)",
+    "effect": "4",
+    "cause": "10",
+    "affected_routes": [
+      "924"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "id": "36164",
+    "header": "Route 852 detoured off Springbrook Dr from Holly St to Coon Rapids Blvd and off Coon Rapids Blvd from Springbrook Dr to 93rd Ave beginning Mon May 19 at 6:00 AM until further notice",
+    "description": "For northbound Route 852 get on/off buses at:\r\nSpringbrook Dr & Holly St NW - Stop #42400 (northbound)\r\nCoon Rapids Blvd & Holly St - Stop #10940 (westbound)\r\n\nFor southbound Route 852 get on/off buses at:\r\nCoon Rapids Blvd & Holly St - Stop #10941 (eastbound)\r\nSpringbrook Dr & 90th Ave - Stop #42394 (southbound)\r\n\nNorthbound buses will travel regular route on Springbrook Dr to Holly St, left on Holly right on 93rd Ave, left on Coon Rapids Blvd, and resume regular route.\r\n\nSouthbound buses will travel regular route on Coon Rapids Blvd to 93rd Ave, right on 93rd Ave, left on Holly St, right on Springbrook Dr, and resume regular route.\r\n\nAffected stops:\r\nCoon Rapids Blvd & Springbrook Dr - Stop #48939 (westbound)\r\nCoon Rapids Blvd & Flintwood St - Stop #10938 (westbound)\r\nCoon Rapids Blvd & 93rd Ave NW - Stop #40480 (eastbound)\r\nCoon Rapids Blvd & Springbrook Dr - Stop #49520 (eastbound)\r\nSpringbrook Dr & Holly St NW - Stop #42393 (southbound)",
+    "effect": "4",
+    "cause": "1",
+    "affected_routes": [
+      "852",
+      "852",
+      "852",
+      "852",
+      "852"
+    ],
+    "timestamp": "2025-05-13 08:46:01"
+  }
+]

@@ -1,0 +1,7076 @@
+[
+  {
+    "trip_id": "27042935-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "14270",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042936-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "17169",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042937-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "17215",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042938-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "41911",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042939-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "19337",
+    "arrival": "N/A",
+    "departure": "08:51 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042940-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "19337",
+    "arrival": "N/A",
+    "departure": "09:21 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042941-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "19337",
+    "arrival": "N/A",
+    "departure": "09:36 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042942-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "19337",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042945-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "19337",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042959-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "19337",
+    "arrival": "N/A",
+    "departure": "09:06 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043005-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "19337",
+    "arrival": "08:45 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043008-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "17978",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043009-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "17180",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043010-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "57448",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043011-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "57165",
+    "arrival": "N/A",
+    "departure": "09:26 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043012-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "40724",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043013-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "57165",
+    "arrival": "N/A",
+    "departure": "08:57 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043014-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "57165",
+    "arrival": "N/A",
+    "departure": "09:09 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043015-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "57165",
+    "arrival": "N/A",
+    "departure": "09:38 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043016-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "57165",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043017-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "57165",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043018-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "57165",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043020-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "10",
+    "schedule": "SCHEDULED",
+    "stop_id": "57165",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039203-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "17707",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039204-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "14628",
+    "arrival": "N/A",
+    "departure": "09:09 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039207-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "14654",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039232-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "17725",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039233-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "17980",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039234-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "49304",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039235-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "49304",
+    "arrival": "N/A",
+    "departure": "09:13 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039236-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "49304",
+    "arrival": "N/A",
+    "departure": "09:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039237-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "49304",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039238-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "49304",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039277-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "11665",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039278-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "14672",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039279-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "17755",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039280-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "51828",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039281-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "51828",
+    "arrival": "N/A",
+    "departure": "08:48 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039282-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "51828",
+    "arrival": "N/A",
+    "departure": "09:04 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039283-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "51828",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039284-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "51828",
+    "arrival": "N/A",
+    "departure": "09:38 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039285-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "51828",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039286-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "51828",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039287-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "51828",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039288-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "11",
+    "schedule": "SCHEDULED",
+    "stop_id": "51828",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096519-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "113",
+    "schedule": "SCHEDULED",
+    "stop_id": "13223",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096549-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "113",
+    "schedule": "SCHEDULED",
+    "stop_id": "140",
+    "arrival": "N/A",
+    "departure": "08:59 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096550-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "113",
+    "schedule": "SCHEDULED",
+    "stop_id": "140",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096538-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "114",
+    "schedule": "SCHEDULED",
+    "stop_id": "13209",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096539-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "114",
+    "schedule": "SCHEDULED",
+    "stop_id": "17534",
+    "arrival": "N/A",
+    "departure": "08:53 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096540-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "114",
+    "schedule": "SCHEDULED",
+    "stop_id": "17534",
+    "arrival": "N/A",
+    "departure": "09:22 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044455-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "50153",
+    "arrival": "08:43 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044456-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "19492",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044457-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "4345",
+    "arrival": "N/A",
+    "departure": "08:55 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044458-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "4345",
+    "arrival": "N/A",
+    "departure": "09:19 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044459-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "51542",
+    "arrival": "N/A",
+    "departure": "09:41 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044463-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "51542",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044503-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "17876",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044507-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "4429",
+    "arrival": "08:50 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044508-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "8387",
+    "arrival": "N/A",
+    "departure": "08:42 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044509-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "17890",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044510-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "50153",
+    "arrival": "N/A",
+    "departure": "09:02 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044513-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "50153",
+    "arrival": "N/A",
+    "departure": "09:17 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044514-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "50153",
+    "arrival": "N/A",
+    "departure": "09:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044553-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "16353",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044556-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "14",
+    "schedule": "SCHEDULED",
+    "stop_id": "15630",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565992-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "1199",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565993-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "15520",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565994-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "17192",
+    "arrival": "N/A",
+    "departure": "09:32 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565998-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "17192",
+    "arrival": "N/A",
+    "departure": "09:02 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566018-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "4676",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566022-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "57458",
+    "arrival": "08:44 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566025-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "15533",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566026-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "56800",
+    "arrival": "N/A",
+    "departure": "09:32 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566028-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "17192",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566056-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "17996",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566093-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "17192",
+    "arrival": "08:42 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566094-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "57458",
+    "arrival": "N/A",
+    "departure": "08:59 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566095-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "1911",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566096-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "5805",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566097-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "5769",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566099-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "57458",
+    "arrival": "N/A",
+    "departure": "09:29 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566109-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "57458",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566110-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "57458",
+    "arrival": "N/A",
+    "departure": "09:49 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27566112-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "17",
+    "schedule": "SCHEDULED",
+    "stop_id": "57458",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095240-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "1199",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095241-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "56800",
+    "arrival": "N/A",
+    "departure": "09:22 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095261-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "1890",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095265-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "1436",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095266-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "51852",
+    "arrival": "N/A",
+    "departure": "09:11 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095269-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "51852",
+    "arrival": "N/A",
+    "departure": "09:41 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095273-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "56800",
+    "arrival": "N/A",
+    "departure": "08:51 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095276-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "1230",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095294-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "1369",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095295-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "17980",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095297-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "56800",
+    "arrival": "N/A",
+    "departure": "09:07 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095299-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "56800",
+    "arrival": "N/A",
+    "departure": "09:36 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095308-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "1758",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095309-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "17992",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095311-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "57131",
+    "arrival": "N/A",
+    "departure": "09:41 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095315-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "57131",
+    "arrival": "N/A",
+    "departure": "09:11 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095316-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "18",
+    "schedule": "SCHEDULED",
+    "stop_id": "1401",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087334-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "13209",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087335-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "15664",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087340-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57469",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087341-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57469",
+    "arrival": "N/A",
+    "departure": "08:59 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087342-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57469",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087345-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57469",
+    "arrival": "N/A",
+    "departure": "09:29 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087346-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57469",
+    "arrival": "N/A",
+    "departure": "09:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087398-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "42454",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087400-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "56698",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087401-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57302",
+    "arrival": "N/A",
+    "departure": "08:53 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087402-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57302",
+    "arrival": "N/A",
+    "departure": "09:23 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087403-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57302",
+    "arrival": "N/A",
+    "departure": "09:38 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087406-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "80778",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087407-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57302",
+    "arrival": "N/A",
+    "departure": "09:08 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096552-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "41248",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096553-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57302",
+    "arrival": "N/A",
+    "departure": "09:18 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096578-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "2",
+    "schedule": "SCHEDULED",
+    "stop_id": "57302",
+    "arrival": "N/A",
+    "departure": "09:33 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100478-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "51367",
+    "arrival": "N/A",
+    "departure": "09:37 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100520-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "16949",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100521-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "40954",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100524-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "17002",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100525-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "4676",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100526-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "16957",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100527-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "08:48 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100528-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:01 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100529-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:16 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100578-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "16971",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100582-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "51450",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100583-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "46492",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100584-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "57356",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100585-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "46492",
+    "arrival": "N/A",
+    "departure": "08:54 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100586-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "46492",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100587-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "46492",
+    "arrival": "N/A",
+    "departure": "09:26 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100679-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "46492",
+    "arrival": "N/A",
+    "departure": "09:39 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100680-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "4866",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100711-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:31 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27100714-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "21",
+    "schedule": "SCHEDULED",
+    "stop_id": "57456",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064697-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "219",
+    "schedule": "SCHEDULED",
+    "stop_id": "51132",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064700-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "219",
+    "schedule": "SCHEDULED",
+    "stop_id": "57340",
+    "arrival": "N/A",
+    "departure": "09:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064712-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "219",
+    "schedule": "SCHEDULED",
+    "stop_id": "53119",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064714-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "219",
+    "schedule": "SCHEDULED",
+    "stop_id": "5020",
+    "arrival": "N/A",
+    "departure": "09:42 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064731-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "219",
+    "schedule": "SCHEDULED",
+    "stop_id": "56899",
+    "arrival": "N/A",
+    "departure": "08:38 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064735-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "219",
+    "schedule": "SCHEDULED",
+    "stop_id": "57340",
+    "arrival": "N/A",
+    "departure": "09:13 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064746-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "219",
+    "schedule": "SCHEDULED",
+    "stop_id": "49857",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064747-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "219",
+    "schedule": "SCHEDULED",
+    "stop_id": "5020",
+    "arrival": "N/A",
+    "departure": "09:12 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099549-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "4509",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099552-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "56825",
+    "arrival": "08:45 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099554-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "19507",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099556-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "4558",
+    "arrival": "N/A",
+    "departure": "09:01 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099557-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "4558",
+    "arrival": "N/A",
+    "departure": "09:21 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099558-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "4558",
+    "arrival": "N/A",
+    "departure": "09:41 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099600-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "19492",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099601-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "51541",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099603-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "56825",
+    "arrival": "N/A",
+    "departure": "08:58 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099605-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "52750",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099608-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "56825",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099609-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "56825",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099611-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "11652",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099612-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "56825",
+    "arrival": "N/A",
+    "departure": "09:36 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099625-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "19426",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099640-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "11195",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099644-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "56825",
+    "arrival": "N/A",
+    "departure": "09:18 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099647-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "22",
+    "schedule": "SCHEDULED",
+    "stop_id": "41705",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064168-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "223",
+    "schedule": "SCHEDULED",
+    "stop_id": "48189",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064169-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "223",
+    "schedule": "SCHEDULED",
+    "stop_id": "52532",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064187-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "223",
+    "schedule": "SCHEDULED",
+    "stop_id": "18241",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064188-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "223",
+    "schedule": "SCHEDULED",
+    "stop_id": "5020",
+    "arrival": "N/A",
+    "departure": "09:03 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065097-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "225",
+    "schedule": "SCHEDULED",
+    "stop_id": "49130",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065098-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "225",
+    "schedule": "SCHEDULED",
+    "stop_id": "45174",
+    "arrival": "N/A",
+    "departure": "08:57 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065103-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "225",
+    "schedule": "SCHEDULED",
+    "stop_id": "52530",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065073-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "227",
+    "schedule": "SCHEDULED",
+    "stop_id": "52530",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065082-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "227",
+    "schedule": "SCHEDULED",
+    "stop_id": "4069",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065086-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "227",
+    "schedule": "SCHEDULED",
+    "stop_id": "14465",
+    "arrival": "N/A",
+    "departure": "08:52 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040166-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "23",
+    "schedule": "SCHEDULED",
+    "stop_id": "12511",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040177-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "23",
+    "schedule": "SCHEDULED",
+    "stop_id": "4860",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040189-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "23",
+    "schedule": "SCHEDULED",
+    "stop_id": "12511",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040192-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "23",
+    "schedule": "SCHEDULED",
+    "stop_id": "4860",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040193-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "23",
+    "schedule": "SCHEDULED",
+    "stop_id": "17530",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040195-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "23",
+    "schedule": "SCHEDULED",
+    "stop_id": "42032",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040196-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "23",
+    "schedule": "SCHEDULED",
+    "stop_id": "4860",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040199-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "23",
+    "schedule": "SCHEDULED",
+    "stop_id": "4860",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040206-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "23",
+    "schedule": "SCHEDULED",
+    "stop_id": "42032",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040211-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "23",
+    "schedule": "SCHEDULED",
+    "stop_id": "41337",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095837-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "25",
+    "schedule": "SCHEDULED",
+    "stop_id": "17976",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095849-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "25",
+    "schedule": "SCHEDULED",
+    "stop_id": "19337",
+    "arrival": "N/A",
+    "departure": "09:31 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095850-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "25",
+    "schedule": "SCHEDULED",
+    "stop_id": "14153",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095851-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "25",
+    "schedule": "SCHEDULED",
+    "stop_id": "14153",
+    "arrival": "N/A",
+    "departure": "09:34 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095855-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "25",
+    "schedule": "SCHEDULED",
+    "stop_id": "15729",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27095857-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "25",
+    "schedule": "SCHEDULED",
+    "stop_id": "17994",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040099-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "250",
+    "schedule": "SCHEDULED",
+    "stop_id": "19238",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096555-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "252",
+    "schedule": "SCHEDULED",
+    "stop_id": "57023",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040083-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "270",
+    "schedule": "SCHEDULED",
+    "stop_id": "16117",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086482-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "16330",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086483-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "57208",
+    "arrival": "N/A",
+    "departure": "08:59 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086485-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "935",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086491-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086492-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:02 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086499-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "16080",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086500-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086531-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "57208",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086541-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "19322",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086542-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:31 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086550-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "57010",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086553-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "886",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086554-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "57208",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086566-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "962",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086576-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086622-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "870",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086623-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "5583",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086624-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "52329",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086627-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "16104",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096566-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "16104",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096567-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "16081",
+    "arrival": "N/A",
+    "departure": "08:42 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096568-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "53789",
+    "arrival": "N/A",
+    "departure": "08:48 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096569-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "53789",
+    "arrival": "N/A",
+    "departure": "09:04 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096570-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "53789",
+    "arrival": "N/A",
+    "departure": "09:15 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096571-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "53789",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096572-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "53789",
+    "arrival": "N/A",
+    "departure": "09:29 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27096576-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "3",
+    "schedule": "SCHEDULED",
+    "stop_id": "53789",
+    "arrival": "N/A",
+    "departure": "09:35 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104237-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "30",
+    "schedule": "SCHEDULED",
+    "stop_id": "40238",
+    "arrival": "N/A",
+    "departure": "08:53 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104238-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "30",
+    "schedule": "SCHEDULED",
+    "stop_id": "40238",
+    "arrival": "N/A",
+    "departure": "09:23 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104257-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "30",
+    "schedule": "SCHEDULED",
+    "stop_id": "12257",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104258-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "30",
+    "schedule": "SCHEDULED",
+    "stop_id": "50665",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104259-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "30",
+    "schedule": "SCHEDULED",
+    "stop_id": "15882",
+    "arrival": "N/A",
+    "departure": "09:41 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104260-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "30",
+    "schedule": "SCHEDULED",
+    "stop_id": "15882",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104288-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "30",
+    "schedule": "SCHEDULED",
+    "stop_id": "42307",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104298-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "30",
+    "schedule": "SCHEDULED",
+    "stop_id": "15882",
+    "arrival": "N/A",
+    "departure": "09:11 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104299-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "30",
+    "schedule": "SCHEDULED",
+    "stop_id": "15882",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099880-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "49229",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099881-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "50155",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099882-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "50155",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099896-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "52532",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099897-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "52327",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099898-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "80771",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099899-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "52532",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099911-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "8391",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099914-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "50155",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099915-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "50155",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099921-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "52532",
+    "arrival": "N/A",
+    "departure": "08:59 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27099922-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "32",
+    "schedule": "SCHEDULED",
+    "stop_id": "52532",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064620-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "323",
+    "schedule": "SCHEDULED",
+    "stop_id": "51116",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064644-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "323",
+    "schedule": "SCHEDULED",
+    "stop_id": "57034",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064667-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "323",
+    "schedule": "SCHEDULED",
+    "stop_id": "51116",
+    "arrival": "N/A",
+    "departure": "09:16 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064681-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "323",
+    "schedule": "SCHEDULED",
+    "stop_id": "57034",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094484-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "355",
+    "schedule": "SCHEDULED",
+    "stop_id": "17897",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042262-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "48930",
+    "arrival": "N/A",
+    "departure": "09:38 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042263-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "48930",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042264-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "48930",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042285-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "57203",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042287-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "17937",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042288-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "17939",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042289-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "49080",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042290-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "50231",
+    "arrival": "N/A",
+    "departure": "08:52 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042291-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "50231",
+    "arrival": "N/A",
+    "departure": "09:07 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042292-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "50231",
+    "arrival": "N/A",
+    "departure": "09:23 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042293-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "50231",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042294-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "50231",
+    "arrival": "N/A",
+    "departure": "09:37 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042295-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "50231",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042296-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "50231",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042297-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "50231",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042353-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "80814",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042356-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "14153",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042358-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "20048",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042359-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "17923",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042360-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "14153",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042383-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "11687",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042387-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "2043",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042388-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "48930",
+    "arrival": "N/A",
+    "departure": "09:08 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042389-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "4",
+    "schedule": "SCHEDULED",
+    "stop_id": "42448",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27093873-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "46",
+    "schedule": "SCHEDULED",
+    "stop_id": "51550",
+    "arrival": "N/A",
+    "departure": "09:13 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27093874-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "46",
+    "schedule": "SCHEDULED",
+    "stop_id": "51550",
+    "arrival": "N/A",
+    "departure": "09:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27093893-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "46",
+    "schedule": "SCHEDULED",
+    "stop_id": "1011",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27093894-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "46",
+    "schedule": "SCHEDULED",
+    "stop_id": "220",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27093895-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "46",
+    "schedule": "SCHEDULED",
+    "stop_id": "220",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27093920-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "46",
+    "schedule": "SCHEDULED",
+    "stop_id": "208",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27093924-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "46",
+    "schedule": "SCHEDULED",
+    "stop_id": "48897",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064831-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "467",
+    "schedule": "SCHEDULED",
+    "stop_id": "17780",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040852-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "5",
+    "schedule": "SCHEDULED",
+    "stop_id": "51212",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040856-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "5",
+    "schedule": "SCHEDULED",
+    "stop_id": "51212",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040867-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "5",
+    "schedule": "SCHEDULED",
+    "stop_id": "80139",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040868-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "5",
+    "schedule": "SCHEDULED",
+    "stop_id": "51846",
+    "arrival": "N/A",
+    "departure": "08:55 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040869-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "5",
+    "schedule": "SCHEDULED",
+    "stop_id": "51846",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040886-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "5",
+    "schedule": "SCHEDULED",
+    "stop_id": "17902",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040326-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "515",
+    "schedule": "SCHEDULED",
+    "stop_id": "53704",
+    "arrival": "N/A",
+    "departure": "09:25 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040327-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "515",
+    "schedule": "SCHEDULED",
+    "stop_id": "53704",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040330-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "515",
+    "schedule": "SCHEDULED",
+    "stop_id": "655",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040331-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "515",
+    "schedule": "SCHEDULED",
+    "stop_id": "53704",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040349-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "515",
+    "schedule": "SCHEDULED",
+    "stop_id": "56877",
+    "arrival": "N/A",
+    "departure": "09:28 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040388-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "515",
+    "schedule": "SCHEDULED",
+    "stop_id": "41896",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040396-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "515",
+    "schedule": "SCHEDULED",
+    "stop_id": "56877",
+    "arrival": "N/A",
+    "departure": "08:58 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040403-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "515",
+    "schedule": "SCHEDULED",
+    "stop_id": "53704",
+    "arrival": "N/A",
+    "departure": "08:55 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064496-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "534",
+    "schedule": "SCHEDULED",
+    "stop_id": "51824",
+    "arrival": "N/A",
+    "departure": "09:19 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064503-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "534",
+    "schedule": "SCHEDULED",
+    "stop_id": "43623",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27063937-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "538",
+    "schedule": "SCHEDULED",
+    "stop_id": "53704",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27063938-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "538",
+    "schedule": "SCHEDULED",
+    "stop_id": "53704",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27063954-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "538",
+    "schedule": "SCHEDULED",
+    "stop_id": "51790",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27063955-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "538",
+    "schedule": "SCHEDULED",
+    "stop_id": "56880",
+    "arrival": "N/A",
+    "departure": "08:48 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27063960-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "538",
+    "schedule": "SCHEDULED",
+    "stop_id": "56880",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27063962-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "538",
+    "schedule": "SCHEDULED",
+    "stop_id": "56880",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065213-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "539",
+    "schedule": "SCHEDULED",
+    "stop_id": "43675",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065214-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "539",
+    "schedule": "SCHEDULED",
+    "stop_id": "56725",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065215-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "539",
+    "schedule": "SCHEDULED",
+    "stop_id": "56725",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065233-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "539",
+    "schedule": "SCHEDULED",
+    "stop_id": "56880",
+    "arrival": "N/A",
+    "departure": "09:01 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065234-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "539",
+    "schedule": "SCHEDULED",
+    "stop_id": "56880",
+    "arrival": "N/A",
+    "departure": "09:31 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065249-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "539",
+    "schedule": "SCHEDULED",
+    "stop_id": "51823",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102159-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "57418",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102160-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "13107",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102161-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56939",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102162-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56875",
+    "arrival": "N/A",
+    "departure": "09:01 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102163-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56875",
+    "arrival": "N/A",
+    "departure": "09:07 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102164-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56875",
+    "arrival": "N/A",
+    "departure": "09:22 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102165-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56875",
+    "arrival": "N/A",
+    "departure": "09:36 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102166-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56875",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102167-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56875",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102168-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56875",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102169-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56875",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102226-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56939",
+    "arrival": "N/A",
+    "departure": "08:48 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102227-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "11698",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102228-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "12886",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102229-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "42319",
+    "arrival": "N/A",
+    "departure": "09:02 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102231-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "42319",
+    "arrival": "N/A",
+    "departure": "09:32 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102233-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "42319",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102234-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "42319",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102265-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "57419",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102268-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56939",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102269-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102271-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102272-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102273-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102313-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "54",
+    "schedule": "SCHEDULED",
+    "stop_id": "56875",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064100-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "540",
+    "schedule": "SCHEDULED",
+    "stop_id": "42318",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064101-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "540",
+    "schedule": "SCHEDULED",
+    "stop_id": "57099",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064102-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "540",
+    "schedule": "SCHEDULED",
+    "stop_id": "56105",
+    "arrival": "N/A",
+    "departure": "09:12 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064124-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "540",
+    "schedule": "SCHEDULED",
+    "stop_id": "56879",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064131-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "540",
+    "schedule": "SCHEDULED",
+    "stop_id": "56879",
+    "arrival": "N/A",
+    "departure": "09:23 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064146-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "540",
+    "schedule": "SCHEDULED",
+    "stop_id": "2023",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064150-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "540",
+    "schedule": "SCHEDULED",
+    "stop_id": "56105",
+    "arrival": "N/A",
+    "departure": "09:42 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064154-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "540",
+    "schedule": "SCHEDULED",
+    "stop_id": "56879",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064157-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "540",
+    "schedule": "SCHEDULED",
+    "stop_id": "56879",
+    "arrival": "N/A",
+    "departure": "08:54 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064067-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "542",
+    "schedule": "SCHEDULED",
+    "stop_id": "50735",
+    "arrival": "N/A",
+    "departure": "09:06 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064078-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "542",
+    "schedule": "SCHEDULED",
+    "stop_id": "25053",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064086-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "542",
+    "schedule": "SCHEDULED",
+    "stop_id": "56879",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064095-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "542",
+    "schedule": "SCHEDULED",
+    "stop_id": "56879",
+    "arrival": "N/A",
+    "departure": "09:13 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065175-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "546",
+    "schedule": "SCHEDULED",
+    "stop_id": "2073",
+    "arrival": "N/A",
+    "departure": "09:11 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065194-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "546",
+    "schedule": "SCHEDULED",
+    "stop_id": "51824",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565551-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "17927",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565552-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "53068",
+    "arrival": "N/A",
+    "departure": "08:49 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565553-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "53068",
+    "arrival": "N/A",
+    "departure": "09:19 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565555-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "53068",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565556-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "53068",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565583-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "4374",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565585-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "56171",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565586-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "1106",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565587-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "56171",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565588-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "56171",
+    "arrival": "N/A",
+    "departure": "09:15 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565589-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "56171",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565590-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "56171",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565620-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "17944",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565626-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "53703",
+    "arrival": "N/A",
+    "departure": "09:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565627-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "6248",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565628-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "53703",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565629-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "53703",
+    "arrival": "N/A",
+    "departure": "09:15 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565630-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "53703",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565631-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "53703",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565658-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "56554",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565660-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "16130",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565661-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "56554",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565662-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "1321",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565663-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "56554",
+    "arrival": "N/A",
+    "departure": "09:17 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565664-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "56554",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27565694-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "6",
+    "schedule": "SCHEDULED",
+    "stop_id": "1132",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087785-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "11861",
+    "arrival": "N/A",
+    "departure": "08:41 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087786-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "10628",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087787-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "53099",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087788-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "17905",
+    "arrival": "N/A",
+    "departure": "09:12 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087789-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "17905",
+    "arrival": "N/A",
+    "departure": "09:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087790-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "17905",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087791-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "17905",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087815-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "15562",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087816-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "09:40 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087817-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "3980",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087818-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "11837",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087820-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "09:10 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087821-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087822-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "61",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042751-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "612",
+    "schedule": "SCHEDULED",
+    "stop_id": "1316",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042752-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "612",
+    "schedule": "SCHEDULED",
+    "stop_id": "1316",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042753-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "612",
+    "schedule": "SCHEDULED",
+    "stop_id": "1316",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042781-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "612",
+    "schedule": "SCHEDULED",
+    "stop_id": "48213",
+    "arrival": "N/A",
+    "departure": "09:33 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042784-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "612",
+    "schedule": "SCHEDULED",
+    "stop_id": "48213",
+    "arrival": "N/A",
+    "departure": "09:03 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042820-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "612",
+    "schedule": "SCHEDULED",
+    "stop_id": "3571",
+    "arrival": "N/A",
+    "departure": "08:42 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042821-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "612",
+    "schedule": "SCHEDULED",
+    "stop_id": "1316",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065041-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "615",
+    "schedule": "SCHEDULED",
+    "stop_id": "41157",
+    "arrival": "N/A",
+    "departure": "08:51 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065058-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "615",
+    "schedule": "SCHEDULED",
+    "stop_id": "50846",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065064-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "615",
+    "schedule": "SCHEDULED",
+    "stop_id": "3540",
+    "arrival": "N/A",
+    "departure": "08:51 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105670-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "62",
+    "schedule": "SCHEDULED",
+    "stop_id": "49141",
+    "arrival": "N/A",
+    "departure": "09:24 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105671-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "62",
+    "schedule": "SCHEDULED",
+    "stop_id": "328",
+    "arrival": "N/A",
+    "departure": "09:09 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105693-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "62",
+    "schedule": "SCHEDULED",
+    "stop_id": "49141",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105697-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "62",
+    "schedule": "SCHEDULED",
+    "stop_id": "10483",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105707-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "62",
+    "schedule": "SCHEDULED",
+    "stop_id": "49141",
+    "arrival": "N/A",
+    "departure": "08:54 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105720-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "62",
+    "schedule": "SCHEDULED",
+    "stop_id": "256",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105725-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "62",
+    "schedule": "SCHEDULED",
+    "stop_id": "49141",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105726-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "62",
+    "schedule": "SCHEDULED",
+    "stop_id": "328",
+    "arrival": "N/A",
+    "departure": "09:41 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105735-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "62",
+    "schedule": "SCHEDULED",
+    "stop_id": "56164",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105743-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "62",
+    "schedule": "SCHEDULED",
+    "stop_id": "6291",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094597-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "3164",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094598-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "80811",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094599-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "15801",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094607-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "15795",
+    "arrival": "N/A",
+    "departure": "08:55 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094608-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "15795",
+    "arrival": "N/A",
+    "departure": "09:26 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094609-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "15795",
+    "arrival": "N/A",
+    "departure": "09:41 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094675-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "56948",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094677-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "3078",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094678-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "11859",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094679-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "51114",
+    "arrival": "N/A",
+    "departure": "09:05 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094680-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "51114",
+    "arrival": "N/A",
+    "departure": "09:19 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094681-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "51114",
+    "arrival": "N/A",
+    "departure": "09:34 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094702-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "18640",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094708-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "11837",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094709-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "15795",
+    "arrival": "N/A",
+    "departure": "09:11 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094722-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "63",
+    "schedule": "SCHEDULED",
+    "stop_id": "51114",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042601-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "12973",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042602-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "5283",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042603-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52015",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042604-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52015",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042605-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52015",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042607-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "11921",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042608-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52015",
+    "arrival": "N/A",
+    "departure": "09:17 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042609-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52015",
+    "arrival": "N/A",
+    "departure": "09:42 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042610-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52015",
+    "arrival": "N/A",
+    "departure": "09:12 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042611-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52015",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042612-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52015",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042665-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "11797",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042667-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "49748",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042668-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "3905",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042669-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "11838",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042670-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "08:52 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042671-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "09:07 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042672-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "09:22 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042673-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "64",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "09:37 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044172-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "645",
+    "schedule": "SCHEDULED",
+    "stop_id": "52852",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044180-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "645",
+    "schedule": "SCHEDULED",
+    "stop_id": "19332",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044188-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "645",
+    "schedule": "SCHEDULED",
+    "stop_id": "53341",
+    "arrival": "N/A",
+    "departure": "09:12 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044194-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "645",
+    "schedule": "SCHEDULED",
+    "stop_id": "49410",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044195-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "645",
+    "schedule": "SCHEDULED",
+    "stop_id": "53341",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044207-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "645",
+    "schedule": "SCHEDULED",
+    "stop_id": "52852",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104872-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "65",
+    "schedule": "SCHEDULED",
+    "stop_id": "10704",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104877-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "65",
+    "schedule": "SCHEDULED",
+    "stop_id": "5622",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104886-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "65",
+    "schedule": "SCHEDULED",
+    "stop_id": "10680",
+    "arrival": "N/A",
+    "departure": "09:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104897-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "65",
+    "schedule": "SCHEDULED",
+    "stop_id": "52531",
+    "arrival": "N/A",
+    "departure": "09:09 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104915-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "65",
+    "schedule": "SCHEDULED",
+    "stop_id": "10680",
+    "arrival": "N/A",
+    "departure": "09:06 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27104918-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "65",
+    "schedule": "SCHEDULED",
+    "stop_id": "52531",
+    "arrival": "N/A",
+    "departure": "09:40 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27110750-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "67",
+    "schedule": "SCHEDULED",
+    "stop_id": "16558",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27110751-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "67",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "08:55 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27110769-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "67",
+    "schedule": "SCHEDULED",
+    "stop_id": "56099",
+    "arrival": "08:45 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27110787-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "67",
+    "schedule": "SCHEDULED",
+    "stop_id": "15798",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27110788-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "67",
+    "schedule": "SCHEDULED",
+    "stop_id": "56964",
+    "arrival": "N/A",
+    "departure": "09:25 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27110796-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "67",
+    "schedule": "SCHEDULED",
+    "stop_id": "15090",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27110797-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "67",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:25 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27041945-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "673",
+    "schedule": "SCHEDULED",
+    "stop_id": "53319",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105975-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "68",
+    "schedule": "SCHEDULED",
+    "stop_id": "9822",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105976-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "68",
+    "schedule": "SCHEDULED",
+    "stop_id": "9791",
+    "arrival": "N/A",
+    "departure": "09:33 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105981-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "68",
+    "schedule": "SCHEDULED",
+    "stop_id": "9898",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105984-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "68",
+    "schedule": "SCHEDULED",
+    "stop_id": "11904",
+    "arrival": "N/A",
+    "departure": "09:24 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105987-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "68",
+    "schedule": "SCHEDULED",
+    "stop_id": "56096",
+    "arrival": "N/A",
+    "departure": "09:35 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27105989-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "68",
+    "schedule": "SCHEDULED",
+    "stop_id": "18098",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106020-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "68",
+    "schedule": "SCHEDULED",
+    "stop_id": "10028",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106034-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "68",
+    "schedule": "SCHEDULED",
+    "stop_id": "1235",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106035-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "68",
+    "schedule": "SCHEDULED",
+    "stop_id": "9676",
+    "arrival": "N/A",
+    "departure": "08:57 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106036-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "68",
+    "schedule": "SCHEDULED",
+    "stop_id": "9676",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078911-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "695",
+    "schedule": "SCHEDULED",
+    "stop_id": "17780",
+    "arrival": "N/A",
+    "departure": "08:57 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078876-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "698",
+    "schedule": "SCHEDULED",
+    "stop_id": "19332",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078877-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "698",
+    "schedule": "SCHEDULED",
+    "stop_id": "47705",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078879-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "698",
+    "schedule": "SCHEDULED",
+    "stop_id": "57012",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078880-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "698",
+    "schedule": "SCHEDULED",
+    "stop_id": "53082",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078881-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "698",
+    "schedule": "SCHEDULED",
+    "stop_id": "53082",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078882-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "698",
+    "schedule": "SCHEDULED",
+    "stop_id": "53082",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102630-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "17679",
+    "arrival": "N/A",
+    "departure": "09:32 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102636-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "41978",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102638-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "17679",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102647-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "53265",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102652-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "56502",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102653-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "17669",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102656-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "51779",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102668-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "51779",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102674-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "51779",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102677-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "19437",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102678-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "51779",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102687-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "17679",
+    "arrival": "N/A",
+    "departure": "09:02 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27102688-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "7",
+    "schedule": "SCHEDULED",
+    "stop_id": "17679",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064580-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "70",
+    "schedule": "SCHEDULED",
+    "stop_id": "42646",
+    "arrival": "N/A",
+    "departure": "08:49 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064581-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "70",
+    "schedule": "SCHEDULED",
+    "stop_id": "13667",
+    "arrival": "N/A",
+    "departure": "09:21 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064592-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "70",
+    "schedule": "SCHEDULED",
+    "stop_id": "11861",
+    "arrival": "N/A",
+    "departure": "08:42 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064455-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "705",
+    "schedule": "SCHEDULED",
+    "stop_id": "44335",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064462-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "705",
+    "schedule": "SCHEDULED",
+    "stop_id": "52552",
+    "arrival": "N/A",
+    "departure": "09:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064471-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "705",
+    "schedule": "SCHEDULED",
+    "stop_id": "53217",
+    "arrival": "N/A",
+    "departure": "09:35 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064477-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "705",
+    "schedule": "SCHEDULED",
+    "stop_id": "8584",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087906-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "71",
+    "schedule": "SCHEDULED",
+    "stop_id": "51291",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087911-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "71",
+    "schedule": "SCHEDULED",
+    "stop_id": "41241",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087913-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "71",
+    "schedule": "SCHEDULED",
+    "stop_id": "5116",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087914-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "71",
+    "schedule": "SCHEDULED",
+    "stop_id": "9714",
+    "arrival": "N/A",
+    "departure": "08:56 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087936-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "71",
+    "schedule": "SCHEDULED",
+    "stop_id": "51291",
+    "arrival": "N/A",
+    "departure": "09:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087938-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "71",
+    "schedule": "SCHEDULED",
+    "stop_id": "49141",
+    "arrival": "N/A",
+    "departure": "09:19 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087949-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "71",
+    "schedule": "SCHEDULED",
+    "stop_id": "2611",
+    "arrival": "N/A",
+    "departure": "09:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087951-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "71",
+    "schedule": "SCHEDULED",
+    "stop_id": "10061",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087980-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "71",
+    "schedule": "SCHEDULED",
+    "stop_id": "11904",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27087992-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "71",
+    "schedule": "SCHEDULED",
+    "stop_id": "46980",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065144-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "716",
+    "schedule": "SCHEDULED",
+    "stop_id": "8725",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065145-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "716",
+    "schedule": "SCHEDULED",
+    "stop_id": "42247",
+    "arrival": "N/A",
+    "departure": "09:38 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065160-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "716",
+    "schedule": "SCHEDULED",
+    "stop_id": "50154",
+    "arrival": "N/A",
+    "departure": "09:11 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064405-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "717",
+    "schedule": "SCHEDULED",
+    "stop_id": "8472",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064406-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "717",
+    "schedule": "SCHEDULED",
+    "stop_id": "51851",
+    "arrival": "N/A",
+    "departure": "09:28 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064419-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "717",
+    "schedule": "SCHEDULED",
+    "stop_id": "42993",
+    "arrival": "N/A",
+    "departure": "08:55 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044048-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "721",
+    "schedule": "SCHEDULED",
+    "stop_id": "51845",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044065-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "721",
+    "schedule": "SCHEDULED",
+    "stop_id": "9522",
+    "arrival": "N/A",
+    "departure": "08:58 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044072-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "721",
+    "schedule": "SCHEDULED",
+    "stop_id": "9502",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044091-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "721",
+    "schedule": "SCHEDULED",
+    "stop_id": "51845",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044092-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "721",
+    "schedule": "SCHEDULED",
+    "stop_id": "9522",
+    "arrival": "N/A",
+    "departure": "09:28 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044095-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "721",
+    "schedule": "SCHEDULED",
+    "stop_id": "9556",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044107-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "722",
+    "schedule": "SCHEDULED",
+    "stop_id": "48356",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044108-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "722",
+    "schedule": "SCHEDULED",
+    "stop_id": "56827",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044109-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "722",
+    "schedule": "SCHEDULED",
+    "stop_id": "56827",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044139-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "722",
+    "schedule": "SCHEDULED",
+    "stop_id": "53888",
+    "arrival": "N/A",
+    "departure": "09:17 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044141-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "722",
+    "schedule": "SCHEDULED",
+    "stop_id": "17042",
+    "arrival": "N/A",
+    "departure": "08:43 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044142-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "722",
+    "schedule": "SCHEDULED",
+    "stop_id": "11486",
+    "arrival": "N/A",
+    "departure": "09:10 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043925-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "723",
+    "schedule": "SCHEDULED",
+    "stop_id": "8757",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043926-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "723",
+    "schedule": "SCHEDULED",
+    "stop_id": "51845",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043942-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "723",
+    "schedule": "SCHEDULED",
+    "stop_id": "53224",
+    "arrival": "N/A",
+    "departure": "08:57 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043957-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "723",
+    "schedule": "SCHEDULED",
+    "stop_id": "52724",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043958-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "723",
+    "schedule": "SCHEDULED",
+    "stop_id": "53224",
+    "arrival": "N/A",
+    "departure": "09:27 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043967-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "723",
+    "schedule": "SCHEDULED",
+    "stop_id": "51845",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106154-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "51846",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106163-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "42063",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106164-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "51846",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106189-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "53222",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106202-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "9064",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106203-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "53222",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106230-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "53222",
+    "arrival": "08:44 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106231-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "51846",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106232-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "51846",
+    "arrival": "N/A",
+    "departure": "09:15 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106233-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "51846",
+    "arrival": "N/A",
+    "departure": "09:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106258-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "53222",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106259-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "53222",
+    "arrival": "N/A",
+    "departure": "09:15 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27106260-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "724",
+    "schedule": "SCHEDULED",
+    "stop_id": "53222",
+    "arrival": "N/A",
+    "departure": "09:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042454-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "10585",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042456-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "51547",
+    "arrival": "N/A",
+    "departure": "09:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042457-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "51547",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042463-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "57215",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042464-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "11735",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042465-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "51547",
+    "arrival": "N/A",
+    "departure": "09:05 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042466-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "51547",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042467-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "51547",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042468-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "51547",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042473-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "51547",
+    "arrival": "N/A",
+    "departure": "09:22 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042508-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "10359",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042509-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "13667",
+    "arrival": "N/A",
+    "departure": "09:24 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042510-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "13667",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042533-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "12899",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042535-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "4287",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042536-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "5190",
+    "arrival": "N/A",
+    "departure": "09:05 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042537-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "5190",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042546-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "13667",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042547-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "13667",
+    "arrival": "N/A",
+    "departure": "09:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042550-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "74",
+    "schedule": "SCHEDULED",
+    "stop_id": "13667",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078968-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "747",
+    "schedule": "SCHEDULED",
+    "stop_id": "52478",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27109714-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "75",
+    "schedule": "SCHEDULED",
+    "stop_id": "11912",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27109715-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "75",
+    "schedule": "SCHEDULED",
+    "stop_id": "80782",
+    "arrival": "N/A",
+    "departure": "09:24 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27109732-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "75",
+    "schedule": "SCHEDULED",
+    "stop_id": "395",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27109733-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "75",
+    "schedule": "SCHEDULED",
+    "stop_id": "395",
+    "arrival": "N/A",
+    "departure": "09:28 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044377-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "766",
+    "schedule": "SCHEDULED",
+    "stop_id": "17859",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27041914-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "768",
+    "schedule": "SCHEDULED",
+    "stop_id": "53303",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27041918-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "768",
+    "schedule": "SCHEDULED",
+    "stop_id": "53803",
+    "arrival": "N/A",
+    "departure": "08:55 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078947-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "774",
+    "schedule": "SCHEDULED",
+    "stop_id": "52826",
+    "arrival": "08:45 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078948-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "774",
+    "schedule": "SCHEDULED",
+    "stop_id": "19332",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078949-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "774",
+    "schedule": "SCHEDULED",
+    "stop_id": "50404",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078923-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "776",
+    "schedule": "SCHEDULED",
+    "stop_id": "19332",
+    "arrival": "N/A",
+    "departure": "08:49 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042444-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "781",
+    "schedule": "SCHEDULED",
+    "stop_id": "17859",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27042445-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "781",
+    "schedule": "SCHEDULED",
+    "stop_id": "17859",
+    "arrival": "N/A",
+    "departure": "09:04 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044445-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "784",
+    "schedule": "SCHEDULED",
+    "stop_id": "17861",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27044386-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "785",
+    "schedule": "SCHEDULED",
+    "stop_id": "17859",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27078864-MAR25-MVS-SUB-Weekday-01",
+    "route_id": "790",
+    "schedule": "SCHEDULED",
+    "stop_id": "19332",
+    "arrival": "N/A",
+    "departure": "08:53 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064529-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "80",
+    "schedule": "SCHEDULED",
+    "stop_id": "50689",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064557-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "80",
+    "schedule": "SCHEDULED",
+    "stop_id": "49979",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064558-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "80",
+    "schedule": "SCHEDULED",
+    "stop_id": "50689",
+    "arrival": "N/A",
+    "departure": "09:12 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064559-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "80",
+    "schedule": "SCHEDULED",
+    "stop_id": "49979",
+    "arrival": "N/A",
+    "departure": "09:42 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064560-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "80",
+    "schedule": "SCHEDULED",
+    "stop_id": "50689",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064561-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "80",
+    "schedule": "SCHEDULED",
+    "stop_id": "49979",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064564-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "80",
+    "schedule": "SCHEDULED",
+    "stop_id": "49979",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064565-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "80",
+    "schedule": "SCHEDULED",
+    "stop_id": "49979",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064570-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "80",
+    "schedule": "SCHEDULED",
+    "stop_id": "50689",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064571-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "80",
+    "schedule": "SCHEDULED",
+    "stop_id": "50689",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064425-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "801",
+    "schedule": "SCHEDULED",
+    "stop_id": "14592",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064426-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "801",
+    "schedule": "SCHEDULED",
+    "stop_id": "11675",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064427-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "801",
+    "schedule": "SCHEDULED",
+    "stop_id": "52532",
+    "arrival": "N/A",
+    "departure": "09:22 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064428-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "801",
+    "schedule": "SCHEDULED",
+    "stop_id": "11345",
+    "arrival": "N/A",
+    "departure": "09:18 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064209-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "804",
+    "schedule": "SCHEDULED",
+    "stop_id": "14727",
+    "arrival": "N/A",
+    "departure": "09:05 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064216-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "804",
+    "schedule": "SCHEDULED",
+    "stop_id": "49272",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064222-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "804",
+    "schedule": "SCHEDULED",
+    "stop_id": "57169",
+    "arrival": "N/A",
+    "departure": "09:35 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064232-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "804",
+    "schedule": "SCHEDULED",
+    "stop_id": "13977",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065112-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "805",
+    "schedule": "SCHEDULED",
+    "stop_id": "43824",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065113-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "805",
+    "schedule": "SCHEDULED",
+    "stop_id": "56775",
+    "arrival": "N/A",
+    "departure": "09:12 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065125-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "805",
+    "schedule": "SCHEDULED",
+    "stop_id": "57006",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065132-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "805",
+    "schedule": "SCHEDULED",
+    "stop_id": "50716",
+    "arrival": "N/A",
+    "departure": "09:09 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064768-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "83",
+    "schedule": "SCHEDULED",
+    "stop_id": "53758",
+    "arrival": "N/A",
+    "departure": "08:42 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064769-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "83",
+    "schedule": "SCHEDULED",
+    "stop_id": "52530",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064770-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "83",
+    "schedule": "SCHEDULED",
+    "stop_id": "52530",
+    "arrival": "N/A",
+    "departure": "09:17 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064785-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "83",
+    "schedule": "SCHEDULED",
+    "stop_id": "49713",
+    "arrival": "N/A",
+    "departure": "08:41 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064786-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "83",
+    "schedule": "SCHEDULED",
+    "stop_id": "53725",
+    "arrival": "N/A",
+    "departure": "09:32 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064805-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "83",
+    "schedule": "SCHEDULED",
+    "stop_id": "53725",
+    "arrival": "N/A",
+    "departure": "09:02 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064359-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "852",
+    "schedule": "SCHEDULED",
+    "stop_id": "12046",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064365-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "852",
+    "schedule": "SCHEDULED",
+    "stop_id": "42837",
+    "arrival": "N/A",
+    "departure": "09:03 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064371-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "852",
+    "schedule": "SCHEDULED",
+    "stop_id": "10941",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064377-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "852",
+    "schedule": "SCHEDULED",
+    "stop_id": "42622",
+    "arrival": "N/A",
+    "departure": "09:03 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064976-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "87",
+    "schedule": "SCHEDULED",
+    "stop_id": "51892",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065001-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "87",
+    "schedule": "SCHEDULED",
+    "stop_id": "45431",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065007-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "87",
+    "schedule": "SCHEDULED",
+    "stop_id": "18902",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065010-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "87",
+    "schedule": "SCHEDULED",
+    "stop_id": "52531",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065021-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "87",
+    "schedule": "SCHEDULED",
+    "stop_id": "13156",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065022-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "87",
+    "schedule": "SCHEDULED",
+    "stop_id": "52531",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27065027-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "87",
+    "schedule": "SCHEDULED",
+    "stop_id": "51892",
+    "arrival": "N/A",
+    "departure": "09:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27054554-MAR25-MVS-NS-Weekday-01",
+    "route_id": "888",
+    "schedule": "SCHEDULED",
+    "stop_id": "53342",
+    "arrival": "08:49 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086147-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "16478",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086148-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "17907",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086150-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "52552",
+    "arrival": "N/A",
+    "departure": "09:15 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086168-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "53941",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086169-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "51551",
+    "arrival": "N/A",
+    "departure": "09:37 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086170-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "51551",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086191-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "17578",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086201-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "52552",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086202-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "52552",
+    "arrival": "N/A",
+    "departure": "09:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086208-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "51551",
+    "arrival": "N/A",
+    "departure": "09:07 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27086209-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "9",
+    "schedule": "SCHEDULED",
+    "stop_id": "51551",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551639-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "56334",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551641-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "56334",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551642-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "56334",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551644-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "56334",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551692-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "56336",
+    "arrival": "N/A",
+    "departure": "08:52 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551694-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "56334",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551696-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "51412",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551699-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "56334",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551701-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "56334",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551702-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "51417",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551724-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "51430",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551781-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "51433",
+    "arrival": "N/A",
+    "departure": "08:54 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551787-MAR25-RAIL-Weekday-60",
+    "route_id": "901",
+    "schedule": "SCHEDULED",
+    "stop_id": "51424",
+    "arrival": "N/A",
+    "departure": "08:48 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551474-MAR25-RAIL-Weekday-60",
+    "route_id": "902",
+    "schedule": "SCHEDULED",
+    "stop_id": "56041",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551475-MAR25-RAIL-Weekday-60",
+    "route_id": "902",
+    "schedule": "SCHEDULED",
+    "stop_id": "56035",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551476-MAR25-RAIL-Weekday-60",
+    "route_id": "902",
+    "schedule": "SCHEDULED",
+    "stop_id": "56027",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551533-MAR25-RAIL-Weekday-60",
+    "route_id": "902",
+    "schedule": "SCHEDULED",
+    "stop_id": "56017",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551537-MAR25-RAIL-Weekday-60",
+    "route_id": "902",
+    "schedule": "SCHEDULED",
+    "stop_id": "56004",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551539-MAR25-RAIL-Weekday-60",
+    "route_id": "902",
+    "schedule": "SCHEDULED",
+    "stop_id": "51408",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551586-MAR25-RAIL-Weekday-60",
+    "route_id": "902",
+    "schedule": "SCHEDULED",
+    "stop_id": "56026",
+    "arrival": "N/A",
+    "departure": "08:57 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551597-MAR25-RAIL-Weekday-60",
+    "route_id": "902",
+    "schedule": "SCHEDULED",
+    "stop_id": "51423",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27551601-MAR25-RAIL-Weekday-60",
+    "route_id": "902",
+    "schedule": "SCHEDULED",
+    "stop_id": "56008",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27063990-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "903",
+    "schedule": "SCHEDULED",
+    "stop_id": "56511",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27063991-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "903",
+    "schedule": "SCHEDULED",
+    "stop_id": "57285",
+    "arrival": "N/A",
+    "departure": "08:59 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27063992-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "903",
+    "schedule": "SCHEDULED",
+    "stop_id": "57285",
+    "arrival": "N/A",
+    "departure": "09:29 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064025-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "903",
+    "schedule": "SCHEDULED",
+    "stop_id": "48179",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064026-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "903",
+    "schedule": "SCHEDULED",
+    "stop_id": "56874",
+    "arrival": "N/A",
+    "departure": "09:01 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27064030-MAR25-MVS-MTS-Weekday-01",
+    "route_id": "903",
+    "schedule": "SCHEDULED",
+    "stop_id": "56874",
+    "arrival": "N/A",
+    "departure": "09:31 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039383-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "53313",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039384-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "17780",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039385-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "51110",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039386-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "56830",
+    "arrival": "N/A",
+    "departure": "08:49 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039387-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "56830",
+    "arrival": "N/A",
+    "departure": "09:05 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039388-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "56830",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039389-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "56830",
+    "arrival": "N/A",
+    "departure": "09:35 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039469-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "56830",
+    "arrival": "08:49 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039470-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "56884",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039471-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "53543",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039472-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "56800",
+    "arrival": "N/A",
+    "departure": "09:31 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039473-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "56800",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039474-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "56800",
+    "arrival": "N/A",
+    "departure": "09:01 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27039475-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "904",
+    "schedule": "SCHEDULED",
+    "stop_id": "56800",
+    "arrival": "N/A",
+    "departure": "09:16 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098081-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098082-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "3142",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098085-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57440",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098093-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57434",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098124-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57441",
+    "arrival": "N/A",
+    "departure": "08:54 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098126-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57441",
+    "arrival": "N/A",
+    "departure": "09:24 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098127-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57421",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098139-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098141-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "11863",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098156-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57441",
+    "arrival": "N/A",
+    "departure": "09:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098161-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "09:10 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098162-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "09:40 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098174-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57439",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098175-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57441",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098190-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57433",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098194-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57441",
+    "arrival": "N/A",
+    "departure": "09:04 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098195-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57441",
+    "arrival": "N/A",
+    "departure": "09:34 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098219-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "57424",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098220-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "09:00 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098221-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "905",
+    "schedule": "SCHEDULED",
+    "stop_id": "52761",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043368-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "17371",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043369-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "56111",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043370-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "51544",
+    "arrival": "N/A",
+    "departure": "09:39 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043371-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "51544",
+    "arrival": "N/A",
+    "departure": "08:54 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043372-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "51544",
+    "arrival": "N/A",
+    "departure": "09:09 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043373-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "51544",
+    "arrival": "N/A",
+    "departure": "09:24 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043443-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "52531",
+    "arrival": "N/A",
+    "departure": "09:08 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043444-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "80808",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043445-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "56121",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043446-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "52531",
+    "arrival": "N/A",
+    "departure": "08:53 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043448-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "52531",
+    "arrival": "N/A",
+    "departure": "09:23 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27043449-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "921",
+    "schedule": "SCHEDULED",
+    "stop_id": "52531",
+    "arrival": "N/A",
+    "departure": "09:38 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040636-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "56826",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040637-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "11099",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040638-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "17856",
+    "arrival": "N/A",
+    "departure": "08:47 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040639-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "17897",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040640-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "56897",
+    "arrival": "N/A",
+    "departure": "08:56 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040641-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "56897",
+    "arrival": "N/A",
+    "departure": "09:08 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040642-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "56897",
+    "arrival": "N/A",
+    "departure": "09:20 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040643-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "56897",
+    "arrival": "N/A",
+    "departure": "09:32 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040644-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "56897",
+    "arrival": "N/A",
+    "departure": "09:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040731-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "9674",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040732-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "17910",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040733-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "17847",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040734-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "57278",
+    "arrival": "N/A",
+    "departure": "09:06 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040735-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "9087",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040736-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "57278",
+    "arrival": "N/A",
+    "departure": "08:54 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040737-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "57278",
+    "arrival": "N/A",
+    "departure": "09:18 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040739-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "57278",
+    "arrival": "N/A",
+    "departure": "09:30 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27040740-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "923",
+    "schedule": "SCHEDULED",
+    "stop_id": "57278",
+    "arrival": "N/A",
+    "departure": "09:42 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098595-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "9646",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098596-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "8919",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098597-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "17897",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098598-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56923",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098599-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "737",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098600-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "09:13 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098601-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "620",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098602-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098603-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "09:01 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098604-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "09:25 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098605-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098606-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098607-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098608-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098609-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098611-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098612-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098613-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56873",
+    "arrival": "N/A",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098689-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "40472",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098692-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "449",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098694-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "17910",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098695-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56317",
+    "arrival": "N/A",
+    "departure": "08:46 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098696-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56823",
+    "arrival": "N/A",
+    "departure": "09:09 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098697-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56823",
+    "arrival": "N/A",
+    "departure": "09:21 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098698-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "9611",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098699-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56823",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098700-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56823",
+    "arrival": "N/A",
+    "departure": "08:57 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098703-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56823",
+    "arrival": "N/A",
+    "departure": "09:33 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27098704-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "924",
+    "schedule": "SCHEDULED",
+    "stop_id": "56823",
+    "arrival": "N/A",
+    "departure": "09:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094386-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "17894",
+    "arrival": "N/A",
+    "departure": "08:49 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094394-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:14 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094406-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "51200",
+    "arrival": "N/A",
+    "departure": "09:28 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094407-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "18665",
+    "arrival": "N/A",
+    "departure": "08:51 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094409-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "57088",
+    "arrival": "N/A",
+    "departure": "08:50 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094422-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "51200",
+    "arrival": "N/A",
+    "departure": "08:48 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094433-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "17903",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094434-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "08:54 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094442-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "57420",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094443-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "51200",
+    "arrival": "N/A",
+    "departure": "09:08 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27094454-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "94",
+    "schedule": "SCHEDULED",
+    "stop_id": "56100",
+    "arrival": "N/A",
+    "departure": "09:34 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552370-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "56939",
+    "arrival": "N/A",
+    "departure": "08:45 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552371-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "51573",
+    "arrival": "N/A",
+    "departure": "08:48 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552372-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "51573",
+    "arrival": "N/A",
+    "departure": "09:03 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552373-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "51573",
+    "arrival": "N/A",
+    "departure": "09:18 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552374-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "51573",
+    "arrival": "N/A",
+    "departure": "09:33 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552453-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "51573",
+    "arrival": "08:45 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552454-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "57188",
+    "arrival": "N/A",
+    "departure": "08:44 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552455-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "56881",
+    "arrival": "N/A",
+    "departure": "08:49 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552456-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "56881",
+    "arrival": "N/A",
+    "departure": "09:04 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552457-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "56881",
+    "arrival": "N/A",
+    "departure": "09:19 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27552458-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "56881",
+    "arrival": "N/A",
+    "departure": "09:34 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27762587-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "56939",
+    "arrival": "N/A",
+    "departure": "08:48 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27762588-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "56939",
+    "arrival": "N/A",
+    "departure": "09:03 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27762589-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "56939",
+    "arrival": "N/A",
+    "departure": "09:18 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27762590-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "56939",
+    "arrival": "N/A",
+    "departure": "09:33 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27762649-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "56939",
+    "arrival": "08:44 AM",
+    "departure": "N/A",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27762650-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "57188",
+    "arrival": "N/A",
+    "departure": "08:52 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27762651-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "57188",
+    "arrival": "N/A",
+    "departure": "09:07 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27762652-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "57188",
+    "arrival": "N/A",
+    "departure": "09:22 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  },
+  {
+    "trip_id": "27762653-MAR25-MVS-BUS-Weekday-18",
+    "route_id": "991",
+    "schedule": "SCHEDULED",
+    "stop_id": "57188",
+    "arrival": "N/A",
+    "departure": "09:37 AM",
+    "timestamp": "2025-05-13 08:46:01"
+  }
+]
