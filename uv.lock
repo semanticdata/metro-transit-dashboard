@@ -123,18 +123,6 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/3d/55/ed46db9267d2615851bfba3c22b6c0e7f88751efb5d5d1468291935c7f65/gtfs-realtime-bindings-1.0.0.tar.gz", hash = "sha256:2e8ced8904400cc93ab7e8520adb6934cfa601edacc6f593fc2cb4448662bb47", size = 6197 }
 
 [[package]]
-name = "gunicorn"
-version = "23.0.0"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "packaging" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/34/72/9614c465dc206155d93eff0ca20d42e1e35afc533971379482de953521a4/gunicorn-23.0.0.tar.gz", hash = "sha256:f014447a0101dc57e294f6c18ca6b40227a4c90e9bdb586042628030cba004ec", size = 375031 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/cb/7d/6dac2a6e1eba33ee43f318edbed4ff29151a49b5d37f080aad1e6469bca4/gunicorn-23.0.0-py3-none-any.whl", hash = "sha256:ec400d38950de4dfd418cff8328b2c8faed0edb0d517d3394e457c317908ca4d", size = 85029 },
-]
-
-[[package]]
 name = "idna"
 version = "3.10"
 source = { registry = "https://pypi.org/simple" }
@@ -221,7 +209,6 @@ source = { virtual = "." }
 dependencies = [
     { name = "dash" },
     { name = "gtfs-realtime-bindings" },
-    { name = "gunicorn" },
     { name = "numpy" },
     { name = "pandas" },
     { name = "plotly" },
@@ -232,7 +219,6 @@ dependencies = [
 requires-dist = [
     { name = "dash", specifier = ">=3.0.4" },
     { name = "gtfs-realtime-bindings", specifier = ">=1.0.0" },
-    { name = "gunicorn", specifier = ">=23.0.0" },
     { name = "numpy", specifier = ">=2.2.5" },
     { name = "pandas", specifier = ">=2.2.3" },
     { name = "plotly", specifier = ">=6.0.1" },

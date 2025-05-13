@@ -1,6 +1,6 @@
 import sys
 import json
-from api_routes import MetroTransitAPI
+from utils.nextrip_api import MetroTransitAPI
 
 
 def get_all_stops_with_location(route_id):

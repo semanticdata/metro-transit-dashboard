@@ -2,8 +2,8 @@ import dash
 from dash import html, dcc, dash_table
 from dash.dependencies import Input, Output
 
-from api_gtfs import fetch_vehicle_positions, fetch_service_alerts, get_trip_updates
-from api_routes import MetroTransitAPI
+from utils.gtfs_api import fetch_vehicle_positions, fetch_service_alerts, get_trip_updates
+from utils.nextrip_api import MetroTransitAPI
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
