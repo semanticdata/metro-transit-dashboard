@@ -43,16 +43,16 @@ Data is saved in JSON format in the `data` directory with timestamps.
 
 #### Get Route Stops
 
-The `get_route_stops.py` script retrieves detailed information about stops for a specific route:
+The `extract_route_stops.py` script retrieves detailed information about stops for a specific route:
 
 ```shell
-python get_route_stops.py {route_id} {output.json}
+python extract_route_stops.py {route_id} {output.json}
 ```
 
 Example:
 
 ```shell
-python get_route_stops.py 901 blue_line_stops.json
+python extract_route_stops.py 901 blue_line_stops.json
 ```
 
 This generates a JSON file containing:
