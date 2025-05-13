@@ -2,12 +2,8 @@ import dash
 from dash import html, dcc, dash_table
 from dash.dependencies import Input, Output
 
-# Import data fetching functions from other modules
-# These will be used in callbacks later
-from gtfs_trip_updates import get_trip_updates
-from gtfs_service_alerts import fetch_service_alerts
-from gtfs_vehicle_position import fetch_vehicle_positions
-from routes import MetroTransitAPI
+from api_gtfs import fetch_vehicle_positions, fetch_service_alerts, get_trip_updates
+from api_routes import MetroTransitAPI
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
