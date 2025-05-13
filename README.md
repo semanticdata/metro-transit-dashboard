@@ -1,14 +1,70 @@
 # 🚇 Metro Transit Dashboard 🚌
 
-This is a dashboard for the Metro Transit system in Minneapolis/St. Paul, MN.
+A comprehensive dashboard application for monitoring the Metro Transit system in Minneapolis/St. Paul, MN. This project provides real-time tracking of transit vehicles, service alerts, and route information using Metro Transit's GTFS and NexTrip APIs.
 
-## Get Route Stops
+## 🛠️ Installation
+
+```shell
+# Clone the repository
+git clone https://github.com/semanticdata/metro-transit-dashboard.git
+cd metro-transit-dashboard
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+## 📊 Features
+
+- Real-time vehicle tracking
+- Service alerts monitoring
+- Trip updates and schedules
+- Route information and stop locations
+- Interactive maps for transit lines
+
+## 🚀 Usage
+
+### Data Extraction Scripts
+
+#### Extract GTFS Data
+
+The `extract_gtfs_data.py` script fetches real-time data from Metro Transit's GTFS feeds:
+
+```shell
+python extract_gtfs_data.py
+```
+
+This script extracts:
+
+- Vehicle positions (location, speed, route info)
+- Service alerts (delays, detours, disruptions)
+- Trip updates (arrival/departure times)
+
+Data is saved in JSON format in the `data` directory with timestamps.
+
+#### Get Route Stops
+
+The `get_route_stops.py` script retrieves detailed information about stops for a specific route:
 
 ```shell
 python get_route_stops.py {route_id} {output.json}
 ```
 
-## API Reference
+Example:
+
+```shell
+python get_route_stops.py 901 blue_line_stops.json
+```
+
+This generates a JSON file containing:
+
+- Stop locations (latitude/longitude)
+- Stop descriptions
+- Place codes
+- Direction information
+
+## 🔗 API Reference
+
+### Metro Transit APIs
 
 - GTFS Realtime API: <https://svc.metrotransit.org/>
 - Trip Updates feed: <https://svc.metrotransit.org/mtgtfs/tripupdates.pb>
@@ -17,7 +73,9 @@ python get_route_stops.py {route_id} {output.json}
 - NexTrip API Swagger UI: <https://svc.metrotransit.org/swagger/index.html>
 - API Reference: <https://svc.metrotransit.org/swagger/docs/v2/nextrip>
 
-### `/nextrip/{route_id}/{direction_id}/{place_code}`
+### API Endpoints
+
+#### `/nextrip/{route_id}/{direction_id}/{place_code}`
 
 ```json
 {
@@ -56,7 +114,7 @@ python get_route_stops.py {route_id} {output.json}
 }
 ```
 
-### `/nextrip/{stop_id}`
+#### `/nextrip/{stop_id}`
 
 ```json
 {
@@ -95,7 +153,7 @@ python get_route_stops.py {route_id} {output.json}
 }
 ```
 
-### `/nextrip/agencies`
+#### `/nextrip/agencies`
 
 ```json
 [
@@ -106,7 +164,7 @@ python get_route_stops.py {route_id} {output.json}
 ]
 ```
 
-### `/nextrip/directions/{route_id}`
+#### `/nextrip/directions/{route_id}`
 
 ```json
 [
@@ -117,7 +175,7 @@ python get_route_stops.py {route_id} {output.json}
 ]
 ```
 
-### `/nextrip/routes`
+#### `/nextrip/routes`
 
 ```json
 [
@@ -129,7 +187,7 @@ python get_route_stops.py {route_id} {output.json}
 ]
 ```
 
-### `/nextrip/stops/{route_id}/{direction_id}`
+#### `/nextrip/stops/{route_id}/{direction_id}`
 
 ```json
 [
@@ -140,7 +198,7 @@ python get_route_stops.py {route_id} {output.json}
 ]
 ```
 
-### `/nextrip/vehicles/{route_id}`
+#### `/nextrip/vehicles/{route_id}`
 
 ```json
 [
